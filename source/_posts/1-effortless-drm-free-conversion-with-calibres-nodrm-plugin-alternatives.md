@@ -1,7 +1,7 @@
 ---
 title: 1. Effortless DRM-Free Conversion with Calibre's NoDRM Plugin Alternatives
-date: 2024-08-20 11:22:39
-updated: 2024-08-21 10:14:21
+date: 2024-08-20T09:48:41.899Z
+updated: 2024-08-21T09:48:41.899Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff071d26df4ceb26b659a82cf.jpg
@@ -75,6 +75,9 @@ Step 1\. To remove DRM from eBooks, you just need to find your downloaded file a
 
 ![add kindle book to calibre](http://www.epubor.com/images/uppic/add-books-to-calibre-2019.png)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2\. Once the book has been added successfully, DRM will be removed automatically.
 
 ![remove drm with calibre drm removal plugin](http://www.epubor.com/images/uppic/remove-drm-from-kindle-kfx-calibre.png)
@@ -89,14 +92,23 @@ Step 1\. Run Calibre, and find "Preference"-->>Plugins.
 
 ![customize dedrm plugin](http://www.epubor.com/images/uppic/plugin-calibre-2019.png)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2\. Then find "File type plugins"-->>Select " DeDRM (6.6.3) by Apprentice Alf....scripts" and then click on "Customize Plugin". 
 
 ![calibre drm removal plugin](http://www.epubor.com/images/uppic/customize-dedrm-plugin.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3\. A new window will pop up to let you configure your DeDRM. Select "eInk Kindle eBooks" and fill in the kindle serial No. you have remembered at the very begining. Then click on "OK“ button.
 
 ![fill in kindle serial no.](http://www.epubor.com/images/uppic/fill-in-kindle-serial-number.png)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4\. Then go back to the main interface of Calibre and plugin your Kindle device. Find the "Device" option at the top menu and select "Show books in the main memory of the device".
 
 ![load kindle books](http://www.epubor.com/images/uppic/load-kindle-device-books.png) 
@@ -105,10 +117,16 @@ Step 5\. All Kindle books from your device will be loaded in. Select the book yo
 
 ![remove drm from kindle device calibre](http://www.epubor.com/images/uppic/remove-drm-from-kindle-device-calibre.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 This process is a little bit difficult, right? Don't worry, follow the bonus tip to learn [the easiest way to remove Kindle DRM](https://tools.techidaily.com/epubor/products/).
 
 ![](http://www.epubor.com/images/faq.png) Calibre DeDRM not Working Issue
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Q1: DeDRM Kindle not working
 
 A: Calibre Dedrm plugin does not work for kindle kcr ebooks on Mac computer. So please follow the instructions **[how to remove drm from kindle kcr and convert kindle kcr to pdf](https://tools.techidaily.com/epubor/products/)** to older version. Then use Calibre DRM removal plugin to remove Kindle DRM.

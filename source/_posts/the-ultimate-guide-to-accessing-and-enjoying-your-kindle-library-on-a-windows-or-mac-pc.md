@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Accessing and Enjoying Your Kindle Library on a Windows or Mac PC
-date: 2024-08-18 19:50:27
-updated: 2024-08-21 10:52:41
+date: 2024-08-20T09:48:42.534Z
+updated: 2024-08-21T09:48:42.534Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0a46b5b738c8bb20ba9b672f.jpg
@@ -62,6 +62,9 @@ Compared with the eReaders or tablets, computers enablves you to read eBooks in 
 
 In the following parts, I will offer three different methods to read kindle books on PC for your reference.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1\. Read Kindle Books on Kindle Cloud Reader
 
 **Kindle Cloud Reader** is a web-based app developed for reading Kindle books in any compatible web browser on Windows, Mac, Android, or iOS. If you don't want to download the Kindle Reader for PC, reading Kindle books online with Kindle Cloud Reader is a perfect choice. You can just finish your reading on your browser. 
@@ -72,12 +75,18 @@ Visit [Kindle Cloud Reader](https://read.amazon.com/)via your web browser.
 
 ![sign in kindle cloud reader](http://www.epubor.com/images/uppic/sign-in-Kindle-cloud-reader1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 #### Step 2  Read Kindle books with Kindle Cloud Reader.
 
 When you log in your Kindle Cloud Reader, you will go directly to the library. To access kindle ebooks, just double click the book cover to open it. 
 
 ![access kindle cloud library](http://www.epubor.com/images/uppic/kindle-cloud-library.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Key Features of Kindle Cloud Reader
 
 1 If you've never read this book on any other device, you will go to the first page of this book when you open it. Otherwise, you will be asked if you'd like to go to the last location when you were left at other devices. 
@@ -106,6 +115,9 @@ Go to the [Amazon official download page](https://www.amazon.com/kindle-dbs/fd/k
 
 ![register kindle for pc](http://www.epubor.com/images/uppic/register-Kindle-for-pc2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 #### Step 3\. Download kindle book to pc.
 
 When you finish the registration, your Kindle books will be displayed at the library under "All" tab. To download the Kindle books, you can either double click the book cover or right click the book cover, and then tap "Download" to start the downloading. When the book has been downloaded completely, it will be open automatically. And you can also find the download Kindle books under "Downloaded" tab.
@@ -118,6 +130,9 @@ You can just double click the book you want to read under the "Downloaded" tab t
 
 ![kindle for pc reading options](http://www.epubor.com/images/uppic/kindle-for-pc-reading-options.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Can I read non-amazon books on Kindle for PC/Mac?
 
 Yes. Besides reading your own Amazon account Kindle books, you are also [add books to Kindle for PC](https://tools.techidaily.com/epubor/products/) to read them. You need to make sure your non-amazon books are drm-free and kindle app compatible format.
@@ -148,6 +163,10 @@ Now you can add the DRM-free or converted Kindle books to your favorite reader a
 
 ![output formats support by Epubor Ultimate](http://www.epubor.com/images/uppic/reading-with-ade.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 Bonus Tips:  
 
 1\. For reading epub books, you can follow the guide [how to read epub on pc](https://tools.techidaily.com/epubor/products/).
@@ -194,6 +213,9 @@ A: The Cloud Reader doesn't support personal documents. Only items you purchased
 
 A: Sure. If you don't permanently delete your Kindle books from your Amazon account, you can download them later even after deletion.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Final Thoughts
 
 Now I've shared three different methods to read kindle books on Windows PC. You can read kindle books on PC online and offline without any hassle now. However, different people have different reading habits. 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide on Understanding and Working with Kindle KF8 Format
-date: 2024-08-20 23:43:50
-updated: 2024-08-21 12:52:21
+date: 2024-08-20T09:48:42.144Z
+updated: 2024-08-21T09:48:42.144Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfef0031bd8bc1879804e39c8f.jpg
@@ -50,6 +50,9 @@ All books delivered by Amazon in KFX format have DRM encryption. Therefore, you 
 
 If you want to read KFX files with Calibre, you need to strip the DRM from the KFX files and convert their files to Calibre compatible formats. See more information in this article: [How to Open/Read Kindle KFX ebook with Calibre](https://tools.techidaily.com/epubor/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Explanation of the KFX Content
 
 A KFX file is not a sole eBook content file, instead, it contains the Amazon encrypted eBook content, DRM voucher, and metadata describing the book such as the author, title, categories, key words, and number of pages.
@@ -58,16 +61,26 @@ A complete **KFX eBook downloaded via Kindle for PC/Mac** higher than version 1.
 
 ![KFX-Content-via-Kindle-for-PC](http://www.epubor.com/images/uppic/KFX-Content-via-Kindle-for-PC.png)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The files that make up a **KFX eBook downloaded via Kindle eInk device** differ from those comprised of a KFX book downloaded via Kindle for PC/Mac. Under Kindle/Documents, you’ll see a book title with .kfx extension and a folder named after the book title with .sdr extension:
 
 ![kfx-main-container-via-Kindle-device](http://www.epubor.com/images/uppic/kfx-main-container-via-Kindle-device.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![sdr-folder](http://www.epubor.com/images/uppic/sdr-folder.png)
 
 Within the sdr folder, there’s a subfolder called asset, see the contents in the **asset folder** shown in the screenshot below:
 
 ![contents-in-assets-folder](http://www.epubor.com/images/uppic/contents-in-assets-folder.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 As you can see that books in KFX format are usually composed of multiple KFX container files. The entire set of KFX files that make up the book is required for successful DRM removal and format conversion.
 
 ### How to remove KFX DRM and convert KFX to PDF/EPUB/MOBI/AZW3/TXT?
@@ -102,10 +115,16 @@ Click on “eReader or “Kindle” tab, and you’ll see all your Kindle books 
 
 ![decrypt-kfx-via-Kindle-for-PC](http://www.epubor.com/images/uppic/decrypt-kfx-via-Kindle-for-PC.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
  You can see a checkmark and "Decrypted" next to the KFX books you've removed DRM from. Click on "Decrypted", the decrypted file output folder will prompt automatically.
 
 ![decrypted-kfx-output-folder](http://www.epubor.com/images/uppic/decrypted-kfx-output-folder.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 On the bottom part, you can choose the output conversion format, click “Convert to XXX” button, and the program starts to decrypt the books and convert the formats simultaneously. Once the conversion is done, you can see "succeeded" next to the book title.
 
 ![kfx-converted-to-epub](http://www.epubor.com/images/uppic/kfx-converted-to-epub.png)
