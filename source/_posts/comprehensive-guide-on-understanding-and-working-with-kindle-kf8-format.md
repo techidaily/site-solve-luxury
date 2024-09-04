@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide on Understanding and Working with Kindle KF8 Format
-date: 2024-08-25T19:30:27.525Z
-updated: 2024-08-26T19:30:27.525Z
+date: 2024-09-03T22:32:00.170Z
+updated: 2024-09-04T22:32:00.170Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfef0031bd8bc1879804e39c8f.jpg
@@ -51,7 +51,10 @@ All books delivered by Amazon in KFX format have DRM encryption. Therefore, you 
 If you want to read KFX files with Calibre, you need to strip the DRM from the KFX files and convert their files to Calibre compatible formats. See more information in this article: [How to Open/Read Kindle KFX ebook with Calibre](https://tools.techidaily.com/epubor/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Explanation of the KFX Content
 
@@ -61,28 +64,54 @@ A complete **KFX eBook downloaded via Kindle for PC/Mac** higher than version 1.
 
 ![KFX-Content-via-Kindle-for-PC](http://www.epubor.com/images/uppic/KFX-Content-via-Kindle-for-PC.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The files that make up a **KFX eBook downloaded via Kindle eInk device** differ from those comprised of a KFX book downloaded via Kindle for PC/Mac. Under Kindle/Documents, you’ll see a book title with .kfx extension and a folder named after the book title with .sdr extension:
 
 ![kfx-main-container-via-Kindle-device](http://www.epubor.com/images/uppic/kfx-main-container-via-Kindle-device.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![sdr-folder](http://www.epubor.com/images/uppic/sdr-folder.png)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Within the sdr folder, there’s a subfolder called asset, see the contents in the **asset folder** shown in the screenshot below:
 
 ![contents-in-assets-folder](http://www.epubor.com/images/uppic/contents-in-assets-folder.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="1983539">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 As you can see that books in KFX format are usually composed of multiple KFX container files. The entire set of KFX files that make up the book is required for successful DRM removal and format conversion.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to remove KFX DRM and convert KFX to PDF/EPUB/MOBI/AZW3/TXT?
 
 Now we know that all KFX books are encrypted with DRM protection by Amazon. If you want to archive your KFX books, share your purchases to your friends, or read them on any portal device or app freely, you have to remove DRM from the KFX books and convert them to other formats if needed.
@@ -113,18 +142,18 @@ Click on “eReader or “Kindle” tab, and you’ll see all your Kindle books 
 
 ![decrypt-kfx-via-kindle-device](http://www.epubor.com/images/uppic/decrypt-kfx-via-kindle-device.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![decrypt-kfx-via-Kindle-for-PC](http://www.epubor.com/images/uppic/decrypt-kfx-via-Kindle-for-PC.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  You can see a checkmark and "Decrypted" next to the KFX books you've removed DRM from. Click on "Decrypted", the decrypted file output folder will prompt automatically.
 
 ![decrypted-kfx-output-folder](http://www.epubor.com/images/uppic/decrypted-kfx-output-folder.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 On the bottom part, you can choose the output conversion format, click “Convert to XXX” button, and the program starts to decrypt the books and convert the formats simultaneously. Once the conversion is done, you can see "succeeded" next to the book title.
 
 ![kfx-converted-to-epub](http://www.epubor.com/images/uppic/kfx-converted-to-epub.png)

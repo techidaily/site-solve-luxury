@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Accessing and Enjoying Your Kindle Library on a Windows or Mac PC
-date: 2024-08-25T19:31:14.378Z
-updated: 2024-08-26T19:31:14.378Z
+date: 2024-09-03T22:32:00.956Z
+updated: 2024-09-04T22:32:00.956Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/41013bb9d5578181edb6e45a776caec9c659ae0e0a46b5b738c8bb20ba9b672f.jpg
@@ -63,7 +63,10 @@ Compared with the eReaders or tablets, computers enablves you to read eBooks in 
 In the following parts, I will offer three different methods to read kindle books on PC for your reference.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 1\. Read Kindle Books on Kindle Cloud Reader
 
@@ -75,9 +78,6 @@ Visit [Kindle Cloud Reader](https://read.amazon.com/)via your web browser.
 
 ![sign in kindle cloud reader](http://www.epubor.com/images/uppic/sign-in-Kindle-cloud-reader1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 #### Step 2  Read Kindle books with Kindle Cloud Reader.
 
 When you log in your Kindle Cloud Reader, you will go directly to the library. To access kindle ebooks, just double click the book cover to open it. 
@@ -85,7 +85,10 @@ When you log in your Kindle Cloud Reader, you will go directly to the library. T
 ![access kindle cloud library](http://www.epubor.com/images/uppic/kindle-cloud-library.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Key Features of Kindle Cloud Reader
 
@@ -95,12 +98,36 @@ When you log in your Kindle Cloud Reader, you will go directly to the library. T
 
 ![read kindle books with Kindle cloud reader](http://www.epubor.com/images/uppic/reading-kindle-books.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3 Kindle Cloud Reader also allows you to make bookmarks, change font color and background color and so on. 
 
 #### Bottom line
 
 Although Kindle Cloud Reader offers many powerful functions like desktop reading apps, it can meet your basic reading requirements. It is the best Kindle app alternative if you really don't want to download Kindle Reader for PC.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="960" height="540" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2\. How to Read Kindle Books on PC with Kindle App
 
 As the biggest eBook vendor, Amazon also offers kindle reading app for accessing kindle ebooks. Consequently, reading Kindle Books on computer with Kindle PC App becomes the first choice for many ebook lovers. 
@@ -116,7 +143,10 @@ Go to the [Amazon official download page](https://www.amazon.com/kindle-dbs/fd/k
 ![register kindle for pc](http://www.epubor.com/images/uppic/register-Kindle-for-pc2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #### Step 3\. Download kindle book to pc.
 
@@ -130,9 +160,6 @@ You can just double click the book you want to read under the "Downloaded" tab t
 
 ![kindle for pc reading options](http://www.epubor.com/images/uppic/kindle-for-pc-reading-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Can I read non-amazon books on Kindle for PC/Mac?
 
 Yes. Besides reading your own Amazon account Kindle books, you are also [add books to Kindle for PC](https://tools.techidaily.com/epubor/products/) to read them. You need to make sure your non-amazon books are drm-free and kindle app compatible format.
@@ -164,8 +191,10 @@ Now you can add the DRM-free or converted Kindle books to your favorite reader a
 ![output formats support by Epubor Ultimate](http://www.epubor.com/images/uppic/reading-with-ade.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Bonus Tips:  
 
@@ -213,9 +242,6 @@ A: The Cloud Reader doesn't support personal documents. Only items you purchased
 
 A: Sure. If you don't permanently delete your Kindle books from your Amazon account, you can download them later even after deletion.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Final Thoughts
 
 Now I've shared three different methods to read kindle books on Windows PC. You can read kindle books on PC online and offline without any hassle now. However, different people have different reading habits. 
@@ -232,6 +258,12 @@ Download Epubor Ultimate for free:
 
 ![author](http://www.epubor.com/images/uppic/iris.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Iris Yan](https://www.facebook.com/iris.yan.16718) has been a passionate member of Epubor since 2017\. Her mission is to enhance your ebook reading experience by sharing insightful tips and tricks. Join her on a journey towards reading excellence today!
 
 SHARING IS GREAT!

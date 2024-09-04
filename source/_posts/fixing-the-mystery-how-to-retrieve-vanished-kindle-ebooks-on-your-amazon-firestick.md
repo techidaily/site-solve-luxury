@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Mystery: How to Retrieve Vanished Kindle Ebooks on Your Amazon Firestick"
-date: 2024-08-25T19:30:32.042Z
-updated: 2024-08-26T19:30:32.042Z
+date: 2024-09-03T22:32:00.261Z
+updated: 2024-09-04T22:32:00.261Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a1219d74867c43320f3c0faf48e.jpg
@@ -59,23 +59,19 @@ Wait for your Fire Tablet to finish syncing. The Sync icon stops spinning.
 
 ![Fire-Tablet-Sync](http://www.epubor.com/images/uppic/Fire-Tablet-Sync.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then go to Amazon “Manage Your Content and Devices” webpage in a browser.  
 Select “Settings”.  
 Scroll down and turn ON “Device Synchronization (Whispersync Settings)”.
 
 ![Device-Synchronization](http://www.epubor.com/images/uppic/Device-Synchronization.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 Tip: Please note that the above workaround is not a permanent fix and can’t be applied to all user’s cases, but you can at least have a try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Workaround 3: Factory reset
 
@@ -91,8 +87,20 @@ Tap “Reset” to confirm.
 
 ![Reset-to-Factory-Defaults](http://www.epubor.com/images/uppic/Reset-to-Factory-Defaults.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Factory-reset-comfirm](http://www.epubor.com/images/uppic/Factory-reset-comfirm.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tip: Please consider factory reset as a last-ditch attempt when any other solution or workaround fails to solve the problem. 
 
 ### Fix: Uninstall Amazon apps from Google Play Store & turn off auto-updates
@@ -102,7 +110,10 @@ Here comes the ultimate solution to such glitches. After studying hundreds of si
 ![Play-Store-on Fire-Tablet](http://www.epubor.com/images/uppic/Play-Store-on Fire-Tablet.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Given the fact stated above, an easy fix is to **uninstall Google Play Store** from your Fire Tablet.  
 Go to “Settings **\-->** Applications **\-->** Manage All Applications **\-->** Third-Party Applications **\-->** Find “Google Play Store” **\-->** Uninstall it.
@@ -110,7 +121,10 @@ Go to “Settings **\-->** Applications **\-->** Manage All Applications **\-->*
 ![uninstall-Play-Store-from-Fire-Tablet](http://www.epubor.com/images/uppic/uninstall-Play-Store-from-Fire-Tablet.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 If you’re a Goolge fan and you’re obsessed with converting everything into Google like, then I bet you’re reluctant to uninstall Play Store from your Fire Tablet. In this case, you can _**uninstall Amazon apps from Google Play Store and turn off “Auto-update apps” from Play Store**_.
 
@@ -123,6 +137,18 @@ Generally apps you installed from Google Play Store will download updates automa
 
 ![auto-app-update-google-play](http://www.epubor.com/images/uppic/auto-app-update-google-play.png)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After you doing so, please reboot your Fire Tablet, re-download your Kindle books and monitor whether they’ll disappear again. Good news is that hundreds of users report the issue never reoccur since they adopt the fix we provided. Their books remain intact in their Fire Tablet even when they set it to charge overnight.
 
 If you have any issues or inquiries, please leave a comment below. Plus, I highly recommend you to install the best eBook DRM removal and converter – _[Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/)_ to read DRM protected files any where!
@@ -144,9 +170,6 @@ Suggested reading
 
 ![author](http://www.epubor.com/images/uppic/Sisi.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Sisi Liu](https://www.facebook.com/sisi.liu.737) Sisi is a newbie who joined Epubor in November 2017\. She's a bookworm her whole life and has taken great interest in eBooks recently. She learns professional knowledge about ebooks in Epubor and loves to share her know-how to all the ebook lovers!
 
 SHARING IS GREAT!

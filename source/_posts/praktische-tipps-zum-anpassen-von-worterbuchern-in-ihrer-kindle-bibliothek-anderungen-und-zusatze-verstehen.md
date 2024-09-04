@@ -1,7 +1,7 @@
 ---
 title: "Praktische Tipps Zum Anpassen Von Wörterbüchern in Ihrer Kindle-Bibliothek: Änderungen Und Zusätze Verstehen"
-date: 2024-08-25T19:31:04.550Z
-updated: 2024-08-26T19:31:04.550Z
+date: 2024-09-03T22:32:00.767Z
+updated: 2024-09-04T22:32:00.767Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391dec23043dea2f82d9170e773.jpg
@@ -43,10 +43,6 @@ Jeder Kindle-Benutzer sollte ein USB-Kabel haben, das sich in der Verpackung bef
 
 Damit sind alle Arbeitsschritte auf dem Computer beendet. Die folgende Aufgabe besteht darin, die Wörterbuchdatei auf dem Kindle zum Laufen zu bringen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Ändern Sie das Standard-Kindle-Wörterbuch
 
 Die verschiedene Kindle-Generationen benötigen unterschiedliche Einstellungen. Bitte orientieren Sie sich an der nachfolgende Liste:
@@ -66,37 +62,45 @@ Da ich aktuell einen Kindle Paperwhite benutze, werde ich den Kindle Paperwhite 
 ![kindle dictionary screen](https://www.epubor.com/images/kindle-dictionary-screen.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Drücken Sie die "Dictionaries" -Option, und wir können das Standard-Kindle-Wörterbuch - "Oxford Dictionary of English" sehen.
 
 ![default Kindle dictionary](https://www.epubor.com/images/default-kindle-dic.png)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Durch Antippen können wir das primäre Wörterbuch ändern. Wie der Bildschirm unten zeigt, ist "Oxford Dictionary of English" standardmäßig ausgewählt und wir müssen zu "collins3" wechseln, das kürzlich von mir importiert wurde.
 
 ![change primary dictionary](https://www.epubor.com/images/change-primary-dictionary.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Zurück auf dem vorherigen Bildschirm können wir sehen, dass das Standardwörterbuch für Englisch geändert wurde.
 
 ![change default dictionary](https://www.epubor.com/images/change-kindle-default-dictionary.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jetzt überprüfen wir das Ergebnis.
 
 ![download kindle dictionary](https://www.epubor.com/images/download-kindle-dictionary.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ein fremdsprachiges Wörterbuch zum Kindle hinzufügen
 
 Dies ist kein Problem! Die Schritte sind dem oben genannten ziemlich ähnlich. Angenommen, ich lese ein Buch auf Französisch, also brauche ich ein französisch-englisches Wörterbuch.
@@ -105,13 +109,16 @@ Zuerst müssen wir eine Französisch-Englisch-Wörterbuchdatei herunterladen und
 
 ![foreign-language-dictionary-for-kindle](https://www.epubor.com/images/foreign-language-dictionary-for-kindle.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dann öffne ich ein französisches Buch, tippe auf und halte ein Wort markiert, dessen Definition ich nicht kenne und sehe, was passiert.
 
 ![add foreign dictionary to kindle](https://www.epubor.com/images/add-foreign-dictionary-to-kindle.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Verwandte Lesungen
 
 * [How to add fonts to Kindle Paperwhite](https://tools.techidaily.com/epubor/products/)
@@ -119,6 +126,12 @@ Verwandte Lesungen
 
 ![author](http://www.epubor.com/images/uppic/author-dan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Angel Dan](http://www.epubor.com/mailto:epubor.muzhi1989@gmail.com) has covered software online marketing for more than 10 years. She joined Epubor since 2013, covering content writing, affiliate marketing, global brand expansion, video marketing, and business development.
 
 SHARING IS GREAT!
