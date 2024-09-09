@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Mystery: How to Retrieve Vanished Kindle Ebooks on Your Amazon Firestick"
-date: 2024-09-03T22:32:00.261Z
-updated: 2024-09-04T22:32:00.261Z
+date: 2024-09-08T23:26:25.390Z
+updated: 2024-09-09T23:26:25.390Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a1219d74867c43320f3c0faf48e.jpg
@@ -19,12 +19,24 @@ Posted by [Sisi Liu](https://www.facebook.com/sisi.liu.737) on 1/22/2018 5:23:27
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Have you ever encountered the glitch that your **ebooks disappear from your Kindle Fire tablet**? Recently I've noticed more and more users report the similar issues in [Amazon's Fire Tablet Forum](https://www.amazonforum.com/forums/devices/fire-tablets). After searching and trying tons of possible solutions or workarounds mentioned in Tech Forum, your issue still persists, you must be at your wit's end to find out the root cause and the **real workable solution**.
 
 Let me picture a scenario that you may experience. You charge your Fire Tablet every night and the next morning you find your devices tries to set up the Kindle app like it is brand new and all your Kindle books including Audible audiobooks disappear from the “Downloaded” section for no apparent reason. The glitch happens each time you set your Fire Tablet to charge overnight while still on. Sometimes you find your books and personal documents vanish when you exit Kindle app and do something else like watching video or listening to music on your Fire tablet. It must drive you nuts that makes you almost impossible to read books on your Fire flawlessly.
 
 ![Fire-HD-10-on-charge](http://www.epubor.com/images/uppic/Fire-HD-10-on-charge.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Workaround 1\. Update Fire OS version](https://tools.techidaily.com/epubor/products/)  
 [Workaround 2\. Sync your Fire Tablet and reboot](https://tools.techidaily.com/epubor/products/)  
 [Workaround 3\. Factory reset](https://tools.techidaily.com/epubor/products/)  
@@ -42,6 +54,12 @@ Tap “Check Now/Update”.
 
 ![Fire-Tablet-Settings](http://www.epubor.com/images/uppic/Fire-Tablet-Settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fire-System-Update](http://www.epubor.com/images/uppic/Fire-System-Update.png)
 
 Tip: This is only a workaround and doesn’t work for all users. Sometimes by trying updating Fire OS, the issue is fixed at one time, but it repeats later. 
@@ -67,12 +85,6 @@ Scroll down and turn ON “Device Synchronization (Whispersync Settings)”.
 
 Tip: Please note that the above workaround is not a permanent fix and can’t be applied to all user’s cases, but you can at least have a try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Workaround 3: Factory reset
 
 When consulting with Amazon customer service representatives, most of them will recommend you to do a factory reset. If you’re out of ideas, you can listen to their suggestion and reset your Fire tablet to factory default.
@@ -88,21 +100,27 @@ Tap “Reset” to confirm.
 ![Reset-to-Factory-Defaults](http://www.epubor.com/images/uppic/Reset-to-Factory-Defaults.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Factory-reset-comfirm](http://www.epubor.com/images/uppic/Factory-reset-comfirm.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tip: Please consider factory reset as a last-ditch attempt when any other solution or workaround fails to solve the problem. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix: Uninstall Amazon apps from Google Play Store & turn off auto-updates
 
 Here comes the ultimate solution to such glitches. After studying hundreds of similar cases recently, we’ve found out the root cause is that Google Play is not designed to work with Amazon’s ecosystem. Google and Amazon are incompatible with each other. Fire Tablets are bound to Amazon tightly. If you force install the unsupported Google Play Store on Fire Tablets, the unexpected issues arise inevitably. 
@@ -110,10 +128,10 @@ Here comes the ultimate solution to such glitches. After studying hundreds of si
 ![Play-Store-on Fire-Tablet](http://www.epubor.com/images/uppic/Play-Store-on Fire-Tablet.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Given the fact stated above, an easy fix is to **uninstall Google Play Store** from your Fire Tablet.  
 Go to “Settings **\-->** Applications **\-->** Manage All Applications **\-->** Third-Party Applications **\-->** Find “Google Play Store” **\-->** Uninstall it.
@@ -121,10 +139,10 @@ Go to “Settings **\-->** Applications **\-->** Manage All Applications **\-->*
 ![uninstall-Play-Store-from-Fire-Tablet](http://www.epubor.com/images/uppic/uninstall-Play-Store-from-Fire-Tablet.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 If you’re a Goolge fan and you’re obsessed with converting everything into Google like, then I bet you’re reluctant to uninstall Play Store from your Fire Tablet. In this case, you can _**uninstall Amazon apps from Google Play Store and turn off “Auto-update apps” from Play Store**_.
 
@@ -137,18 +155,6 @@ Generally apps you installed from Google Play Store will download updates automa
 
 ![auto-app-update-google-play](http://www.epubor.com/images/uppic/auto-app-update-google-play.png)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After you doing so, please reboot your Fire Tablet, re-download your Kindle books and monitor whether they’ll disappear again. Good news is that hundreds of users report the issue never reoccur since they adopt the fix we provided. Their books remain intact in their Fire Tablet even when they set it to charge overnight.
 
 If you have any issues or inquiries, please leave a comment below. Plus, I highly recommend you to install the best eBook DRM removal and converter – _[Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/)_ to read DRM protected files any where!
@@ -170,6 +176,12 @@ Suggested reading
 
 ![author](http://www.epubor.com/images/uppic/Sisi.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Sisi Liu](https://www.facebook.com/sisi.liu.737) Sisi is a newbie who joined Epubor in November 2017\. She's a bookworm her whole life and has taken great interest in eBooks recently. She learns professional knowledge about ebooks in Epubor and loves to share her know-how to all the ebook lovers!
 
 SHARING IS GREAT!
