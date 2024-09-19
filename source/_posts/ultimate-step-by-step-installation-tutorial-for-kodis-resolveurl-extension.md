@@ -1,7 +1,7 @@
 ---
 title: Ultimate Step-by-Step Installation Tutorial for Kodi's ResolveURL Extension
-date: 2024-09-08 23:49:34
-updated: 2024-09-11 12:55:20
+date: 2024-09-17T16:08:55.814Z
+updated: 2024-09-19T01:24:34.106Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66d038be493fc55f20cd91a70.jpg
@@ -68,6 +68,19 @@ Launch **Free HD Video Converter Factory** after downloading and installing it o
 
 ![Audio Converter WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-1-mobi.webp) 
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Select MP3 as the Output Format
 
 Press the format icon on the right side of the interface to open the output format library. Go to the “**Audio**” tab and select “**MP3**”. You can also choose to convert WMA to other popular formats here.  
@@ -108,6 +121,13 @@ Step 4: Select the WMA file, click the “**File**” menu and select “**Conve
 
 ![Convert WMA Files to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-5-mobi.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. VLC Media Player (All Systems)
 
 Another desktop WMA to MP3 free converter is VLC. VLC is an open-source media player that you can use both on Windows and iTunes. If you have downloaded VLC on your PC, you can use it to convert WMA to MP3 with a few clicks. Or you can download it now with this link: https://www.videolan.org/vlc/. Below is the step-by-step tutorial about VLC convert WMA to MP3.
@@ -115,6 +135,13 @@ Another desktop WMA to MP3 free converter is VLC. VLC is an open-source media pl
 ![VLC Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-6.webp) 
 
 ![VLC Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-6-mobi.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 1: Open VLC media player, go to “**Media**” > “**Convert/Save**” in the menu bar, you can also directly press the shortcut key “**Ctrl+R**”.  
 Step 2: Hit the “**\+ Add**” button to import the WMA files and press the “**Convert/Save**” button below.  
@@ -178,6 +205,13 @@ Similar Articles
 
 ![WonderFox HD Video Converter Factory Pro](https://www.videoconverterfactory.com/tips/imgs-self/box-hdpro-l.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enjoy More Functions with the Pro version of Free HD Video Converter
 
 WonderFox HD Video Converter Factory Pro
@@ -193,13 +227,18 @@ WonderFox HD Video Converter Factory Pro
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png "Back to Top")](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -207,3 +246,19 @@ WonderFox HD Video Converter Factory Pro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-google-ar-stickers-innovation-and-comparison-to-other-offerings/"><u>[New] In 2024, Google AR Stickers Innovation and Comparison to Other Offerings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-apowersoft-unpacked-in-depth-review-and-comparisons-required/"><u>[Updated] 2024 Approved Apowersoft Unpacked In-Depth Review & Comparisons Required</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726028159603-dat/"><u>「最新オープンソースのDATファイル再生ツールをご紹介 - 優れた使い心地で楽しむ方法」</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-digital-desktop-text-adventures-await/"><u>Five Digital, Desktop Text-Adventures Await</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-turn-off-high-contrast-mode-on-windows/"><u>How to Turn Off High Contrast Mode on Windows</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726028165286-tiktokpc/"><u>TikTokビデオのカスタマイズ：PCによる編集方法」</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-5-free-mp3-editors-for-windows-11-users-effortless-audio-trimming/"><u>Top 5 Free MP3 Editors for Windows 11 Users: Effortless Audio Trimming</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-rated-multimedia-players-for-immersive-360-videos-on-any-device-windows-mac-mobile/"><u>Top Rated Multimedia Players for Immersive 360 Videos on Any Device (Windows, Mac, Mobile)</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-choosing-the-best-m4a-file-players-on-desktops-and-mobile-devices/"><u>Ultimate Guide: Choosing the Best M4A File Players on Desktops & Mobile Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-installing-canon-pro-t-100-drivers-on-your-windows-pc-in-minutes/"><u>Ultimate Guide: Installing Canon PRO T 100 Drivers on Your Windows PC in Minutes</u></a></li>
+</ul></div>
+
