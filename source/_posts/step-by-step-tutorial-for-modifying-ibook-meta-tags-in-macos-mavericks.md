@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Modifying iBook Meta Tags in macOS Mavericks
-date: 2024-09-15T19:47:08.245Z
-updated: 2024-09-19T02:07:17.035Z
+date: 2024-09-20T17:44:34.462Z
+updated: 2024-09-23T16:07:18.666Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef26ea2cde0e10ae3ca9b9c9f6.jpg
@@ -19,6 +19,13 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 1
 
 Dated back to the WWDC 2013, when Apple announced iBooks would be an independent application in the OS X 10.9 Mavericks, all the iBooks lovers are exciting about the coming iBooks for Mac app. Finally the day came, but I heard much noise among the cheers. A lot of people think the iBooks for Mac sucks, because it doesn't allow people to edit the metadata.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### People can't edit eBooks metadata in iBooks for Mac
 
 Some people may even don't know what is metadata, to put it simply, metadata is the ID card for an eBook, like the cover, title, author name, publisher name, etc.
@@ -28,6 +35,13 @@ For those people who purchase eBooks from iBooks Store only, they might feel the
 When the iBooks was only a child-column in iTunes, we can right click on an item then click "Get Info" to edit a book's metadata just like modifying a song's ID3 tag information.
 
 ![edit-ebook-meta-data-itunes](http://www.epubor.com/images/edit-ebook-meta-data-itunes.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 But with iBooks for Mac in Mavericks, you only get this when right clicking on a book.
 
@@ -47,6 +61,13 @@ First we import the book into Calibre.
 
 From the image above we can see that the cover of the book _A DANCE WITH DRAGONS_ is missing, which is a pretty typical case where we need to edit the metadata to add cover.![edit-metadata-in-calibre](http://www.epubor.com/images/edit-metadata-in-calibre.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Right click on the book title, choose "Edit metadata", then "Edit metadata individually".
 
 ![](http://www.epubor.com/images/edit-metadata-for-ibooks-for-mac.png)
@@ -63,16 +84,16 @@ No matter that we are adding cover or modifying the names, **converting the book
 
 So the last step is to convert the book to EPUB, even this file is already an EPUB file.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Load the modified book into iBooks for Mac
 
 ![edit-metadata-in-ibooks-for-mac-mavericks](http://www.epubor.com/images/edit-metadata-in-ibooks-for-mac-mavericks.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Find the converted file in Calibre's library and drag it into iBooks for Mac. Now we can see the book displayed in iBooks for Mac with the gorgeous cover.
 
@@ -85,13 +106,6 @@ Related Readings
 * [Best 4 iBooks for Mac Alternatives](https://tools.techidaily.com/epubor/products/)
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -398,21 +412,15 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-8-srt-translators-the-ultimate-budget-friendly-guide/"><u>[New] 2024 Approved Top 8 SRT Translators – The Ultimate Budget-Friendly Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-secure-your-cash-ranking-safe-and-effective-posts-for-2024/"><u>[New] Secure Your Cash Ranking Safe & Effective Posts for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-pioneering-screen-capture-methods-with-adobe-captivity-unveiled/"><u>[Updated] 2024 Approved Pioneering Screen Capture Methods with Adobe Captivity Unveiled</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1-top-ranked-dvd-to-hdtv-converters-for-microsoft-windows-users-a-comprehensive-guide/"><u>1. Top-Ranked DVD to HDTV Converters for Microsoft Windows Users: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-zero-30-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Zero 30 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ogg-4/"><u>OGGファイル音量変更 使用する4つの効果的な手順</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/playing-dvd-movies-smoothly-on-toshiba-laptops-a-comprehensive-walkthrough/"><u>Playing DVD Movies Smoothly on Toshiba Laptops - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/reshaping-your-videos-mastering-the-art-of-altering-aspect-ratios-in-vlc-media-player/"><u>Reshaping Your Videos: Mastering the Art of Altering Aspect Ratios in VLC Media Player</u></a></li>
-<li><a href="https://techtrends.techidaily.com/sequencing-success-the-best-order-for-viewing-transformers-cinematic-universe/"><u>Sequencing Success: The Best Order for Viewing Transformers Cinematic Universe</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/simple-steps-for-implementing-closed-captioning-in-your-videos/"><u>Simple Steps for Implementing Closed Captioning in Your Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tailoring-twitter-video-thumbnails-a-step-by-step-guide/"><u>Tailoring Twitter Video Thumbnails A Step-by-Step Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-3-no-cost-video-transcription-tools-streamline-caption-creation-effortlessly/"><u>Top 3 No-Cost Video Transcription Tools: Streamline Caption Creation Effortlessly</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/understanding-wmv-format-a-comprehensive-guide-on-opening-wmv-files/"><u>Understanding WMV Format: A Comprehensive Guide on Opening WMV Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-a-step-by-step-approach-to-scheduling-in-slack-plus-filmora/"><u>[New] In 2024, A Step-by-Step Approach to Scheduling in Slack + Filmora</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-conquer-small-screen-navigate-through-these-best-free-and-online-downloader-tools/"><u>[Updated] Conquer Small Screen Navigate Through These Best Free & Online Downloader Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-the-power-of-online-cricket-broadcasts/"><u>[Updated] Unleashing the Power of Online Cricket Broadcasts</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/2024youtube10/"><u>【最新推薦】2024年に使いたい！YouTubeコンテンツをどう録画？上位10アプリ紹介</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/2024mp4youtube/"><u>2024年に必見！強力なMP4変換無料ツールを紹介：YouTube動画の最適化スイッチアップ</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/57az57aa55qe44gq44ot44oh44kqlplusocouodiplusodoeodvooctplusodpplusodsplusobqowfsewtmoobmeocipluswpjummsuakgoihkplusocroocpoodiq/"><u>継続的なビデオ/アニメーションと共存する収録技術ガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/complete-troubleshooting-steps-for-resolving-instagram-cannot-upload-videos-problem/"><u>Complete Troubleshooting Steps for Resolving 'Instagram Cannot Upload Videos' Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-boot-options-menu-in-windows-10-solved/"><u>How to Access Boot Options Menu in Windows 10 [Solved]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/no-money-down-best-free-video-chat-platforms-for-2024/"><u>No Money Down? Best Free Video Chat Platforms for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/youtube4/"><u>YouTube動画のスクリーンショット取り方4つの専門的テクニック</u></a></li>
 </ul></div>
 

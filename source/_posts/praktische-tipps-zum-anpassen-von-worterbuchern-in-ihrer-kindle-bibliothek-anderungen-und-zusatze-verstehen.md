@@ -1,7 +1,7 @@
 ---
 title: "Praktische Tipps Zum Anpassen Von Wörterbüchern in Ihrer Kindle-Bibliothek: Änderungen Und Zusätze Verstehen"
-date: 2024-09-14T01:19:26.805Z
-updated: 2024-09-18T18:54:53.597Z
+date: 2024-09-18T17:10:42.769Z
+updated: 2024-09-23T16:25:20.977Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391dec23043dea2f82d9170e773.jpg
@@ -33,9 +33,29 @@ Jeder Kindle-Benutzer sollte ein USB-Kabel haben, das sich in der Verpackung bef
 
 ![plug kindle to computer](https://www.epubor.com/images/plug-kindle-to-computer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3 Kopieren Sie die Wörterbuchdatei in den Ordner "dictionaries"
 
 ![copy dictionary to kindle folder](https://www.epubor.com/images/copy-dictionary-to-kindle-folder.png)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4 Werfen Sie den Kindle aus (Sicheres entfernen von USB Geräten) und entfernen Sie das USB-Kabel
 
@@ -59,6 +79,13 @@ Da ich aktuell einen Kindle Paperwhite benutze, werde ich den Kindle Paperwhite 
 
 ![kindle dictionary screen](https://www.epubor.com/images/kindle-dictionary-screen.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Drücken Sie die "Dictionaries" -Option, und wir können das Standard-Kindle-Wörterbuch - "Oxford Dictionary of English" sehen.
 
 ![default Kindle dictionary](https://www.epubor.com/images/default-kindle-dic.png)
@@ -75,6 +102,13 @@ Jetzt überprüfen wir das Ergebnis.
 
 ![download kindle dictionary](https://www.epubor.com/images/download-kindle-dictionary.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ein fremdsprachiges Wörterbuch zum Kindle hinzufügen
 
 Dies ist kein Problem! Die Schritte sind dem oben genannten ziemlich ähnlich. Angenommen, ich lese ein Buch auf Französisch, also brauche ich ein französisch-englisches Wörterbuch.
@@ -83,28 +117,15 @@ Zuerst müssen wir eine Französisch-Englisch-Wörterbuchdatei herunterladen und
 
 ![foreign-language-dictionary-for-kindle](https://www.epubor.com/images/foreign-language-dictionary-for-kindle.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dann öffne ich ein französisches Buch, tippe auf und halte ein Wort markiert, dessen Definition ich nicht kenne und sehe, was passiert.
 
 ![add foreign dictionary to kindle](https://www.epubor.com/images/add-foreign-dictionary-to-kindle.png)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Verwandte Lesungen
@@ -171,20 +192,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeos-no-money-solution-easy-editing-basics-for-2024/"><u>[New] Vimeo's No-Money Solution Easy Editing Basics for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-digital-depositories-customized-alert-sounds-for-2024/"><u>[New] Top Digital Depositories Customized Alert Sounds for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-top-ranked-dvd-to-hdtv-converters-for-microsoft-windows-users-a-comprehensive-guide/"><u>1. Top-Ranked DVD to HDTV Converters for Microsoft Windows Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hiding-unwanted-elements-with-smart-filters-ps/"><u>2024 Approved Hiding Unwanted Elements with Smart Filters PS</u></a></li>
 <li><a href="https://solve-luxury.techidaily.com/complete-tutorial-for-editing-videos-using-windows-nx-whats-new/"><u>Complete Tutorial for Editing Videos Using Windows nX – What's New</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cross-platform-mixmaster-2023-for-2024/"><u>Cross-Platform MixMaster 2023 for 2024</u></a></li>
 <li><a href="https://solve-luxury.techidaily.com/effortless-tutorial-on-embedding-photos-as-video-overlays-for-brand-protection/"><u>Effortless Tutorial on Embedding Photos as Video Overlays for Brand Protection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-functional-microphone-in-windows-10-step-by-step-guide/"><u>Fixing a Non-Functional Microphone in Windows 10: Step-by-Step Guide</u></a></li>
 <li><a href="https://solve-luxury.techidaily.com/free-ways-to-transform-ogg-files-into-m4a-format-with-ease/"><u>Free Ways to Transform OGG Files Into M4A Format with Ease</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-screen-mirroring-failures-on-windows-10-devices/"><u>How to Fix Screen Mirroring Failures on Windows 10 Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v10-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.0 file when manual method fails</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-11-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 11 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-dissecting-the-social-media-landscape-the-case-of-triller-and-tiktok/"><u>In 2024, Dissecting the Social Media Landscape The Case of Triller & TikTok</u></a></li>
 <li><a href="https://solve-luxury.techidaily.com/overcoming-issues-with-aiff-file-compatibility-on-a-windows-machine/"><u>Overcoming Issues with AIFF File Compatibility on a Windows Machine</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-urdu-skills-just-10-minsday/"><u>Quick Urdu Skills, Just 10 Mins/Day!</u></a></li>
 <li><a href="https://solve-luxury.techidaily.com/simple-guide-to-burning-and-playing-avi-files-on-your-dvd-drive/"><u>Simple Guide to Burning and Playing AVI Files on Your DVD Drive</u></a></li>
 <li><a href="https://solve-luxury.techidaily.com/step-by-step-tutorial-on-enhancing-vro-videos-with-leading-conversion-tools/"><u>Step-by-Step Tutorial on Enhancing VRO Videos with Leading Conversion Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/supercharging-instagram-videos-on-the-go-mobile/"><u>Supercharging Instagram Videos on the Go (Mobile)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-guide-and-analysis/"><u>Tom's Tech Reviews: Comprehensive Guide & Analysis</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-eco-friendly-filming-tech-mastery-guide-for-2024/"><u>Top Eco-Friendly Filming Tech Mastery Guide for 2024</u></a></li>
 <li><a href="https://solve-luxury.techidaily.com/ultimate-guide-to-upscaling-videos-achieving-1080p-resolution-and-60fps/"><u>Ultimate Guide to Upscaling Videos: Achieving 1080P Resolution and 60Fps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-user-manual-removing-sound-enhancement-settings-completely/"><u>Windows 10 User Manual - Removing Sound Enhancement Settings Completely</u></a></li>
-<li><a href="https://facebook.techidaily.com/yearly-summary-the-hottest-podcasts-reviewed-and-rated/"><u>Yearly Summary: The Hottest Podcasts Reviewed & Rated</u></a></li>
 </ul></div>
 
