@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide on Understanding and Working with Kindle KF8 Format
-date: 2024-09-17T16:52:25.663Z
-updated: 2024-09-23T16:40:12.878Z
+date: 2024-09-24T06:21:54.484Z
+updated: 2024-09-28T06:59:34.554Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfef0031bd8bc1879804e39c8f.jpg
@@ -25,10 +25,10 @@ KFX is the latest Amazon Kindle format which was released with Kindle Paperwhite
 [4\. How to remove KFX DRM and convert convert KFX to PDF/EPUB/MOBI/AZW3/TXT?](https://tools.techidaily.com/epubor/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New features of KFX format
@@ -38,6 +38,13 @@ Many of you may wonder what features the KFX format possesses. The new format is
 In the past many Kindle book have been criticized by the typesetting problems such as the awkward spacing between words and lack of hyphens. The new KFX format improves text justification and automatically adjusts margins and layout to better fit the screen with large font sizes. It improves word spacing, hyphenation, and character placement. Other additions include soft hyphens, page flip, kerning, drop caps, the new image format with higher compression called JXR, and the new artistry Bookerly font. Bookerly, the Kindle-exclusive font, emulates the style of the best fonts in modern print books while providing great readability on digital screens of all sizes.
 
 ![KFX-features](http://www.epubor.com/images/uppic/KFX-features.png) ![bookerly-font](http://www.epubor.com/images/uppic/bookerly-font.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Not all Kindle books delivered by Amazon use the new KFX format. Then how to identify whether a Kindle title uses the new KFX format? Well, you can check on the book’s description page at Amazon and see a new label that shows if the Enhanced Typesetting is enabled. You can take a look at the highlighted part in the screenshot as shown below:
 
@@ -63,23 +70,9 @@ A complete **KFX eBook downloaded via Kindle for PC/Mac** higher than version 1.
 
 ![KFX-Content-via-Kindle-for-PC](http://www.epubor.com/images/uppic/KFX-Content-via-Kindle-for-PC.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The files that make up a **KFX eBook downloaded via Kindle eInk device** differ from those comprised of a KFX book downloaded via Kindle for PC/Mac. Under Kindle/Documents, you’ll see a book title with .kfx extension and a folder named after the book title with .sdr extension:
 
 ![kfx-main-container-via-Kindle-device](http://www.epubor.com/images/uppic/kfx-main-container-via-Kindle-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![sdr-folder](http://www.epubor.com/images/uppic/sdr-folder.png)
 
@@ -87,7 +80,21 @@ Within the sdr folder, there’s a subfolder called asset, see the contents in t
 
 ![contents-in-assets-folder](http://www.epubor.com/images/uppic/contents-in-assets-folder.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see that books in KFX format are usually composed of multiple KFX container files. The entire set of KFX files that make up the book is required for successful DRM removal and format conversion.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to remove KFX DRM and convert KFX to PDF/EPUB/MOBI/AZW3/TXT?
 
@@ -96,13 +103,6 @@ Now we know that all KFX books are encrypted with DRM protection by Amazon. If y
 [Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/) is the only tool out there to remove DRM from KFX files directly without installing any plug-in or downgrading the version of Kindle for PC/Mac. It’s easy to operate and handle your KFX files efficiently.
 
 ![epubor-ultimate-logo](http://www.epubor.com/images/uppic/epubor-ultimate-logo.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To ensure the successful DRM removal and format conversion, please don’t relocate the path that stores the KFX files. You must keep the entire KFX files that make up the eBook intact. Any file or subfolder is missing will lead to failure of DRM removal or format conversion.
 
@@ -126,13 +126,6 @@ Click on “eReader or “Kindle” tab, and you’ll see all your Kindle books 
 
 ![decrypt-kfx-via-kindle-device](http://www.epubor.com/images/uppic/decrypt-kfx-via-kindle-device.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![decrypt-kfx-via-Kindle-for-PC](http://www.epubor.com/images/uppic/decrypt-kfx-via-Kindle-for-PC.png)
 
  You can see a checkmark and "Decrypted" next to the KFX books you've removed DRM from. Click on "Decrypted", the decrypted file output folder will prompt automatically.
@@ -140,15 +133,28 @@ Click on “eReader or “Kindle” tab, and you’ll see all your Kindle books 
 ![decrypted-kfx-output-folder](http://www.epubor.com/images/uppic/decrypted-kfx-output-folder.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 On the bottom part, you can choose the output conversion format, click “Convert to XXX” button, and the program starts to decrypt the books and convert the formats simultaneously. Once the conversion is done, you can see "succeeded" next to the book title.
 
 ![kfx-converted-to-epub](http://www.epubor.com/images/uppic/kfx-converted-to-epub.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Heads up**: Please ensure the KFX books are purchased via your own Amazon account and downloaded via Kindle e-ink device or Kindle for PC/MAC installed on your computer. The books must be associated with your Amazon account. Loaned books or books obtained from other sources cannot be supported by the program.
 
@@ -207,5 +213,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-7-tips-for-capturing-live-online-classes-gratis-for-2024/"><u>[Updated] 7 Tips for Capturing Live Online Classes Gratis for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-av1-your-initial-compre-point/"><u>[Updated] Understanding AV1 Your Initial Compre Point</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726028159603-dat/"><u>「最新オープンソースのDATファイル再生ツールをご紹介 - 優れた使い心地で楽しむ方法」</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-cease-automatic-footage-collection-qt/"><u>2024 Approved Cease Automatic Footage Collection QT</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/aac-vs-dts-optimal-sound-quality-and-quick-tricks-for-format-switching/"><u>AAC Vs. DTS: Optimal Sound Quality & Quick Tricks for Format Switching</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/beginners-guide-optimize-your-editing-skills-with-a-user-friendly-real-time-60fps-video-editor-on-windows-11/"><u>Beginner's Guide: Optimize Your Editing Skills with a User-Friendly, Real-Time 60Fps Video Editor on Windows 11</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/converting-video-formats-effortlessly-how-to-change-mov-to-lossless-flac-soundtracks/"><u>Converting Video Formats Effortlessly - How to Change MOV to Lossless FLAC Soundtracks</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-discovering-6-premium-apps-master-linkedin-video-downloads/"><u>In 2024, Discovering 6 Premium Apps Master LinkedIn Video Downloads</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-journey-through-animated-expression-your-guide-to-snapface-magic/"><u>In 2024, Journey Through Animated Expression Your Guide to Snapface Magic</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-leading-the-pack-in-instagram-content-crafting-puzzle-feeds/"><u>In 2024, Leading the Pack in Instagram Content Crafting Puzzle Feeds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-to-professional-streams-selecting-from-the-best-9-filters/"><u>In 2024, Secrets to Professional Streams Selecting From the Best 9 Filters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-success-starts-here-best-tutorials-for-starters/"><u>In 2024, YouTube Success Starts Here Best Tutorials for Starters</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726028165286-tiktokpc/"><u>TikTokビデオのカスタマイズ：PCによる編集方法」</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-choosing-the-best-m4a-file-players-on-desktops-and-mobile-devices/"><u>Ultimate Guide: Choosing the Best M4A File Players on Desktops & Mobile Devices</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/44k544kr44or44o844ob44oj44oz44on44or44gu55wq57we44ks6kiy6yyy44gx44gm44gk44gn44gf44ge77ya5b6p5pen5pa55rov/"><u>スカパーチャンネルの番組を記録しておきたい：復旧方法</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/2024and/"><u>ビデオ編集強化ツール: 2024年新機能付きソフト&アプリで色調整を完璧に！</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Praktische Tipps Zum Anpassen Von Wörterbüchern in Ihrer Kindle-Bibliothek: Änderungen Und Zusätze Verstehen"
-date: 2024-09-18T17:10:42.769Z
-updated: 2024-09-23T16:25:20.977Z
+date: 2024-09-22T19:26:38.134Z
+updated: 2024-09-27T22:48:44.247Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391dec23043dea2f82d9170e773.jpg
@@ -33,29 +33,9 @@ Jeder Kindle-Benutzer sollte ein USB-Kabel haben, das sich in der Verpackung bef
 
 ![plug kindle to computer](https://www.epubor.com/images/plug-kindle-to-computer.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3 Kopieren Sie die Wörterbuchdatei in den Ordner "dictionaries"
 
 ![copy dictionary to kindle folder](https://www.epubor.com/images/copy-dictionary-to-kindle-folder.png)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4 Werfen Sie den Kindle aus (Sicheres entfernen von USB Geräten) und entfernen Sie das USB-Kabel
 
@@ -80,10 +60,10 @@ Da ich aktuell einen Kindle Paperwhite benutze, werde ich den Kindle Paperwhite 
 ![kindle dictionary screen](https://www.epubor.com/images/kindle-dictionary-screen.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Drücken Sie die "Dictionaries" -Option, und wir können das Standard-Kindle-Wörterbuch - "Oxford Dictionary of English" sehen.
@@ -103,10 +83,17 @@ Jetzt überprüfen wir das Ergebnis.
 ![download kindle dictionary](https://www.epubor.com/images/download-kindle-dictionary.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ein fremdsprachiges Wörterbuch zum Kindle hinzufügen
@@ -117,16 +104,16 @@ Zuerst müssen wir eine Französisch-Englisch-Wörterbuchdatei herunterladen und
 
 ![foreign-language-dictionary-for-kindle](https://www.epubor.com/images/foreign-language-dictionary-for-kindle.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dann öffne ich ein französisches Buch, tippe auf und halte ein Wort markiert, dessen Definition ich nicht kenne und sehe, was passiert.
 
 ![add foreign dictionary to kindle](https://www.epubor.com/images/add-foreign-dictionary-to-kindle.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Verwandte Lesungen
 
@@ -134,6 +121,13 @@ Verwandte Lesungen
 * [How to change Kindle Paperwhite screensaver](https://tools.techidaily.com/epubor/products/)
 
 ![author](http://www.epubor.com/images/uppic/author-dan.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Angel Dan](http://www.epubor.com/mailto:epubor.muzhi1989@gmail.com) has covered software online marketing for more than 10 years. She joined Epubor since 2013, covering content writing, affiliate marketing, global brand expansion, video marketing, and business development.
 
@@ -190,5 +184,22 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://solve-luxury.techidaily.com/5yuv55s744gl44kj44k144km44oz44oj44ks5yplusw44kk5ye644gx44cb6zplusz5aow57eo6zug5oml6acg44ks44kk44oj/"><u>動画からサウンドを取り出し、音声編集手順ガイド</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/aviwebm/"><u>高品質保持によるAVIからWebMへの変換手順</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/complete-walkthrough-for-adding-mp3-streaming-add-on-to-kodi-leia-edition/"><u>Complete Walkthrough for Adding MP3 Streaming Add-On to Kodi (Leia Edition)</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-conversion-techniques-for-camrec-videos-to-widely-used-codecs-like-avi/"><u>Easy Conversion Techniques for CAMREC Videos to Widely Used Codecs Like AVI</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-steps-to-edit-your-videos-to-match-whatsapps-video-specifications/"><u>Easy Steps to Edit Your Videos to Match WhatsApp's Video Specifications</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-convert-mp4-audio-tracks-into-mp3-with-realplayer-and-troubleshooting-tips-for-common-issues/"><u>How to Convert MP4 Audio Tracks Into MP3 with RealPlayer and Troubleshooting Tips for Common Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-infinix-smart-8-hd-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Infinix Smart 8 HD to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-synchronization-woes-heres-what-to-do/"><u>ICloud Synchronization Woes? Here's What To Do</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/master-the-art-of-editing-cutting-down-youtube-content-using-simple-yet-effective-strategies/"><u>Master the Art of Editing: Cutting Down YouTube Content Using Simple Yet Effective Strategies.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revamp-your-zoom-experience-seamless-desktop-update-tips-for-pc-and-mac-users/"><u>Revamp Your Zoom Experience - Seamless Desktop Update Tips for PC & MAC Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-your-screen-on-windows-11-and-mac-os-x/"><u>Step-by-Step Guide: Capturing Your Screen on Windows 11 and Mac OS X</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-of-the-best-10-webcam-recording-programs-for-windows-10/"><u>Updated In 2024, Best of the Best 10 Webcam Recording Programs for Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webmwindows/"><u>WebM動画パック作成のためのWindowsマニュアル</u></a></li>
+</ul></div>
 
