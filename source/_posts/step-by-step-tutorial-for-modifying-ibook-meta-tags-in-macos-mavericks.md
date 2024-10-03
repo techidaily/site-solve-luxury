@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Modifying iBook Meta Tags in macOS Mavericks
-date: 2024-09-24T03:16:07.287Z
-updated: 2024-09-28T00:35:59.793Z
+date: 2024-09-28T19:22:15.583Z
+updated: 2024-10-03T11:29:36.340Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef26ea2cde0e10ae3ca9b9c9f6.jpg
@@ -18,6 +18,13 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 1
 ![follow](http://www.epubor.com/images/follow.png)
 
 Dated back to the WWDC 2013, when Apple announced iBooks would be an independent application in the OS X 10.9 Mavericks, all the iBooks lovers are exciting about the coming iBooks for Mac app. Finally the day came, but I heard much noise among the cheers. A lot of people think the iBooks for Mac sucks, because it doesn't allow people to edit the metadata.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### People can't edit eBooks metadata in iBooks for Mac
 
@@ -37,6 +44,13 @@ Sad story, feels like we are using a lite edition of iBooks, isn't it?
 
 The reason that iBooks enables people to edit the meta date is pretty obvious-- they don't want people to use iBooks to read downloaded books, but only the books purchased from iBooks Store.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Edit metadata with Calibre for Mac
 
 Although editing metadata with iBooks is impossible, it doesn't mean this is the end of the story. With another software, Calibre for Mac, we can edit book's metadata then load the book into iBooks for Mac app.
@@ -45,29 +59,22 @@ First we import the book into Calibre.
 
 ![ibooks without cover](http://www.epubor.com/images/ibooks-without-cover.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 From the image above we can see that the cover of the book _A DANCE WITH DRAGONS_ is missing, which is a pretty typical case where we need to edit the metadata to add cover.![edit-metadata-in-calibre](http://www.epubor.com/images/edit-metadata-in-calibre.png)
 
 Right click on the book title, choose "Edit metadata", then "Edit metadata individually".
 
 ![](http://www.epubor.com/images/edit-metadata-for-ibooks-for-mac.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this window we can customize almost all the important metadata. In this case I need to add a cover to the book, so I click "Browse" in "Change cover" area. If you want to make it simple, just directly click "Download cover", and Calibre will search the cover from internet and add it for you.
 
 ![cover-added-by-calibre](http://www.epubor.com/images/cover-added-by-calibre.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After finding the cover image, click "OK" to confirm. Then you can see the cover in Calibre now.
 
@@ -78,10 +85,10 @@ No matter that we are adding cover or modifying the names, **converting the book
 So the last step is to convert the book to EPUB, even this file is already an EPUB file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Load the modified book into iBooks for Mac
@@ -99,13 +106,6 @@ Related Readings
 * [Best 4 iBooks for Mac Alternatives](https://tools.techidaily.com/epubor/products/)
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -412,21 +412,24 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-enhance-your-content-creation-with-these-top-12-cameras/"><u>[New] 2024 Approved Enhance Your Content Creation with These Top 12 Cameras</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-tips-for-inserting-captions-in-youtube-videos/"><u>[Updated] 2024 Approved Tips for Inserting Captions in YouTube Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-essential-guide-to-8-best-free-and-paid-videomosaic-tools-on-android/"><u>[Updated] In 2024, The Essential Guide to #8 Best Free & Paid Videomosaic Tools on Android</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-nurturing-audience-growth-mastering-live-streaming-with-onestream/"><u>[Updated] Nurturing Audience Growth Mastering Live Streaming with OneStream</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/a-detailed-review-of-camstudio-screencapture/"><u>A Detailed Review of CamStudio ScreenCapture</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-testing-the-rca-video-doorbell-cameras-that-surpass-expectations/"><u>Comprehensive Testing: The RCA Video Doorbell Cameras That Surpass Expectations</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/discover-the-greatest-free-mpeg-2-media-players-available-for-pc-users/"><u>Discover the Greatest Free MPEG-2 Media Players Available for PC Users</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/easy-tutorial-mastering-the-art-of-dvd-writing-with-windows-td-7-software-solutions/"><u>Easy Tutorial: Mastering the Art of DVD Writing with Windows T'd 7 Software Solutions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-transformation-turn-videos-into-sequential-images-with-wonderfox/"><u>Effortless Transformation: Turn Videos Into Sequential Images with WonderFox</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-video-compilation-the-perfect-technique-for-integrating-several-wmv-clips-together/"><u>Effortless Video Compilation: The Perfect Technique for Integrating Several WMV Clips Together</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-itel-p55plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Itel P55+ FRP Bypass</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mp4-youtube-mov/"><u>MP4ファイル変換 - YouTubeで人気! MOVやその他形式への完全ガイド</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-access-to-lexar-usb-drive-drivers-download-here/"><u>Speedy Access to Lexar USB Drive Drivers - Download Here</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-crafting-m3u-playlists-in-your-pcs-media-player/"><u>Step-by-Step Guide: Crafting M3U Playlists in Your PC's Media Player</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-5-free-mp3-editors-for-windows-11-users-effortless-audio-trimming/"><u>Top 5 Free MP3 Editors for Windows 11 Users: Effortless Audio Trimming</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-smart-devices-in-2e-a-comprehensive-list/"><u>Top-Rated Smart Devices in 2E: A Comprehensive List</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-step-by-step-enhancing-photos-with-cropping-tools/"><u>[New] 2024 Approved Step-by-Step Enhancing Photos with Cropping Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-image-makeovers-on-the-house-for-2024/"><u>[Updated] Channel Image Makeovers on the House for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mp3web7/"><u>「インスタレーション不要」MP3同期・複合Webサイト上位7選び - 最新音楽体験</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-quick-corrections-for-iphone-shot-blur-issues/"><u>2024 Approved Quick Corrections for iPhone Shot Blur Issues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/5-outstanding-racing-simulations-for-gamers/"><u>5 Outstanding Racing Simulations for Gamers</u></a></li>
+<li><a href="https://solve-info.techidaily.com/abbyy-launches-innovative-intelligent-automation-engineering-hub-in-lithuania/"><u>ABBYY Launches Innovative Intelligent Automation Engineering Hub in Lithuania</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-guide-transforming-wmvwrf-files-into-high-quality-mp4-videos-using-top-video-converters/"><u>Easy Guide: Transforming WMV/WRF Files Into High-Quality MP4 Videos Using Top Video Converters</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-steps-to-watch-dvd-movies-on-your-samsung-smart-tv-without-a-hitch/"><u>Easy Steps to Watch DVD Movies on Your Samsung Smart TV Without a Hitch</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-transformation-the-best-3-techniques-to-change-avi-into-mp3-format/"><u>Effortless Transformation: The Best 3 Techniques to Change AVI Into MP3 Format</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/high-quality-video-communication-ranking-the-top-10-mobile-apps-for-2024/"><u>High-Quality Video Communication Ranking the Top 10 Mobile Apps for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-gt-neo-5-se-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme GT Neo 5 SE Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-following-paths-those-whove-left-instagram/"><u>In 2024, Following Paths Those Who've Left Instagram</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/is-it-possible-to-capture-sound-with-the-snipping-tool-in-windows-comprehensive-guide/"><u>Is It Possible to Capture Sound with the Snipping Tool in Windows? Comprehensive Guide!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/master-video-recording-on-your-desktop-with-fraps-or-explore-superior-alternatives-today/"><u>Master Video Recording on Your Desktop with Fraps or Explore Superior Alternatives Today!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mp4avi-5/"><u>MP4からAVIへ簡単な方法を覚えよう - 最新オンライン変換ツールベスト5選！ | ソフトウェアのインストール不要</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mpeg-audio-m4a-android/"><u>MPEG Audio (M4A) 再生テクニックを学ぶ: Androidスマートフォン用ガイド</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-future-of-windows-10-top-five-strategies-to-consider-before-support-concludes-next-year-zdnet-insights/"><u>Navigating the Future of Windows 10: Top Five Strategies to Consider Before Support Concludes Next Year | ZDNet Insights</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-tutorial-on-easily-transforming-aac-media-into-mp4-for-streamlined-playback/"><u>Step-by-Step Tutorial on Easily Transforming AAC Media Into MP4 for Streamlined Playback</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-art-of-flipping-photo-shades/"><u>Unveiling the Art of Flipping Photo Shades</u></a></li>
 </ul></div>
 

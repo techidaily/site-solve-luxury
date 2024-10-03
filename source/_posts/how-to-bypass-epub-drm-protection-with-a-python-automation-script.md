@@ -1,7 +1,7 @@
 ---
 title: How to Bypass EPUB DRM Protection with a Python Automation Script
-date: 2024-09-24T21:47:55.364Z
-updated: 2024-09-28T03:43:23.416Z
+date: 2024-09-30T21:40:10.958Z
+updated: 2024-10-02T21:14:35.606Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406cf2fae44c9a446c53d02efdc.jpg
@@ -23,13 +23,6 @@ Since we're going to remove EPUB DRM with python script rar, let's learn somethi
 
 Now follow me to remove EPUB DRM using python script rar. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Firstly, get tools ready
 
 1Download [python script rar](https://www.epubor.com/images/remote/D4/1D/D41D8C%5FRemove-ePub-drm-use-python-script.rar). This file includes: Python 2.6.2, Pycrpto for WinXP, ineptkey.pyw and inepteput.pyw. If you don't adopt Windows XP, you need to download Bython 2.6 here: <https://www.python.org/downloads/> and download matched Pycrpto at >this website.
@@ -37,10 +30,10 @@ Now follow me to remove EPUB DRM using python script rar.
 2Download [ineptepub.pyw](https://gitlab.com/ApprenticeAlf/DeDRM/blob/8b632e309fe4901bf0f21f404d2d3091fe7851da/Adobe%5FEPUB%5FTools/ineptepub.pyw) and ineptkey.pyw. Then place them into a same directory. (Rename your .pyw.txt file as .pyw.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Secondly, remove EPUB DRM use python script rar.
@@ -51,9 +44,23 @@ After you get tools ready, here we come to detailed steps about how to remove EP
 
 ![key successfully retrieved to adeptkey.der](http://www.epubor.com/images/uppic/Key- successfully-retrieved-to-adeptkey.der .jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Adeptkey.der covers all the EPUB DRM keys file.
 
 ![adeptkey.der](http://www.epubor.com/images/uppic/adeptkey.der.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** As soon as you run ineptepub.pyw, it will pop up the following window for you to remove EPUB DRM.
 
@@ -65,19 +72,6 @@ Hit on the "..." icon to select the input path containing your EPUB books. Usual
 
 ![select input path containing EPUB books](http://www.epubor.com/images/uppic/select-input-path-containing-your-DRM-EPUB-books.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Select output path**
 
 Also hit on the "..." icon to choose a output path. 
@@ -85,13 +79,6 @@ Also hit on the "..." icon to choose a output path.
 ![choose output path](http://www.epubor.com/images/uppic/choose-output-path.jpg)
 
 After you have everything set, click "Decrypt whole directory" to start removing DRM from EPUB books. You can find your decrypted EPUB books in the preset output path. 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why we need to remove EPUB DRM
 
@@ -111,6 +98,13 @@ Related Articles
 * [How to Convert DRM Protected EPUB to Mobi](https://tools.techidaily.com/epubor/products/)
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
@@ -153,16 +147,24 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-instagram-guide-for-curating-and-sharing-podcasts/"><u>[New] 2024 Approved The Instagram Guide for Curating and Sharing Podcasts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-perfecting-youtube-videos-through-enhancement-tips/"><u>[New] In 2024, Perfecting YouTube Videos Through Enhancement Tips</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1726028159603-dat/"><u>「最新オープンソースのDATファイル再生ツールをご紹介 - 優れた使い心地で楽しむ方法」</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-12-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 12 mini When Its Locked Within Seconds</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/enhance-your-mobile-calls-with-these-top-10-safe-and-free-chat-applications-for-iosandroid-for-2024/"><u>Enhance Your Mobile Calls with These Top 10 Safe & Free Chat Applications for iOS/Android for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-8-tools-for-subtitle-srt-format-switching/"><u>Leading 8 Tools for Subtitle-SRT Format Switching</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1726028165286-tiktokpc/"><u>TikTokビデオのカスタマイズ：PCによる編集方法」</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-creative-overlays-for-video-content/"><u>Top 10 Creative Overlays for Video Content</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-5-free-mp3-editors-for-windows-11-users-effortless-audio-trimming/"><u>Top 5 Free MP3 Editors for Windows 11 Users: Effortless Audio Trimming</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-rated-multimedia-players-for-immersive-360-videos-on-any-device-windows-mac-mobile/"><u>Top Rated Multimedia Players for Immersive 360 Videos on Any Device (Windows, Mac, Mobile)</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-choosing-the-best-m4a-file-players-on-desktops-and-mobile-devices/"><u>Ultimate Guide: Choosing the Best M4A File Players on Desktops & Mobile Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-innovative-recording-solutions-for-dynamic-ppts-webcam-edition/"><u>[New] In 2024, Innovative Recording Solutions for Dynamic PPTs, Webcam Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unleash-your-potential-become-a-broadcasting-pro-on-instagram-using-obs/"><u>[Updated] 2024 Approved Unleash Your Potential Become a Broadcasting Pro on Instagram Using OBS</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mp3web7/"><u>「インスタレーション不要」MP3同期・複合Webサイト上位7選び - 最新音楽体験</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1-ultimate-guide-capturing-quality-sound-in-your-discord-streams-using-both-mic-and-device/"><u>1. Ultimate Guide: Capturing Quality Sound in Your Discord Streams Using Both Mic and Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mac-dvd-to-youtube-converter-dvdyoutubeflvmp4mp3/"><u>無料Mac DVD to YouTube Converter - 高品質DVDをYouTube、FLV、MP4、MP3に簡単変換</u></a></li>
+<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-itel-p40-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Itel P40 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/disabling-facebook-apps-browsing-function/"><u>Disabling Facebook App's Browsing Function</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-steps-to-watch-dvd-movies-on-your-samsung-smart-tv-without-a-hitch/"><u>Easy Steps to Watch DVD Movies on Your Samsung Smart TV Without a Hitch</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-transformation-the-best-3-techniques-to-change-avi-into-mp3-format/"><u>Effortless Transformation: The Best 3 Techniques to Change AVI Into MP3 Format</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-15-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 15 Pro Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-pinnacle-endgame-total-vr-encompassment/"><u>In 2024, Pinnacle Endgame Total VR Encompassment</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/is-it-possible-to-capture-sound-with-the-snipping-tool-in-windows-comprehensive-guide/"><u>Is It Possible to Capture Sound with the Snipping Tool in Windows? Comprehensive Guide!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/master-video-recording-on-your-desktop-with-fraps-or-explore-superior-alternatives-today/"><u>Master Video Recording on Your Desktop with Fraps or Explore Superior Alternatives Today!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mp4avi-5/"><u>MP4からAVIへ簡単な方法を覚えよう - 最新オンライン変換ツールベスト5選！ | ソフトウェアのインストール不要</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mpeg-audio-m4a-android/"><u>MPEG Audio (M4A) 再生テクニックを学ぶ: Androidスマートフォン用ガイド</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-resolving-final-cut-pro-x-freezing-and-crashing-issues-2023-update/"><u>New 2024 Approved Resolving Final Cut Pro X Freezing and Crashing Issues (2023 Update)</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-tutorial-on-easily-transforming-aac-media-into-mp4-for-streamlined-playback/"><u>Step-by-Step Tutorial on Easily Transforming AAC Media Into MP4 for Streamlined Playback</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/the-comprehensive-walkthrough-for-seamless-downloads-expert-strategies-and-insider-knowledge-to-get-content-from-mixdrop-instantly/"><u>The Comprehensive Walkthrough for Seamless Downloads - Expert Strategies and Insider Knowledge to Get Content From MixDrop Instantly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-clever-design-detailed-review-of-twelve-souths-bookbook-v2-case/"><u>Unveiling the Clever Design: Detailed Review of Twelve South's BookBook V2 Case</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Praktische Tipps Zum Anpassen Von Wörterbüchern in Ihrer Kindle-Bibliothek: Änderungen Und Zusätze Verstehen"
-date: 2024-09-22T19:26:38.134Z
-updated: 2024-09-27T22:48:44.247Z
+date: 2024-09-25T16:59:53.129Z
+updated: 2024-10-03T06:04:03.511Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391dec23043dea2f82d9170e773.jpg
@@ -21,6 +21,13 @@ Einer der Hauptgründe, weshalb ich gerne auf dem Kindle lese, ist die äußerst
 
 Hier stellen wir vor, wie man ein Kindle- Wörterbuch hinzugefügt oder es ändert.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Wörterbuch zu Kindle hinzufügen
 
 1 Laden Sie die Wörterbuchdatei auf den Computer herunter
@@ -36,6 +43,13 @@ Jeder Kindle-Benutzer sollte ein USB-Kabel haben, das sich in der Verpackung bef
 3 Kopieren Sie die Wörterbuchdatei in den Ordner "dictionaries"
 
 ![copy dictionary to kindle folder](https://www.epubor.com/images/copy-dictionary-to-kindle-folder.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4 Werfen Sie den Kindle aus (Sicheres entfernen von USB Geräten) und entfernen Sie das USB-Kabel
 
@@ -60,10 +74,10 @@ Da ich aktuell einen Kindle Paperwhite benutze, werde ich den Kindle Paperwhite 
 ![kindle dictionary screen](https://www.epubor.com/images/kindle-dictionary-screen.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Drücken Sie die "Dictionaries" -Option, und wir können das Standard-Kindle-Wörterbuch - "Oxford Dictionary of English" sehen.
@@ -83,17 +97,10 @@ Jetzt überprüfen wir das Ergebnis.
 ![download kindle dictionary](https://www.epubor.com/images/download-kindle-dictionary.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ein fremdsprachiges Wörterbuch zum Kindle hinzufügen
@@ -104,16 +111,16 @@ Zuerst müssen wir eine Französisch-Englisch-Wörterbuchdatei herunterladen und
 
 ![foreign-language-dictionary-for-kindle](https://www.epubor.com/images/foreign-language-dictionary-for-kindle.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dann öffne ich ein französisches Buch, tippe auf und halte ein Wort markiert, dessen Definition ich nicht kenne und sehe, was passiert.
 
 ![add foreign dictionary to kindle](https://www.epubor.com/images/add-foreign-dictionary-to-kindle.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Verwandte Lesungen
 
@@ -121,13 +128,6 @@ Verwandte Lesungen
 * [How to change Kindle Paperwhite screensaver](https://tools.techidaily.com/epubor/products/)
 
 ![author](http://www.epubor.com/images/uppic/author-dan.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Angel Dan](http://www.epubor.com/mailto:epubor.muzhi1989@gmail.com) has covered software online marketing for more than 10 years. She joined Epubor since 2013, covering content writing, affiliate marketing, global brand expansion, video marketing, and business development.
 
@@ -186,20 +186,24 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-luxury.techidaily.com/5yuv55s744gl44kj44k144km44oz44oj44ks5yplusw44kk5ye644gx44cb6zplusz5aow57eo6zug5oml6acg44ks44kk44oj/"><u>動画からサウンドを取り出し、音声編集手順ガイド</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/aviwebm/"><u>高品質保持によるAVIからWebMへの変換手順</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/complete-walkthrough-for-adding-mp3-streaming-add-on-to-kodi-leia-edition/"><u>Complete Walkthrough for Adding MP3 Streaming Add-On to Kodi (Leia Edition)</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/easy-conversion-techniques-for-camrec-videos-to-widely-used-codecs-like-avi/"><u>Easy Conversion Techniques for CAMREC Videos to Widely Used Codecs Like AVI</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/easy-steps-to-edit-your-videos-to-match-whatsapps-video-specifications/"><u>Easy Steps to Edit Your Videos to Match WhatsApp's Video Specifications</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-convert-mp4-audio-tracks-into-mp3-with-realplayer-and-troubleshooting-tips-for-common-issues/"><u>How to Convert MP4 Audio Tracks Into MP3 with RealPlayer and Troubleshooting Tips for Common Issues</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-infinix-smart-8-hd-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Infinix Smart 8 HD to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/icloud-synchronization-woes-heres-what-to-do/"><u>ICloud Synchronization Woes? Here's What To Do</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/master-the-art-of-editing-cutting-down-youtube-content-using-simple-yet-effective-strategies/"><u>Master the Art of Editing: Cutting Down YouTube Content Using Simple Yet Effective Strategies.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revamp-your-zoom-experience-seamless-desktop-update-tips-for-pc-and-mac-users/"><u>Revamp Your Zoom Experience - Seamless Desktop Update Tips for PC & MAC Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-your-screen-on-windows-11-and-mac-os-x/"><u>Step-by-Step Guide: Capturing Your Screen on Windows 11 and Mac OS X</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-of-the-best-10-webcam-recording-programs-for-windows-10/"><u>Updated In 2024, Best of the Best 10 Webcam Recording Programs for Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/webmwindows/"><u>WebM動画パック作成のためのWindowsマニュアル</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-best-practices-the-8-truly-effective-promotion-techniques/"><u>[New] 2024 Approved Best Practices The 8 Truly Effective Promotion Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-into-another-realm-the-vr-timeline/"><u>[Updated] Into Another Realm The VR Timeline</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-top-ranked-dvd-to-hdtv-converters-for-microsoft-windows-users-a-comprehensive-guide/"><u>1. Top-Ranked DVD to HDTV Converters for Microsoft Windows Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-apex-recommendations-exquisite-iphone-ringtone-designers/"><u>2024 Approved Apex Recommendations Exquisite iPhone Ringtone Designers</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/complete-tutorial-for-editing-videos-using-windows-nx-whats-new/"><u>Complete Tutorial for Editing Videos Using Windows nX – What's New</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/creating-a-viral-youtube-sensation-simplified-action-plan/"><u>Creating a Viral YouTube Sensation Simplified Action Plan</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-tutorial-on-embedding-photos-as-video-overlays-for-brand-protection/"><u>Effortless Tutorial on Embedding Photos as Video Overlays for Brand Protection</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/free-ways-to-transform-ogg-files-into-m4a-format-with-ease/"><u>Free Ways to Transform OGG Files Into M4A Format with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hands-on-test-drive-unboxing-and-exploring-the-samsung-galaxy-budsplus/"><u>Hands-On Test Drive: Unboxing and Exploring the Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reimagined-realities-augmented-wisdom-for-todays-world/"><u>In 2024, Reimagined Realities Augmented Wisdom for Today's World</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-the-art-of-choosing-winning-video-thumbnails-for-2024/"><u>Mastering the Art of Choosing Winning Video Thumbnails for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/overcoming-issues-with-aiff-file-compatibility-on-a-windows-machine/"><u>Overcoming Issues with AIFF File Compatibility on a Windows Machine</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/simple-guide-to-burning-and-playing-avi-files-on-your-dvd-drive/"><u>Simple Guide to Burning and Playing AVI Files on Your DVD Drive</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/simple-steps-for-implementing-closed-captioning-in-your-videos/"><u>Simple Steps for Implementing Closed Captioning in Your Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-art-of-designing-smaller-images-thumbnails-explained/"><u>The Art of Designing Smaller Images Thumbnails Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-professional-livestreamers-vmix-or-wirecast-in-2024/"><u>The Ultimate Guide to Professional Livestreamers VMix or Wirecast, In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-for-successfully-participating-in-live-tweeting-sessions-on-twitter/"><u>Tips for Successfully Participating in Live Tweeting Sessions on Twitter</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-3-no-cost-video-transcription-tools-streamline-caption-creation-effortlessly/"><u>Top 3 No-Cost Video Transcription Tools: Streamline Caption Creation Effortlessly</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/understanding-wmv-format-a-comprehensive-guide-on-opening-wmv-files/"><u>Understanding WMV Format: A Comprehensive Guide on Opening WMV Files</u></a></li>
 </ul></div>
 
