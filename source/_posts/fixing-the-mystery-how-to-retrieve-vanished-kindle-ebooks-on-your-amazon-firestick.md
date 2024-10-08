@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Mystery: How to Retrieve Vanished Kindle Ebooks on Your Amazon Firestick"
-date: 2024-09-29T23:38:08.789Z
-updated: 2024-10-02T21:13:58.546Z
+date: 2024-10-06T16:03:36.755Z
+updated: 2024-10-08T16:16:16.769Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a1219d74867c43320f3c0faf48e.jpg
@@ -28,6 +28,13 @@ Let me picture a scenario that you may experience. You charge your Fire Tablet e
 [Workaround 3\. Factory reset](https://tools.techidaily.com/epubor/products/)  
 [Ultimate Solution: Uninstall Amazon apps from Google Play Store & turn off auto-updates](https://tools.techidaily.com/epubor/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Workaround 1: Update Fire OS version
 
  As advised by one of the Amazon Kindle Support representatives, you can try to update your Fire OS version to 5.4.0.1 or the latest version available.
@@ -40,23 +47,16 @@ Tap “Check Now/Update”.
 
 ![Fire-Tablet-Settings](http://www.epubor.com/images/uppic/Fire-Tablet-Settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Fire-System-Update](http://www.epubor.com/images/uppic/Fire-System-Update.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tip: This is only a workaround and doesn’t work for all users. Sometimes by trying updating Fire OS, the issue is fixed at one time, but it repeats later. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Workaround 2: Sync your Fire Tablet and reboot
 
@@ -70,13 +70,6 @@ Tap “Sync and Check For New Items”. The Sync icon spins.
 Wait for your Fire Tablet to finish syncing. The Sync icon stops spinning.
 
 ![Fire-Tablet-Sync](http://www.epubor.com/images/uppic/Fire-Tablet-Sync.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then go to Amazon “Manage Your Content and Devices” webpage in a browser.  
 Select “Settings”.  
@@ -100,22 +93,36 @@ Tap “Reset” to confirm.
 
 ![Reset-to-Factory-Defaults](http://www.epubor.com/images/uppic/Reset-to-Factory-Defaults.png)
 
-![Factory-reset-comfirm](http://www.epubor.com/images/uppic/Factory-reset-comfirm.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![Factory-reset-comfirm](http://www.epubor.com/images/uppic/Factory-reset-comfirm.png)
+
 Tip: Please consider factory reset as a last-ditch attempt when any other solution or workaround fails to solve the problem. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix: Uninstall Amazon apps from Google Play Store & turn off auto-updates
 
 Here comes the ultimate solution to such glitches. After studying hundreds of similar cases recently, we’ve found out the root cause is that Google Play is not designed to work with Amazon’s ecosystem. Google and Amazon are incompatible with each other. Fire Tablets are bound to Amazon tightly. If you force install the unsupported Google Play Store on Fire Tablets, the unexpected issues arise inevitably. 
 
 ![Play-Store-on Fire-Tablet](http://www.epubor.com/images/uppic/Play-Store-on Fire-Tablet.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Given the fact stated above, an easy fix is to **uninstall Google Play Store** from your Fire Tablet.  
 Go to “Settings **\-->** Applications **\-->** Manage All Applications **\-->** Third-Party Applications **\-->** Find “Google Play Store” **\-->** Uninstall it.
@@ -132,13 +139,6 @@ Find your Kindle apps, tap an installed Kindle app **\-->** Uninstall.
 Generally apps you installed from Google Play Store will download updates automatically, so in addition to uninstalling the Amazon apps from Goolge Play, you also need to **disable the auto-updates apps** from Google Play Store.
 
 ![auto-app-update-google-play](http://www.epubor.com/images/uppic/auto-app-update-google-play.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After you doing so, please reboot your Fire Tablet, re-download your Kindle books and monitor whether they’ll disappear again. Good news is that hundreds of users report the issue never reoccur since they adopt the fix we provided. Their books remain intact in their Fire Tablet even when they set it to charge overnight.
 
@@ -389,16 +389,24 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-cross-platform-iptv-adaptability/"><u>[New] In 2024, Cross-Platform IPTV Adaptability</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-apex-design-studio-examination/"><u>[Updated] Apex Design Studio Examination</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-steps-for-creating-collab-videos-with-youtubers/"><u>[Updated] The Ultimate Steps for Creating Collab Videos with YouTubers</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/excellent-substitutes-for-standard-308-winchester-cartridges-a-comprehensive-guide/"><u>Excellent Substitutes for Standard .308 Winchester Cartridges: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/explore-the-best-digital-book-management-with-calibre-e-reader-tool/"><u>Explore the Best Digital Book Management with Calibre E-Reader Tool</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/guide-accessing-and-reading-kindle-azw3-ebooks-on-ios-devices/"><u>Guide: Accessing and Reading Kindle AZW3 Ebooks on iOS Devices</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/guide-effortlessly-moving-your-kindle-ebooks-from-pc-to-mac/"><u>Guide: Effortlessly Moving Your Kindle eBooks From PC to MAC</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-bypass-epub-drm-protection-with-a-python-automation-script/"><u>How to Bypass EPUB DRM Protection with a Python Automation Script</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-non-functional-surface-pro-4-digital-pen-fixed/"><u>How to Repair Non-Functional Surface Pro 4 Digital Pen [FIXED]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ion-tailgater-plus-speaker-review-endless-hours-of-enhanced-bass-boosted-soundscape-at-a-glance/"><u>ION Tailgater Plus Speaker Review: Endless Hours of Enhanced Bass-Boosted Soundscape at a Glance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-canon-mg3000-printer-drivers-step-by-step-guide/"><u>Update Your Canon MG3000 Printer Drivers - Step by Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-crafting-immersive-experiences-with-captions-on-stories-and-reels/"><u>[New] In 2024, Crafting Immersive Experiences with Captions on Stories & Reels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-tug-of-war-youtube-licensing-versus-cc-principles/"><u>[New] The Tug-of-War Youtube Licensing Versus CC Principles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-titans-of-transportation-in-drone-tech-for-2024/"><u>[New] Top Titans of Transportation in Drone Tech for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-navigating-vlc-software-basics-for-macos/"><u>[Updated] 2024 Approved Navigating VLC Software Basics for MacOS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-learn-the-procedure-for-automatic-video-broadcasting-on-facebook/"><u>[Updated] In 2024, Learn the Procedure for Automatic Video Broadcasting on Facebook</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726030649516-tsmtsm2tm2ts/"><u>高画質のまとめて変換！TS・MTS・M2TフォーマットからM2TSへ</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/57ch5y2y44gq5pa55rov77ya44or44k944kz44oz5lik44gn44k44kk44og44op44ox44k55pig5yop44gu57eo6zug/"><u>簡単な方法：パソコン上でタイムラプス映像の編集</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/46/"><u>乃木坂46の生放送動画で、スマートに画面録画技術を学ぶレッスン - 初心者から上達まで完全ガイド</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ac3wav/"><u>完全な信頼性の高いAC3ファイルからWAVへの変換テクニック</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-8-streamers-pick-high-end-cameras-reviewed/"><u>Best 8 Streamer's Pick High-End Cameras Reviewed</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/bulk-conversion-guide-transforming-multiple-vp6-videos-into-mp4-format/"><u>Bulk Conversion Guide: Transforming Multiple VP6 Videos Into MP4 Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/compress-videos-for-optimal-speed-and-quality-achieve-up-to-95-smaller-file-size/"><u>Compress Videos for Optimal Speed & Quality - Achieve Up To 95% Smaller File Size!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-iphone-12s-latest-feature-improved-qi-charging-that-works-without-magsafe-zdnet-news/"><u>Discover iPhone 12'S Latest Feature: Improved Qi Charging that Works without MagSafe | ZDNET News</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/discover-the-greatest-free-mpeg-2-media-players-available-for-pc-users/"><u>Discover the Greatest Free MPEG-2 Media Players Available for PC Users</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-tutorial-mastering-the-art-of-dvd-writing-with-windows-td-7-software-solutions/"><u>Easy Tutorial: Mastering the Art of DVD Writing with Windows T'd 7 Software Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-note-12-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi Note 12 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726030565932-pc/"><u>PC用マイク・スピーカー録音テクニック及びハウリング低減ガイド</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-also-a-fan-of-the-slow-mo-guys-well-who-isnt-learn-how-you-can-create-compelling-slow-mo-videos-like-the-slow-mo-guys-here/"><u>Updated 2024 Approved Are You Also a Fan of the Slow Mo Guys? Well! Who Isnt? Learn How You Can Create Compelling Slow-Mo Videos Like the Slow Mo Guys Here</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/what-sets-apart-the-basic-from-the-advanced-version-of-flv-video-converter/"><u>What Sets Apart The Basic From The Advanced Version of FLV Video Converter?</u></a></li>
 </ul></div>
 

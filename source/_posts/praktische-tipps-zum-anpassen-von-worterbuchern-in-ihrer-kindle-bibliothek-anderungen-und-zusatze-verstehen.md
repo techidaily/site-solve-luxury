@@ -1,7 +1,7 @@
 ---
 title: "Praktische Tipps Zum Anpassen Von Wörterbüchern in Ihrer Kindle-Bibliothek: Änderungen Und Zusätze Verstehen"
-date: 2024-09-25T16:59:53.129Z
-updated: 2024-10-03T06:04:03.511Z
+date: 2024-10-06T16:41:26.428Z
+updated: 2024-10-08T17:32:19.104Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391dec23043dea2f82d9170e773.jpg
@@ -22,10 +22,10 @@ Einer der Hauptgründe, weshalb ich gerne auf dem Kindle lese, ist die äußerst
 Hier stellen wir vor, wie man ein Kindle- Wörterbuch hinzugefügt oder es ändert.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Wörterbuch zu Kindle hinzufügen
@@ -44,16 +44,16 @@ Jeder Kindle-Benutzer sollte ein USB-Kabel haben, das sich in der Verpackung bef
 
 ![copy dictionary to kindle folder](https://www.epubor.com/images/copy-dictionary-to-kindle-folder.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4 Werfen Sie den Kindle aus (Sicheres entfernen von USB Geräten) und entfernen Sie das USB-Kabel
 
 Damit sind alle Arbeitsschritte auf dem Computer beendet. Die folgende Aufgabe besteht darin, die Wörterbuchdatei auf dem Kindle zum Laufen zu bringen.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ändern Sie das Standard-Kindle-Wörterbuch
 
@@ -73,16 +73,16 @@ Da ich aktuell einen Kindle Paperwhite benutze, werde ich den Kindle Paperwhite 
 
 ![kindle dictionary screen](https://www.epubor.com/images/kindle-dictionary-screen.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Drücken Sie die "Dictionaries" -Option, und wir können das Standard-Kindle-Wörterbuch - "Oxford Dictionary of English" sehen.
 
 ![default Kindle dictionary](https://www.epubor.com/images/default-kindle-dic.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Durch Antippen können wir das primäre Wörterbuch ändern. Wie der Bildschirm unten zeigt, ist "Oxford Dictionary of English" standardmäßig ausgewählt und wir müssen zu "collins3" wechseln, das kürzlich von mir importiert wurde.
 
@@ -97,10 +97,10 @@ Jetzt überprüfen wir das Ergebnis.
 ![download kindle dictionary](https://www.epubor.com/images/download-kindle-dictionary.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ein fremdsprachiges Wörterbuch zum Kindle hinzufügen
@@ -116,10 +116,16 @@ Dann öffne ich ein französisches Buch, tippe auf und halte ein Wort markiert, 
 ![add foreign dictionary to kindle](https://www.epubor.com/images/add-foreign-dictionary-to-kindle.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Verwandte Lesungen
@@ -186,24 +192,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-best-practices-the-8-truly-effective-promotion-techniques/"><u>[New] 2024 Approved Best Practices The 8 Truly Effective Promotion Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-into-another-realm-the-vr-timeline/"><u>[Updated] Into Another Realm The VR Timeline</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1-top-ranked-dvd-to-hdtv-converters-for-microsoft-windows-users-a-comprehensive-guide/"><u>1. Top-Ranked DVD to HDTV Converters for Microsoft Windows Users: A Comprehensive Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-apex-recommendations-exquisite-iphone-ringtone-designers/"><u>2024 Approved Apex Recommendations Exquisite iPhone Ringtone Designers</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/complete-tutorial-for-editing-videos-using-windows-nx-whats-new/"><u>Complete Tutorial for Editing Videos Using Windows nX – What's New</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/creating-a-viral-youtube-sensation-simplified-action-plan/"><u>Creating a Viral YouTube Sensation Simplified Action Plan</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-tutorial-on-embedding-photos-as-video-overlays-for-brand-protection/"><u>Effortless Tutorial on Embedding Photos as Video Overlays for Brand Protection</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/free-ways-to-transform-ogg-files-into-m4a-format-with-ease/"><u>Free Ways to Transform OGG Files Into M4A Format with Ease</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hands-on-test-drive-unboxing-and-exploring-the-samsung-galaxy-budsplus/"><u>Hands-On Test Drive: Unboxing and Exploring the Samsung Galaxy Buds+</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-reimagined-realities-augmented-wisdom-for-todays-world/"><u>In 2024, Reimagined Realities Augmented Wisdom for Today's World</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-the-art-of-choosing-winning-video-thumbnails-for-2024/"><u>Mastering the Art of Choosing Winning Video Thumbnails for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/overcoming-issues-with-aiff-file-compatibility-on-a-windows-machine/"><u>Overcoming Issues with AIFF File Compatibility on a Windows Machine</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/simple-guide-to-burning-and-playing-avi-files-on-your-dvd-drive/"><u>Simple Guide to Burning and Playing AVI Files on Your DVD Drive</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/simple-steps-for-implementing-closed-captioning-in-your-videos/"><u>Simple Steps for Implementing Closed Captioning in Your Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-art-of-designing-smaller-images-thumbnails-explained/"><u>The Art of Designing Smaller Images Thumbnails Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-professional-livestreamers-vmix-or-wirecast-in-2024/"><u>The Ultimate Guide to Professional Livestreamers VMix or Wirecast, In 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tips-for-successfully-participating-in-live-tweeting-sessions-on-twitter/"><u>Tips for Successfully Participating in Live Tweeting Sessions on Twitter</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-3-no-cost-video-transcription-tools-streamline-caption-creation-effortlessly/"><u>Top 3 No-Cost Video Transcription Tools: Streamline Caption Creation Effortlessly</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/understanding-wmv-format-a-comprehensive-guide-on-opening-wmv-files/"><u>Understanding WMV Format: A Comprehensive Guide on Opening WMV Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-quality-video-sharing-leading-alternative-converters-from-flv-to-yt/"><u>[New] 2024 Approved Quality Video Sharing Leading Alternative Converters From FLV to YT</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unearthing-excellent-seeds-the-valheim-way/"><u>[New] In 2024, Unearthing Excellent Seeds The Valheim Way</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-pairing-top-ten-kiss-off-classics-at-romances-peak/"><u>[New] Perfect Pairing Top Ten Kiss-Off Classics at Romance's Peak</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-android-listening-tools/"><u>[New] Premier Android Listening Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-three-key-strategies-to-frame-your-insta-films-better-for-2024/"><u>[New] Three Key Strategies to Frame Your Insta Films Better for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-pinnacle-of-photonic-innovation-sonys-xperia-xz-premium/"><u>2024 Approved The Pinnacle of Photonic Innovation Sony's Xperia XZ Premium</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comment-retirer-le-drm-de-vos-fichiers-pdf-en-un-clic/"><u>Comment Retirer Le DRM De Vos Fichiers PDF en Un Clic</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/complete-guide-for-azw3-file-drm-free-conversion-and-unlocking-steps/"><u>Complete Guide for AZW3 File DRM-Free Conversion and Unlocking Steps</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/complete-guide-how-to-safely-remove-drm-from-ebooks-and-digital-formats-like-epub-pdf-and-azw/"><u>Complete Guide: How to Safely Remove DRM From Ebooks and Digital Formats Like ePUB, PDF, and AZW</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comprehensive-guide-on-understanding-and-working-with-kindle-kf8-format/"><u>Comprehensive Guide on Understanding and Working with Kindle KF8 Format</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-instructions-for-converting-and-printing-an-epub-book/"><u>Easy Instructions for Converting and Printing an EPUB Book</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-guide-to-transforming-kindle-ebooks-into-secure-pdf-formats-complete-and-infallible-instructions/"><u>Effortless Guide to Transforming Kindle eBooks Into Secure PDF Formats – Complete and Infallible Instructions</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-transition-of-reads-how-to-import-ebooks-into-your-ipads-kindle-application/"><u>Effortless Transition of Reads: How to Import eBooks Into Your iPad's Kindle Application</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/fixing-the-mystery-how-to-retrieve-vanished-kindle-ebooks-on-your-amazon-firestick/"><u>Fixing the Mystery: How to Retrieve Vanished Kindle Ebooks on Your Amazon Firestick</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-12-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-use-green-screen-in-kinemaster/"><u>How To Use Green Screen In KineMaster</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-perfecting-your-reel-integrating-music-on-instagram/"><u>In 2024, Perfecting Your Reel Integrating Music on Instagram</u></a></li>
 </ul></div>
 
