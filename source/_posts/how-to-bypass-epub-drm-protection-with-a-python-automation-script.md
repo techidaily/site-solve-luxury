@@ -1,7 +1,7 @@
 ---
 title: How to Bypass EPUB DRM Protection with a Python Automation Script
-date: 2024-10-01T16:21:31.671Z
-updated: 2024-10-08T18:25:45.639Z
+date: 2024-10-09T18:59:29.792Z
+updated: 2024-10-14T18:21:48.802Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406cf2fae44c9a446c53d02efdc.jpg
@@ -24,10 +24,10 @@ Since we're going to remove EPUB DRM with python script rar, let's learn somethi
 Now follow me to remove EPUB DRM using python script rar. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Firstly, get tools ready
@@ -35,6 +35,13 @@ Now follow me to remove EPUB DRM using python script rar.
 1Download [python script rar](https://www.epubor.com/images/remote/D4/1D/D41D8C%5FRemove-ePub-drm-use-python-script.rar). This file includes: Python 2.6.2, Pycrpto for WinXP, ineptkey.pyw and inepteput.pyw. If you don't adopt Windows XP, you need to download Bython 2.6 here: <https://www.python.org/downloads/> and download matched Pycrpto at >this website.
 
 2Download [ineptepub.pyw](https://gitlab.com/ApprenticeAlf/DeDRM/blob/8b632e309fe4901bf0f21f404d2d3091fe7851da/Adobe%5FEPUB%5FTools/ineptepub.pyw) and ineptkey.pyw. Then place them into a same directory. (Rename your .pyw.txt file as .pyw.)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Secondly, remove EPUB DRM use python script rar.
 
@@ -48,13 +55,6 @@ Adeptkey.der covers all the EPUB DRM keys file.
 
 ![adeptkey.der](http://www.epubor.com/images/uppic/adeptkey.der.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** As soon as you run ineptepub.pyw, it will pop up the following window for you to remove EPUB DRM.
 
 ![ineptepub.pyw](http://www.epubor.com/images/uppic/ineptepub.pyw.jpg)
@@ -65,6 +65,13 @@ Hit on the "..." icon to select the input path containing your EPUB books. Usual
 
 ![select input path containing EPUB books](http://www.epubor.com/images/uppic/select-input-path-containing-your-DRM-EPUB-books.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Select output path**
 
 Also hit on the "..." icon to choose a output path. 
@@ -72,13 +79,6 @@ Also hit on the "..." icon to choose a output path.
 ![choose output path](http://www.epubor.com/images/uppic/choose-output-path.jpg)
 
 After you have everything set, click "Decrypt whole directory" to start removing DRM from EPUB books. You can find your decrypted EPUB books in the preset output path. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why we need to remove EPUB DRM
 
@@ -100,10 +100,10 @@ Related Articles
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
@@ -147,24 +147,24 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-elevate-design-top-tier-tips-from-canva-experts/"><u>[New] In 2024, Elevate Design Top-Tier Tips From Canva Experts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences/"><u>[New] Making Every Game a Masterpiece Proven Methods to Record and Relish Your Sims’ Experiences</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-explore-the-best-facebook-lite-video-downloader-picks-of-2023/"><u>[Updated] Explore the Best Facebook Lite Video Downloader Picks of 2023</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-your-content-game-with-these-instagram-story-tips/"><u>2024 Approved Elevate Your Content Game with These Instagram Story Tips</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/excellent-substitutes-for-standard-308-winchester-cartridges-a-comprehensive-guide/"><u>Excellent Substitutes for Standard .308 Winchester Cartridges: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/explore-the-best-digital-book-management-with-calibre-e-reader-tool/"><u>Explore the Best Digital Book Management with Calibre E-Reader Tool</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fandango-setup-how-to-enjoy-movies-and-ticket-bookings-on-your-amazon-firestick/"><u>Fandango Setup: How to Enjoy Movies & Ticket Bookings on Your Amazon Firestick</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/guide-accessing-and-reading-kindle-azw3-ebooks-on-ios-devices/"><u>Guide: Accessing and Reading Kindle AZW3 Ebooks on iOS Devices</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/guide-effortlessly-moving-your-kindle-ebooks-from-pc-to-mac/"><u>Guide: Effortlessly Moving Your Kindle eBooks From PC to MAC</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-master-merging-and-splitting-pdfs-with-the-best-software-solutions-available/"><u>How to Master Merging and Splitting PDFs with the Best Software Solutions Available</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-open-and-enjoy-ebooks-with-acsm-format-on-your-nook-reader/"><u>How to Open and Enjoy eBooks with ACSM Format on Your Nook Reader</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-solve-dragon-age-origins-problems-with-windows-11-compatibility/"><u>How to Prevent and Solve Dragon Age: Origins Problems with Windows 11 Compatibility</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-respond-to-customer-feedback-a-guide-to-handling-contact-us-inquiries/"><u>How to Respond to Customer Feedback: A Guide to Handling 'Contact Us' Inquiries</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-13-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 13 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-unlock-your-creativity-microsoft-video-editor-for-windows-10-8-and-7/"><u>New 2024 Approved Unlock Your Creativity Microsoft Video Editor for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/one-person-access-authorization-key/"><u>One-Person Access Authorization Key</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/praktische-tipps-zum-anpassen-von-worterbuchern-in-ihrer-kindle-bibliothek-anderungen-und-zusatze-verstehen/"><u>Praktische Tipps Zum Anpassen Von Wörterbüchern in Ihrer Kindle-Bibliothek: Änderungen Und Zusätze Verstehen</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-secrets-of-kinemaster-usage-and-ranking-alternatives-1-10-for-2024/"><u>Unveiling the Secrets of KineMaster Usage & Ranking Alternatives 1-10 for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-easy-steps-how-to-master-the-best-of-9-free-youtube-logomakers/"><u>[Updated] Easy Steps How to Master the Best of 9 Free YouTube Logomakers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-creating-an-ideal-oculus-rift-environment/"><u>[Updated] In 2024, Creating an Ideal Oculus Rift Environment</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726028159603-dat/"><u>「最新オープンソースのDATファイル再生ツールをご紹介 - 優れた使い心地で楽しむ方法」</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023s-most-popular-online-video-hub-on-facebook/"><u>2023'S Most Popular Online Video Hub on Facebook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-soundscape-integration-for-statements/"><u>2024 Approved Soundscape Integration for Statements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-beginners-guide-to-setting-up-your-iphone-in-dark-mode/"><u>A Beginner's Guide to Setting Up Your iPhone in Dark Mode</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/aac-vs-dts-optimal-sound-quality-and-quick-tricks-for-format-switching/"><u>AAC Vs. DTS: Optimal Sound Quality & Quick Tricks for Format Switching</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/beginners-guide-optimize-your-editing-skills-with-a-user-friendly-real-time-60fps-video-editor-on-windows-11/"><u>Beginner's Guide: Optimize Your Editing Skills with a User-Friendly, Real-Time 60Fps Video Editor on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-nord-n30-se-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/converting-video-formats-effortlessly-how-to-change-mov-to-lossless-flac-soundtracks/"><u>Converting Video Formats Effortlessly - How to Change MOV to Lossless FLAC Soundtracks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ryzen-7-powerhouse-ubuntu-surpasses-windows-11-in-performance-on-frameworks-newest-creation/"><u>Ryzen 7 Powerhouse: Ubuntu Surpasses Windows 11 in Performance on Framework's Newest Creation</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726028165286-tiktokpc/"><u>TikTokビデオのカスタマイズ：PCによる編集方法」</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-rated-multimedia-players-for-immersive-360-videos-on-any-device-windows-mac-mobile/"><u>Top Rated Multimedia Players for Immersive 360 Videos on Any Device (Windows, Mac, Mobile)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-swtor-invasion-crashes-on-windows/"><u>Troubleshooting Steps to Resolve SWTOR: Invasion Crashes on Windows</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-choosing-the-best-m4a-file-players-on-desktops-and-mobile-devices/"><u>Ultimate Guide: Choosing the Best M4A File Players on Desktops & Mobile Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unpacking-and-solving-the-mystery-of-error-0x8007251d/"><u>Unpacking and Solving the Mystery of Error 0X8007251d</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unveiling-digital-antiquities-exploring-the-lesser-known-gems-of-software-nostalgia/"><u>Unveiling Digital Antiquities: Exploring the Lesser-Known Gems of Software Nostalgia</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/44k544kr44or44o844ob44oj44oz44on44or44gu55wq57we44ks6kiy6yyy44gx44gm44gk44gn44gf44ge77ya5b6p5pen5pa55rov/"><u>スカパーチャンネルの番組を記録しておきたい：復旧方法</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/2024and/"><u>ビデオ編集強化ツール: 2024年新機能付きソフト&アプリで色調整を完璧に！</u></a></li>
 </ul></div>
 

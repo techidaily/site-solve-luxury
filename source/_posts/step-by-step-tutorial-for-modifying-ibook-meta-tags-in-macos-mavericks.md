@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Modifying iBook Meta Tags in macOS Mavericks
-date: 2024-10-03T16:55:02.884Z
-updated: 2024-10-08T17:47:12.752Z
+date: 2024-10-12T22:19:14.666Z
+updated: 2024-10-14T20:14:11.403Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef26ea2cde0e10ae3ca9b9c9f6.jpg
@@ -37,6 +37,13 @@ Sad story, feels like we are using a lite edition of iBooks, isn't it?
 
 The reason that iBooks enables people to edit the meta date is pretty obvious-- they don't want people to use iBooks to read downloaded books, but only the books purchased from iBooks Store.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Edit metadata with Calibre for Mac
 
 Although editing metadata with iBooks is impossible, it doesn't mean this is the end of the story. With another software, Calibre for Mac, we can edit book's metadata then load the book into iBooks for Mac app.
@@ -45,13 +52,6 @@ First we import the book into Calibre.
 
 ![ibooks without cover](http://www.epubor.com/images/ibooks-without-cover.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 From the image above we can see that the cover of the book _A DANCE WITH DRAGONS_ is missing, which is a pretty typical case where we need to edit the metadata to add cover.![edit-metadata-in-calibre](http://www.epubor.com/images/edit-metadata-in-calibre.png)
 
 Right click on the book title, choose "Edit metadata", then "Edit metadata individually".
@@ -59,10 +59,10 @@ Right click on the book title, choose "Edit metadata", then "Edit metadata indiv
 ![](http://www.epubor.com/images/edit-metadata-for-ibooks-for-mac.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In this window we can customize almost all the important metadata. In this case I need to add a cover to the book, so I click "Browse" in "Change cover" area. If you want to make it simple, just directly click "Download cover", and Calibre will search the cover from internet and add it for you.
@@ -82,10 +82,10 @@ So the last step is to convert the book to EPUB, even this file is already an EP
 ![edit-metadata-in-ibooks-for-mac-mavericks](http://www.epubor.com/images/edit-metadata-in-ibooks-for-mac-mavericks.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Find the converted file in Calibre's library and drag it into iBooks for Mac. Now we can see the book displayed in iBooks for Mac with the gorgeous cover.
@@ -101,10 +101,10 @@ Related Readings
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
@@ -412,24 +412,20 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-capturing-time-on-pause-instagrams-slow-motion-secrets/"><u>[New] 2024 Approved Capturing Time on Pause Instagram's Slow-Motion Secrets</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-guide-sharing-melodies-in-facebook-narratives/"><u>[New] Guide Sharing Melodies in Facebook Narratives</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-captivating-content-creation-the-best-10-igtv-strategies-for-brands/"><u>[Updated] 2024 Approved Captivating Content Creation The Best 10 IGTV Strategies for Brands</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-android-and-ios-top-asmr-audio-picks-for-2024/"><u>[Updated] Android and iOS Top ASMR Audio Picks for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-writers-journey-through-podcast-production/"><u>[Updated] In 2024, The Writer's Journey Through Podcast Production</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/explore-the-best-digital-book-management-with-calibre-e-reader-tool/"><u>Explore the Best Digital Book Management with Calibre E-Reader Tool</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/guide-accessing-and-reading-kindle-azw3-ebooks-on-ios-devices/"><u>Guide: Accessing and Reading Kindle AZW3 Ebooks on iOS Devices</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/guide-effortlessly-moving-your-kindle-ebooks-from-pc-to-mac/"><u>Guide: Effortlessly Moving Your Kindle eBooks From PC to MAC</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-bypass-epub-drm-protection-with-a-python-automation-script/"><u>How to Bypass EPUB DRM Protection with a Python Automation Script</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-master-merging-and-splitting-pdfs-with-the-best-software-solutions-available/"><u>How to Master Merging and Splitting PDFs with the Best Software Solutions Available</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-open-and-enjoy-ebooks-with-acsm-format-on-your-nook-reader/"><u>How to Open and Enjoy eBooks with ACSM Format on Your Nook Reader</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-respond-to-customer-feedback-a-guide-to-handling-contact-us-inquiries/"><u>How to Respond to Customer Feedback: A Guide to Handling 'Contact Us' Inquiries</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-in-depth-look-at-nikons-4k-powerhouse-j5/"><u>In 2024, The In-Depth Look at Nikon's 4K Powerhouse - J5</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-top-5-best-fluid-simulation-games-for-you/"><u>In 2024, Top 5 Best Fluid Simulation Games for You</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722964595605-latest-version-of-geforce-rtx-nvidia-3060-ti-drivers-compatible-with-windows-10-and-11-secure-your-download/"><u>Latest Version of GeForce RTX Nvidia 3060 Ti Drivers: Compatible with Windows 10 & 11 - Secure Your Download</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/one-person-access-authorization-key/"><u>One-Person Access Authorization Key</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/praktische-tipps-zum-anpassen-von-worterbuchern-in-ihrer-kindle-bibliothek-anderungen-und-zusatze-verstehen/"><u>Praktische Tipps Zum Anpassen Von Wörterbüchern in Ihrer Kindle-Bibliothek: Änderungen Und Zusätze Verstehen</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-conexant-smartaudio-hd-silent-mode-on-windows-11/"><u>Troubleshooting Guide: Resolving Conexant SmartAudio HD Silent Mode on Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-cost-effective-growth-tactic-for-youtube-fanbases/"><u>[New] 2024 Approved Cost-Effective Growth Tactic for YouTube Fanbases</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-from-boredom-to-chuckles-generating-funny-memes-for-2024/"><u>[New] From Boredom to Chuckles Generating Funny Memes for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-task-mastery-top-picks-for-efficient-calendar-management-in-fb/"><u>[New] In 2024, Task Mastery Top Picks for Efficient Calendar Management in FB</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-explore-the-world-of-video-calls-hangouts-for-android/"><u>[Updated] 2024 Approved Explore the World of Video Calls Hangouts for Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-from-live-to-recording-maximizing-your-gaming-sessions-value-for-2024/"><u>[Updated] From Live to Recording Maximizing Your Gaming Sessions' Value for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726030649516-tsmtsm2tm2ts/"><u>高画質のまとめて変換！TS・MTS・M2TフォーマットからM2TSへ</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/h265h264/"><u>無料ツールでH.265からH.264への効果的な変換ガイド</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/dvdpc/"><u>DVDレンタルPCダビング手引き: 無料と有料選択で簡単なガイド</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-cutting-down-high-gpu-draining-issues-with-desktop-window-manager-in-windows-1110/"><u>Guide: Cutting Down High-GPU Draining Issues with Desktop Window Manager in Windows 11/10</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726030565932-pc/"><u>PC用マイク・スピーカー録音テクニック及びハウリング低減ガイド</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/spice-up-your-storytelling-the-secrets-behind-looped-videos-in-instagram/"><u>Spice Up Your Storytelling The Secrets Behind Looped Videos in Instagram</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/universal-video-playback-for-nexus-7-users-discover-the-ultimate-media-format-changer/"><u>Universal Video Playback for Nexus 7 Users - Discover the Ultimate Media Format Changer!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/unlock-full-access-troubleshooting-guide-to-playing-flac-files-seamlessly-on-your-android-device/"><u>Unlock Full Access: Troubleshooting Guide to Playing FLAC Files Seamlessly on Your Android Device</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/what-sets-apart-the-basic-from-the-advanced-version-of-flv-video-converter/"><u>What Sets Apart The Basic From The Advanced Version of FLV Video Converter?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-your-iphoneipad-is-overheating-causes-and-solutions/"><u>Why Your iPhone/iPad Is Overheating: Causes & Solutions</u></a></li>
 </ul></div>
 

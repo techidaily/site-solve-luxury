@@ -1,7 +1,7 @@
 ---
 title: "Praktische Tipps Zum Anpassen Von Wörterbüchern in Ihrer Kindle-Bibliothek: Änderungen Und Zusätze Verstehen"
-date: 2024-10-06T16:41:26.428Z
-updated: 2024-10-08T17:32:19.104Z
+date: 2024-10-09T16:31:04.490Z
+updated: 2024-10-14T21:48:11.232Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391dec23043dea2f82d9170e773.jpg
@@ -21,13 +21,6 @@ Einer der Hauptgründe, weshalb ich gerne auf dem Kindle lese, ist die äußerst
 
 Hier stellen wir vor, wie man ein Kindle- Wörterbuch hinzugefügt oder es ändert.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Wörterbuch zu Kindle hinzufügen
 
 1 Laden Sie die Wörterbuchdatei auf den Computer herunter
@@ -40,19 +33,39 @@ Jeder Kindle-Benutzer sollte ein USB-Kabel haben, das sich in der Verpackung bef
 
 ![plug kindle to computer](https://www.epubor.com/images/plug-kindle-to-computer.png)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3 Kopieren Sie die Wörterbuchdatei in den Ordner "dictionaries"
 
 ![copy dictionary to kindle folder](https://www.epubor.com/images/copy-dictionary-to-kindle-folder.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4 Werfen Sie den Kindle aus (Sicheres entfernen von USB Geräten) und entfernen Sie das USB-Kabel
 
 Damit sind alle Arbeitsschritte auf dem Computer beendet. Die folgende Aufgabe besteht darin, die Wörterbuchdatei auf dem Kindle zum Laufen zu bringen.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ändern Sie das Standard-Kindle-Wörterbuch
@@ -77,13 +90,6 @@ Drücken Sie die "Dictionaries" -Option, und wir können das Standard-Kindle-Wö
 
 ![default Kindle dictionary](https://www.epubor.com/images/default-kindle-dic.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Durch Antippen können wir das primäre Wörterbuch ändern. Wie der Bildschirm unten zeigt, ist "Oxford Dictionary of English" standardmäßig ausgewählt und wir müssen zu "collins3" wechseln, das kürzlich von mir importiert wurde.
 
 ![change primary dictionary](https://www.epubor.com/images/change-primary-dictionary.png)
@@ -95,13 +101,6 @@ Zurück auf dem vorherigen Bildschirm können wir sehen, dass das Standardwörte
 Jetzt überprüfen wir das Ergebnis.
 
 ![download kindle dictionary](https://www.epubor.com/images/download-kindle-dictionary.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ein fremdsprachiges Wörterbuch zum Kindle hinzufügen
 
@@ -116,16 +115,10 @@ Dann öffne ich ein französisches Buch, tippe auf und halte ein Wort markiert, 
 ![add foreign dictionary to kindle](https://www.epubor.com/images/add-foreign-dictionary-to-kindle.png)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Verwandte Lesungen
@@ -134,6 +127,13 @@ Verwandte Lesungen
 * [How to change Kindle Paperwhite screensaver](https://tools.techidaily.com/epubor/products/)
 
 ![author](http://www.epubor.com/images/uppic/author-dan.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Angel Dan](http://www.epubor.com/mailto:epubor.muzhi1989@gmail.com) has covered software online marketing for more than 10 years. She joined Epubor since 2013, covering content writing, affiliate marketing, global brand expansion, video marketing, and business development.
 
@@ -192,22 +192,18 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-quality-video-sharing-leading-alternative-converters-from-flv-to-yt/"><u>[New] 2024 Approved Quality Video Sharing Leading Alternative Converters From FLV to YT</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unearthing-excellent-seeds-the-valheim-way/"><u>[New] In 2024, Unearthing Excellent Seeds The Valheim Way</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-pairing-top-ten-kiss-off-classics-at-romances-peak/"><u>[New] Perfect Pairing Top Ten Kiss-Off Classics at Romance's Peak</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premier-android-listening-tools/"><u>[New] Premier Android Listening Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-three-key-strategies-to-frame-your-insta-films-better-for-2024/"><u>[New] Three Key Strategies to Frame Your Insta Films Better for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-pinnacle-of-photonic-innovation-sonys-xperia-xz-premium/"><u>2024 Approved The Pinnacle of Photonic Innovation Sony's Xperia XZ Premium</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/comment-retirer-le-drm-de-vos-fichiers-pdf-en-un-clic/"><u>Comment Retirer Le DRM De Vos Fichiers PDF en Un Clic</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/complete-guide-for-azw3-file-drm-free-conversion-and-unlocking-steps/"><u>Complete Guide for AZW3 File DRM-Free Conversion and Unlocking Steps</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/complete-guide-how-to-safely-remove-drm-from-ebooks-and-digital-formats-like-epub-pdf-and-azw/"><u>Complete Guide: How to Safely Remove DRM From Ebooks and Digital Formats Like ePUB, PDF, and AZW</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/comprehensive-guide-on-understanding-and-working-with-kindle-kf8-format/"><u>Comprehensive Guide on Understanding and Working with Kindle KF8 Format</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/easy-instructions-for-converting-and-printing-an-epub-book/"><u>Easy Instructions for Converting and Printing an EPUB Book</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-guide-to-transforming-kindle-ebooks-into-secure-pdf-formats-complete-and-infallible-instructions/"><u>Effortless Guide to Transforming Kindle eBooks Into Secure PDF Formats – Complete and Infallible Instructions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-transition-of-reads-how-to-import-ebooks-into-your-ipads-kindle-application/"><u>Effortless Transition of Reads: How to Import eBooks Into Your iPad's Kindle Application</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/fixing-the-mystery-how-to-retrieve-vanished-kindle-ebooks-on-your-amazon-firestick/"><u>Fixing the Mystery: How to Retrieve Vanished Kindle Ebooks on Your Amazon Firestick</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-12-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 12 Pro Max</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-use-green-screen-in-kinemaster/"><u>How To Use Green Screen In KineMaster</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-perfecting-your-reel-integrating-music-on-instagram/"><u>In 2024, Perfecting Your Reel Integrating Music on Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reversal-blueprint-swiftly-backward-apple-vids/"><u>[New] Reversal Blueprint Swiftly Backward Apple Vids</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expert-insights-on-common-filmora-editing-issues/"><u>2024 Approved Expert Insights on Common Filmora Editing Issues</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-pinnacle-of-low-speed-video-recording-top-5/"><u>2024 Approved Pinnacle of Low-Speed Video Recording – Top 5</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effektive-ablaufe-im-anspruchsmanagement-wie-gut-funktioniert-der-lebenszyklus-bei-abbyy/"><u>Effektive Abläufe Im Anspruchsmanagement - Wie Gut Funktioniert Der Lebenszyklus Bei ABBYY?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-ensure-privacy-how-not-to-let-chatgpt-remember-our-talks/"><u>Guide to Ensure Privacy: How Not to Let ChatGPT Remember Our Talks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-film-techniques-flawless-virtual-backdrops-integration/"><u>In 2024, Instagram Film Techniques Flawless Virtual Backdrops Integration</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/master-the-art-of-editing-cutting-down-youtube-content-using-simple-yet-effective-strategies/"><u>Master the Art of Editing: Cutting Down YouTube Content Using Simple Yet Effective Strategies.</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-avi-video-editor-downloads-our-top-recommendations-for-2024/"><u>New Free AVI Video Editor Downloads Our Top Recommendations for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/qt-online-free-mp4-to-qt-converter-movavi/"><u>QT 편집은 원할까요? 안전하고 쉬운 Online Free Mp4 to Qt Converter를 찾아주세요 - Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-find-x7-ultra-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Find X7 Ultra Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-rated-weight-loss-workout-dvds-achieve-optimal-fitness-and-shed-pounds-effectively/"><u>Top-Rated Weight Loss Workout DVDs: Achieve Optimal Fitness & Shed Pounds Effectively</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-tips-playback-issues-with-flv-content-in-sony-vegas/"><u>Troubleshooting Tips: Playback Issues with FLV Content in Sony Vegas</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-adjusting-video-playback-speed-and-frame-rates-using-davinci-resolve/"><u>Ultimate Guide: Adjusting Video Playback Speed and Frame Rates Using DaVinci Resolve</u></a></li>
 </ul></div>
 
