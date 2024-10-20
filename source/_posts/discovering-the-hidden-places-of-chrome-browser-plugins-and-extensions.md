@@ -1,7 +1,7 @@
 ---
 title: Discovering the Hidden Places of Chrome Browser Plugins and Extensions
-date: 2024-10-10T16:40:59.055Z
-updated: 2024-10-14T16:24:59.809Z
+date: 2024-10-19T03:54:29.505Z
+updated: 2024-10-20T01:32:20.693Z
 tags:
   - product
   - antivirus
@@ -35,10 +35,10 @@ gbchcmhmhahfdphkhkmpfmihenigjmpp
 This ID refers to Chrome Remote Desktop extension. To find the ID, click on three vertical dots on Chrome browser located in the top right. Click on **More Tools** to access the **Extensions**.[![Chrome Extension Details](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-Details.png)](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-Details.png)On the Extensions page, click on **Details** button and you should see the ID in the **URL bar**.[![Chrome Extension ID](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-ID.png)](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-ID.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Chrome Extension Storage Folder
@@ -46,10 +46,17 @@ This ID refers to Chrome Remote Desktop extension. To find the ID, click on thre
 The ID of extension should be the name of the folder. It is the characters displayed after **id=** in the URL bar. You can now copy that ID and visit Extensions folder to find the subfolder.[![Chrome Extension Storage Folder](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-Storage-Folder.png)](https://www.malwarefox.com/wp-content/uploads/2019/08/Chrome-Extension-Storage-Folder.png)Inside the folder, you should be able to find the contents extracted by the specific extension. Most common files inside the chrome extension folder are JS, CSS, HTML and JSON. You can open these files in any Text editor like Notepad or maybe [some sophisticated text editors](https://www.windowschimp.com/best-text-editors/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## View Source Code of Chrome Extension
@@ -59,16 +66,10 @@ If you would like to view the source code of an extension before you install it,
 ![TotalAv Logo](https://www.malwarefox.com/wp-content/uploads/2024/02/totalav-svg.webp "totalav-svg")
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Stay malware-free with reliable antivirus**
@@ -84,13 +85,6 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 ✔️ 30 Day Money-Back
 
 [](https://tools.techidaily.com/malwarefox/products/) Get TotalAV > 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -117,24 +111,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-no-cost-treasures-aplus-ae-template-collections-for-2024/"><u>[New] No-Cost Treasures A+ AE Template Collections for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pinnacle-playground-top-10-royale-fighters/"><u>[Updated] 2024 Approved Pinnacle Playground Top 10 Royale Fighters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-tips-for-maximum-digital-storage/"><u>2024 Approved Advanced Tips for Maximum Digital Storage</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-beyond-the-lens-innovative-ideas-for-youtube-video-creation/"><u>2024 Approved Beyond the Lens Innovative Ideas for YouTube Video Creation</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-navigating-partner-selection-for-youtube-joint-ventures/"><u>2024 Approved Navigating Partner Selection for YouTube Joint Ventures</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-13t-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi 13T Face Lock?</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/playing-webm-videos-on-ios-a-step-by-step-guide-for-iphone-ipad-users/"><u>Playing WebM Videos on iOS: A Step-by-Step Guide for iPhone, iPad Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-tecno-pop-8-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Tecno Pop 8 has been deleted</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/seamless-transition-convert-between-xvid-and-divx-with-our-no-cost-tools/"><u>Seamless Transition: Convert Between Xvid & DivX with Our No-Cost Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-to-the-dbghelpdll-not-found-message/"><u>Step-by-Step Solution to the 'dbghelp.dll Not Found' Message</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/streamline-your-workflow-with-the-fastest-mpg-video-editors-on-the-market/"><u>Streamline Your Workflow with the Fastest MPG Video Editors on the Market</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-ultimate-list-of-3gp-video-player-apps-for-pc-mac-os-ios-and-android-devices/"><u>The Ultimate List of 3GP Video Player Apps for PC, MAC OS, iOS, and Android Devices</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-10-no-cost-mp2-video-players-on-windows-a-comprehensive-guide/"><u>Top 10 No-Cost MP2 Video Players on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-no-cost-m4v-video-file-translator-for-windows-pcs/"><u>Top No-Cost M4V Video File Translator for Windows PCs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-favorite-chatgpt-triggers-found-on-github/"><u>Ultimate List of Favorite ChatGPT Triggers Found on GitHub</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1726029459740-waviphone/"><u>WAVファイルへのiPhoneボイスメモ変換手順: 音質維持方法</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/weverse/"><u>Weverseでビデオのダウンロードとセーブ手順ガイド</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-78mp4avi/"><u>Windows 7/8向けに動画ファイル（MP4、AVI等）を効果的圧縮するテクニック</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-task-managers-for-windows-10-and-11-users/"><u>Winning Task Managers for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-transform-your-images-basic-tips-with-lunapic/"><u>[New] 2024 Approved Transform Your Images Basic Tips with LunaPic</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-livelink-audio-visual-crafting-portal/"><u>[New] LiveLink Audio-Visual Crafting Portal</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elevating-online-presence-with-obs-facebook-linking/"><u>[Updated] In 2024, Elevating Online Presence with OBS-Facebook Linking</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/groken-windows-7-8-10-11/"><u>「破損・削除さ Groken Windows 7, 8, 10, 11のシステムファイルを回復する詳しいガイド」</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-compelling-narratives-through-supplemental-footage/"><u>Crafting Compelling Narratives Through Supplemental Footage</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-access-top-5-strategies-for-setting-up-automatic-logon-on-windows-11/"><u>Effortless Access: Top 5 Strategies for Setting Up Automatic Logon on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnites-mac-compatibility-savor-the-joy-with-caution/"><u>Fortnite's Mac Compatibility - Savor the Joy with Caution</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-fix-your-cars-persistent-issue-missing-drive-gone-forever/"><u>How to Fix Your Car's Persistent Issue: Missing Drive Gone Forever!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-expert-tips-for-smoothly-changing-fb-videos-into-mp3-files/"><u>In 2024, Expert Tips for Smoothly Changing FB Videos Into MP3 Files</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/precision-techniques-for-high-quality-console-recordings-on-pcs/"><u>Precision Techniques for High-Quality Console Recordings on PCs</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/resolve-missing-partition-issues-in-windows-10-with-simple-restoration-steps-video-guide/"><u>Resolve Missing Partition Issues in Windows 10 with Simple Restoration Steps - Video Guide</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-freeing-up-space-by-deleting-unnecessary-ios-system-files/"><u>Step-by-Step Guide: Freeing Up Space by Deleting Unnecessary iOS System Files</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-techniques-for-seamlessly-syncing-ios-camera-captures-with-your-computer/"><u>Top Techniques for Seamlessly Syncing iOS Camera Captures with Your Computer</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/wie-ist-je-clip-studio-paint-gebruikbaar-na-uitgegooide-versies-herstelprocedure/"><u>Wie Ist Je Clip Studio Paint Gebruikbaar Na Uitgegooide Versies - Herstelprocedure</u></a></li>
 </ul></div>
 
