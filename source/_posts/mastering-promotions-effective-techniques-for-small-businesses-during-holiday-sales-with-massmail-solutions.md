@@ -1,7 +1,7 @@
 ---
 title: "Mastering Promotions: Effective Techniques for Small Businesses During Holiday Sales with MassMail Solutions"
-date: 2024-10-17T18:34:00.561Z
-updated: 2024-10-20T06:22:39.207Z
+date: 2024-10-19T08:31:53.333Z
+updated: 2024-10-26T08:09:37.992Z
 tags:
   - product
 categories:
@@ -21,6 +21,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -63,10 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -82,26 +89,26 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -111,39 +118,19 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -153,6 +140,13 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,19 +167,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-immersion-tools-top-ten-innovative-vr-accessories/"><u>[Updated] Immersion Tools Top Ten Innovative VR Accessories</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-add-edge-to-insta-videos-a-trifecta-guide/"><u>2024 Approved Add Edge to Insta Videos - A Trifecta Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728498771084-win10/"><u>迅速修复 Win10 螢幕上丟失檔案問題</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/cara-menguji-dan-mendapatkan-pemulihan-file-ext3-yang-hamil-di-windows-1110/"><u>Cara Menguji Dan Mendapatkan Pemulihan File Ext3 Yang Hamil Di Windows 11/10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/core-library-loader-dll-deficiency-noted/"><u>Core Library Loader Dll Deficiency Noted</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/dalam-empat-langkah-langkah-keselamatan-data-terbaik-untuk-hard-drive-ps4/"><u>Dalam Empat: Langkah-Langkah Keselamatan Data Terbaik Untuk Hard Drive PS4</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-methods-for-switching-from-hdd-to-ssd-as-primary-drive-in-windows-11/"><u>Effortless Methods for Switching From HDD to SSD as Primary Drive in Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/google-nest-hub-2nd-gen-review-if-only-it-had-a-camera/"><u>Google Nest Hub 2Nd Gen Review: If Only It Had a Camera</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-effortless-methods-amp-up-your-yt-video-quality/"><u>In 2024, Effortless Methods Amp Up Your YT Video Quality</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/losung-fur-hp-laptop-bildschirmergluhen-unter-windows-11/"><u>Lösung Für HP Laptop Bildschirmerglühen Unter Windows 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/must-play-openworld-experiences/"><u>Must-Play Openworld Experiences</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/solution-guide-how-to-overcome-request-timed-out-errors-for-aws-s3-operations/"><u>Solution Guide: How to Overcome 'Request Timed Out' Errors for AWS S3 Operations</u></a></li>
-<li><a href="https://win11.techidaily.com/task-management-perfection-ifttt-for-to-do/"><u>Task Management Perfection: IFTTT for To-Do</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-enhancing-user-experience-with-responsive-html-designs/"><u>[New] 2024 Approved Enhancing User Experience with Responsive HTML Designs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-srt-conversion-simplified-subtitles-transformation/"><u>[New] SRT Conversion Simplified Subtitles Transformation</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ampliar-de-graca-a-versao-profissional-do-aomei-backupper-padrao-para-edicao-pro/"><u>Ampliar De Graça a Versão Profissional Do AOMEI Backupper - Padrão Para Edição Pro</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/building-a-successful-ebay-enterprise-setting-up-your-online-shop-with-massmail-tools/"><u>Building a Successful eBay Enterprise: Setting Up Your Online Shop with MassMail Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-techniques-for-merging-cells-across-rows-and-columns-using-microsoft-excel/"><u>Effective Techniques for Merging Cells Across Rows and Columns Using Microsoft Excel</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hear-and-engage-speech-technology-gratis-for-2024/"><u>Hear & Engage Speech Technology Gratis for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-overcome-word-processor-saving-obstacles-tackling-file-permission-errors-for-seamless-document-management/"><u>How to Overcome Word Processor Saving Obstacles: Tackling File Permission Errors for Seamless Document Management</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-earn-on-youtube-beginners-path-to-profitability/"><u>In 2024, Earn on YouTube Beginner's Path to Profitability</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-level-gopro-tricks-and-insights/"><u>In 2024, Pro-Level GoPro Tricks and Insights</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/is-the-idp-generic-alert-a-hoax-or-hazard-comprehensive-guide-to-detecting-and-deleting-this-alleged-virus/"><u>Is the IDP Generic Alert a Hoax or Hazard? Comprehensive Guide to Detecting and Deleting This Alleged Virus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-trackpad-not-responding-in-windows-heres-how-you-can-repair-it-win1087/"><u>Laptop Trackpad Not Responding in Windows? Here's How You Can Repair It (Win10/8/7)</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/panne-de-restauration-dimages-systeme-echec-a-cause-du-bios-et-de-lefi/"><u>Panne De Restauration D’images Système : Échec À Cause Du BIOS Et De L'EFI</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-seamlessly-moving-your-information-from-one-iphone-model-to-another-including-the-latest-iphone-15/"><u>Step-by-Step Guide: Seamlessly Moving Your Information From One iPhone Model to Another, Including the Latest iPhone 15</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-flsun-s1-a-comprehensive-review-of-its-rapid-warping-and-innovative-delta-design/"><u>Unveiling the FLSun S1: A Comprehensive Review of Its Rapid-Warping and Innovative Delta Design</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/wireless-methods-how-to-send-images-from-your-iphone-to-a-windows-laptop/"><u>Wireless Methods: How to Send Images From Your iPhone to a Windows Laptop</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-5-alternativ-semrush-dlya-razvitiya-seo-i-cifrovogo-marketinga/"><u>Топ-5 Альтернатив SEMrush Для Развития SEO И Цифрового Маркетинга</u></a></li>
 </ul></div>
 

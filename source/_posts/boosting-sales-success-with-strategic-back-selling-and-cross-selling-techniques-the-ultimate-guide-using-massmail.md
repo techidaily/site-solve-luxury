@@ -1,7 +1,7 @@
 ---
 title: "Boosting Sales Success with Strategic Back-Selling & Cross-Selling Techniques: The Ultimate Guide Using MassMail"
-date: 2024-10-18T18:02:07.710Z
-updated: 2024-10-19T16:19:55.521Z
+date: 2024-10-20T03:39:03.145Z
+updated: 2024-10-26T03:11:58.176Z
 tags:
   - product
 categories:
@@ -32,16 +32,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -52,10 +52,16 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -63,13 +69,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -82,6 +81,13 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -96,16 +102,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -113,10 +113,10 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -130,13 +130,6 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -153,6 +146,13 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,18 +173,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-exploring-minecrafts-eastern-cottage-ideas-for-2024/"><u>[Updated] Exploring Minecraft's Eastern Cottage Ideas for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-make-360-videos-with-iphone/"><u>[Updated] In 2024, How to Make 360 Videos with iPhone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-visionary-leap-introducing-camera-equipped-airpods-slated-for-2026-release/"><u>Apple's Visionary Leap: Introducing Camera-Equipped AirPods Slated for 2026 Release</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/einfache-schritte-zum-erstellen-eines-clonezilla-bootfahigen-usb-flash-drives-mit-rufus/"><u>Einfache Schritte Zum Erstellen Eines Clonezilla Bootfähigen USB Flash Drives Mit Rufus</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/exploring-vmwares-vms-licensing-schemes-essential-insights-for-your-infrastructure/"><u>Exploring VMware's VMS Licensing Schemes: Essential Insights for Your Infrastructure</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-ahead-of-the-curve-with-details-on-the-upcoming-apple-watch-ultra-ebe-pricing-predictions-and-release-dates/"><u>Get Ahead of the Curve with Details on the Upcoming Apple Watch Ultra Ebe: Pricing Predictions and Release Dates!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-clone-an-ssd-to-a-hard-drive-in-windows-11-with-secure-boot-feature/"><u>How to Clone an SSD to a Hard Drive in Windows 11 with Secure Boot Feature</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728507532078-microsoft-outlook/"><u>Microsoft Outlookアドレスブックを簡単な手順で安全に保存する方法</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-virtualdub-equivalent-10-video-editing-tools-you-need-to-know/"><u>New 2024 Approved VirtualDub Equivalent 10 Video Editing Tools You Need to Know</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-amr-format-processing-and-conversion/"><u>The Ultimate Guide to AMR Format Processing and Conversion</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-solutions-for-overcoming-windows-backup-failure-due-to-library-locations/"><u>Top Solutions for Overcoming 'Windows Backup Failure' Due to Library Locations</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-your-audio-potential-fixing-the-realtek-hd-audio-manager-not-opening-issue/"><u>Unlock Your Audio Potential: Fixing the Realtek HD Audio Manager Not Opening Issue</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-building-a-successful-livestream-empire-youtube-edition/"><u>[New] 2024 Approved Building a Successful Livestream Empire YouTube Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-8-editors-tablets-beyond-filmora-havent-you-tried-in-2024/"><u>[Updated] Top 8 Editors' Tablets Beyond Filmora, Haven't You Tried, In 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-how-do-i-prevent-auto-deletion-of-files-from-the-recycle-bin/"><u>1. How Do I Prevent Auto-Deletion of Files From the Recycle Bin?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/android-lacking-procreate-discover-top-6-alternatives-for-your-digital-art-needs/"><u>Android Lacking Procreate? Discover Top 6 Alternatives for Your Digital Art Needs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essentials-of-choosing-a-drone-vibration-controller/"><u>Essentials of Choosing a Drone Vibration Controller</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immediate-fixes-for-the-recurring-windows-10-photos-crashes/"><u>In 2024, Immediate Fixes for the Recurring Windows 10 Photos Crashes</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/massmailsoft-success-tip-how-not-requesting-a-quote-can-be-powerful/"><u>MassMailSoft Success Tip: How Not Requesting a Quote Can Be Powerful</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mastering-the-art-of-profitable-sms-campaigns-with-massmail-software-solutions/"><u>Mastering the Art of Profitable SMS Campaigns with MassMail Software Solutions</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mejora-la-velocidad-de-arranque-del-ssd-en-windows-11-usando-estas-8-tecnicas-efectivas/"><u>Mejora La Velocidad De Arranque Del SSD en Windows 11 Usando Estas 8 Técnicas Efectivas</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/outlookexpress-outlook3/"><u>OutlookExpressを凌駕する: Outlookへ完璧な切り替え手順トップ3</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/solving-mkv-compatibility-problems-in-plex-streaming-platform/"><u>Solving MKV Compatibility Problems in Plex Streaming Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ranking-dji-4k-video-editing-software-compared-best-picks-for-windows-and-mac-in-202n/"><u>Top-Ranking DJI 4K Video Editing Software Compared: Best Picks for Windows and Mac in 202N</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/topi-besti-per-il-ripristino-di-bitlocker-su-windows-versioni-11-8-e-7/"><u>Topi Besti per Il Ripristino Di BitLocker Su Windows: Versioni 11, 8 E 7</u></a></li>
 </ul></div>
 

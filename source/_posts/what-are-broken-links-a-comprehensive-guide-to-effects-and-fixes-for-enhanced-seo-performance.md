@@ -1,7 +1,7 @@
 ---
 title: What Are Broken Links? A Comprehensive Guide to Effects & Fixes for Enhanced SEO Performance
-date: 2024-10-15T08:31:47.315Z
-updated: 2024-10-20T09:03:07.184Z
+date: 2024-10-20T16:06:40.284Z
+updated: 2024-10-26T03:00:04.873Z
 tags:
   - wiki
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 >
 
 ## Broken link
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -41,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broken link definition
@@ -71,33 +64,54 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 * **This site can’t be reached**. A site took too long to respond. In addition to server errors, this status may also signalize the typo in the domain name:  
 ![site can't be reached message](https://cdn1.link-assistant.com/thumbs/w1073-c1/upload/seowiki/posts/28/bl1.png)
 * **502 (bad gateway)**. A server received an invalid response because it was crushed;
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Reset**. A server dropped connections because it was misconfigured or too busy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broken links’ meaning for SEO
 
 Broken links themselves do not directly affect your performance in search. Still, they negatively affect both the page they are placed on and the page they link to.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Outgoing broken links
 
 Broken links harm user experience and increase bounce rate, which will surely affect your site traffic. Besides, broken links result in incomplete content, as users cannot access the information they may need. What’s more, Google Quality Rater Guidelines say[\[2\]](https://tools.techidaily.com/link-assistant/products/) that Google watches the number of broken links to determine if the site is spammy or was abandoned. And if yes, Google may start deindexing the site.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Incoming broken links
 
 Broken links do not pass link juice, so the page where the link points to will not receive value and page strength. Plus, a page where a broken link points to may not be indexed at all if no other links point to it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing broken links
 
@@ -106,13 +120,6 @@ Broken links should be fixed anyway to prevent link juice drainage and poor user
 ### Broken links with 4xx status codes
 
 Most broken links that return 4xx status codes are fixed with the help of correctly implemented 301 redirects to relevant pages. Doing so keeps users on your website (i.e. bounce rate decreases), saves link juice, and does not harm UX.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Broken links with other status codes
 
@@ -147,24 +154,19 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-comprehensive-insight-into-simple-high-dynamic-range-capture/"><u>[Updated] Comprehensive Insight Into Simple High-Dynamic Range Capture</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-gifs-to-videos-in-a-snap-top-online-platforms-for-content-upgraders/"><u>[Updated] From GIFs to Videos in a Snap Top Online Platforms for Content Upgraders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-photobooth-lags-steadying-the-playback-journey/"><u>[Updated] Photobooth Lags Steadying the Playback Journey</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-steering-soft-sound-cessation-with-audacity/"><u>[Updated] Steering Soft Sound Cessation with Audacity</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-elite-essentials-the-ultimate-collection-of-cardboard-vr-games/"><u>2024 Approved Elite Essentials The Ultimate Collection of Cardboard VR Games</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728495612693-windows-111087/"><u>解決 Windows 11/10/8/7 磁碟修復失敗重新開始的方法</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/best-iphone-models-for-serious-gamers-a-comprehensive-guide/"><u>Best iPhone Models for Serious Gamers: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/comprehensive-tutorial-setting-up-and-placing-sim-cards-on-the-newest-iphones/"><u>Comprehensive Tutorial: Setting Up and Placing SIM Cards on the Newest iPhones</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effective-strategies-for-saving-your-emails-using-aomei-backupper/"><u>Effective Strategies for Saving Your Emails: Using AOMEI Backupper</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-transformation-how-to-play-mkv-videos-on-an-ipad-using-a-windows-pc/"><u>Effortless Transformation: How to Play MKV Videos on an iPad Using a Windows PC</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-ways-to-transfer-information-between-android-and-iphone-se-devices/"><u>Effortless Ways to Transfer Information Between Android and iPhone SE Devices</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-easily-delete-images-on-discord-using-windows/"><u>How to Easily Delete Images on Discord Using Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-zte-nubia-flip-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your ZTE Nubia Flip 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On OnePlus Ace 2? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-premier-picks-top-tripods-for-crystal-clear-4k-cinematography/"><u>In 2024, Premier Picks Top Tripods for Crystal-Clear 4K Cinematography</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/solution-detaillee-pour-un-disque-dur-externe-non-formatable-tout-savoir-sur-la-resolution/"><u>Solution Détaillée Pour Un Disque Dur Externe Non-Formatable : Tout Savoir Sur La Résolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-curtail-autonomous-cmd-display/"><u>Strategies to Curtail Autonomous CMD Display</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-alternatives-for-seamless-file-backups-and-syncs-beyond-the-best-second-copy-solution/"><u>Top Alternatives for Seamless File Backups & Syncs: Beyond the Best Second Copy Solution</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/akthr-trk-idara-aamlyat-nskh-alkrbon-bdyl-fak-loyndoz-11-8-7-ahdth/"><u>أكثر طرق إدارة عمليات نسخ الكربون: بديل فائق لويندوز 11، 8، 7 - أحدث</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-step-by-step-guide-to-excelling-at-final-cut-pro/"><u>[New] In 2024, Step-by-Step Guide to Excelling at Final Cut Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-navigating-zoom-technology-for-professional-use/"><u>[New] Navigating Zoom Technology for Professional Use</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-fast-track-to-facebooks-latest-viewing-history-2e23/"><u>[Updated] 2024 Approved Fast Track to Facebook’s Latest Viewing History (2E23)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-watch-over-instagrams-friendship-shifts/"><u>[Updated] In 2024, Watch Over Instagram's Friendship Shifts</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/fall-guys/"><u>完全修正：『Fall Guys』で発生する「ファイルを開くことができない」問題の解決方法</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/best-free-tools-for-retrieving-lost-images-on-windows-get-them-here/"><u>Best Free Tools for Retrieving Lost Images on Windows - Get Them Here!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/boosting-your-list-the-top-5-strategies-for-gaining-email-followers-with-massmail-tools/"><u>Boosting Your List: The Top 5 Strategies for Gaining Email Followers with MassMail Tools</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/errores-comunes-al-mover-datos-con-el-asistente-de-migracion-consejos-y-trucos/"><u>Errores Comunes Al Mover Datos Con El Asistente De Migración - Consejos Y Trucos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-speech-to-text-googles-perfect-translation-technique/"><u>In 2024, Mastering Speech-to-Text Google's Perfect Translation Technique</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725289205852-iphonedvd/"><u>IPhone上でのレンタルDVD鑑賞対策: ダウンロードから始めよう</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximizing-value-comparing-cloud-storage-costs-of-2024/"><u>Maximizing Value Comparing Cloud Storage Costs of 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/solucione-los-problemas-de-inicio-en-windows-11-con-estos-metodos-probados-incluyendo-problemas-usb-no-funcionales/"><u>Solucione Los Problemas De Inicio en Windows 11 Con Estos Métodos Probados (Incluyendo Problemas USB No Funcionales)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-usb-c-hubs-for-enhanced-connectivity/"><u>Top Rated USB-C Hubs for Enhanced Connectivity</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-walkthrough-bring-back-life-to-iphone-models-15141312-with-a-simple-icloud-backup-recovery/"><u>Ultimate Walkthrough: Bring Back Life to iPhone Models (15/14/13/12) with a Simple iCloud Backup Recovery</u></a></li>
 </ul></div>
 

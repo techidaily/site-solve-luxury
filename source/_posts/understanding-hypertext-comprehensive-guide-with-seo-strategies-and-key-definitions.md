@@ -1,7 +1,7 @@
 ---
 title: "Understanding Hypertext: Comprehensive Guide with SEO Strategies and Key Definitions"
-date: 2024-10-19T08:00:39.079Z
-updated: 2024-10-20T10:13:25.435Z
+date: 2024-10-18T21:18:46.213Z
+updated: 2024-10-26T05:12:13.131Z
 tags:
   - wiki
 categories:
@@ -18,6 +18,19 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
 ## Hypertext
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Contents
 
 * [Hypertext definition](https://tools.techidaily.com/link-assistant/products/)
@@ -29,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Hypertext definition
@@ -40,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 Hypertext is text that is displayed on a computer or other electronic device and is linked to other documents or resources[\[1\]](https://tools.techidaily.com/link-assistant/products/). When you click on a hypertext link, you are taken to the linked resource, which can be a webpage, an image, a video, or any other type of digital content. Hypertext links are created using [HTML](https://tools.techidaily.com/link-assistant/products/) (HyperText Markup Language) and are usually underlined and colored differently than the surrounding text to make them stand out[\[2\]](https://tools.techidaily.com/link-assistant/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Hypertext importance
@@ -72,13 +85,6 @@ Multimedia, on the other hand, refers to the use of multiple forms of media, suc
 
 In short, Hypertext is focused on the connection between text, Hypermedia expands the connections to include other media forms and Multimedia encompasses all media types to communicate information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Hypertext advantages
 
 Hypertext has several advantages that make it a useful tool for organizing and presenting information.
@@ -91,16 +97,16 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 * **Ease of use**: Hypertext is easy for users to understand and navigate. The concept of clicking on underlined or highlighted text to access more information is a common and well-established metaphor that most users are familiar with.
 * **Cost-effective**: Hypertext-based documents and information systems can be created and maintained with relatively low cost, as they can be created and distributed digitally.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Related links
 
 [Anchor Text: Types, SEO Implications, and Best Practices](https://tools.techidaily.com/link-assistant/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## References
 
@@ -121,21 +127,18 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-androids-favorite-3ds-game-emulators-ranked/"><u>[New] Android's Favorite 3DS Game Emulators Ranked</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-techniques-to-amplify-gopro-battery-duration/"><u>[New] Techniques to Amplify GoPro Battery Duration</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-lol-recording-three-easy-techniques/"><u>[Updated] In 2024, Mastering LOL Recording Three Easy Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-editors-journey-mastering-the-art-of-youtube-cuts/"><u>[Updated] The Editor's Journey Mastering the Art of Youtube Cuts</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windowstoshiba-ssd-windows-711/"><u>精选Windows系统下Toshiba SSD优化克隆工具：从 Windows 7到11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/advanced-tactics-preserving-the-integrity-of-whatsapp-talks/"><u>Advanced Tactics Preserving the Integrity of WhatsApp Talks</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728493797433-aomei/"><u>AOMEI製バックアップソフト「初期設定」へのガイド</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/guida-passo-passo-per-eseguire-un-ripristino-di-sistema-utilizzando-un-disco-avviabile/"><u>Guida Passo-Passo per Eseguire Un Ripristino Di Sistema Utilizzando Un Disco Avviabile</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-xr-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone XR without Password?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-your-learning-smart-ways-students-shouldnt-rely-on-chatgpt/"><u>Maximizing Your Learning: Smart Ways Students Shouldn't Rely on ChatGPT</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-proaudio-professionals-guide-analyzing-and-reviewing-the-top-8-daws-for-mac/"><u>New In 2024, ProAudio Professionals Guide Analyzing and Reviewing the Top 8 DAWs for Mac</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/optimal-cloud-storage-solutions-for-servers-seamless-trustworthy-and-self-regulating/"><u>Optimal Cloud Storage Solutions for Servers: Seamless, Trustworthy & Self-Regulating</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/srt-file-management-for-seamless-audible-experience/"><u>SRT File Management for Seamless Audible Experience</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-hidden-dangers-of-investing-in-identity-theft-protection-why-it-might-not-be-worth-your-trust/"><u>The Hidden Dangers of Investing in Identity Theft Protection: Why It Might Not Be Worth Your Trust</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unlocking-the-full-potential-overcoming-windows-server-backup-challenges-and-finding-superior-solutions/"><u>Unlocking the Full Potential: Overcoming Windows Server Backup Challenges and Finding Superior Solutions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/wie-man-eine-autonome-backup-losung-mit-google-drive-fur-den-desktop-aktiviert/"><u>Wie Man Eine Autonome Backup-Lösung Mit Google Drive Für Den Desktop Aktiviert</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-from-viral-soundtracks-to-personalized-phone-alerts-a-how-to-guide-for-2024/"><u>[New] From Viral Soundtracks to Personalized Phone Alerts – A How-To Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-blend-unique-web-humor-freshly-made/"><u>[Updated] 2024 Approved Blend Unique Web Humor Freshly Made</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-skirting-watermarks-in-stock-photography/"><u>[Updated] Skirting Watermarks in Stock Photography</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/accelerate-mobile-text-promotions-7-key-strategies-using-massmail-tool/"><u>Accelerate Mobile Text Promotions: 7 Key Strategies Using Massmail Tool</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/convert-ide-hdds-to-sata-on-windows-11-8-and-7-step-by-step-guide/"><u>Convert IDE HDDs to SATA on Windows 11, 8 & 7 - Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effective-call-to-action-strategies-in-seo-definitions-and-optimization-techniques/"><u>Effective Call-to-Action Strategies in SEO: Definitions & Optimization Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-k11-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo K11 5G?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mastering-link-building-understanding-backlinks-for-enhanced-search-rankings-and-seo-success/"><u>Mastering Link Building: Understanding Backlinks for Enhanced Search Rankings & SEO Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-exclusive-insights-on-an-extensive-oled-usage/"><u>My Exclusive Insights on an Extensive OLED Usage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rhythm-and-film-imovie-for-music-videos-for-2024/"><u>Rhythm & Film IMovie for Music Videos for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-device-compatible-backup-solutions-top-clone-and-recovery-programs-for-all-users/"><u>Ultimate Device-Compatible Backup Solutions: Top Clone & Recovery Programs for All Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/webcam-innovation-cutting-edge-live-video-technology-for-2024/"><u>Webcam Innovation Cutting-Edge Live Video Technology for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/windows-partition-anaghatana-ma-lga-ka-vapasa-parapata-karana-ka-yaha-samaya-caranae-thara-caranae-mal/"><u>Windows Partition अनघटन में लोगों को वापस प्राप्त करने का यह समय! - चरण-दर-चरण मूल</u></a></li>
 </ul></div>
 
