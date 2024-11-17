@@ -1,7 +1,7 @@
 ---
 title: What Are Broken Links? A Comprehensive Guide to Effects & Fixes for Enhanced SEO Performance
-date: 2024-10-30T18:05:58.970Z
-updated: 2024-11-06T19:07:24.854Z
+date: 2024-11-16T02:34:45.465Z
+updated: 2024-11-16T17:39:10.549Z
 tags:
   - wiki
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 >
 
 ## Broken link
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -41,15 +34,22 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broken link definition
 
 A broken link is a link to a page that does not work. When a user or a search engine crawler follows such link, they see an error message or a 404 (not found) page. Another popular definition for broken links is dead links. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why broken links appear
 
@@ -79,22 +79,21 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 Broken links themselves do not directly affect your performance in search. Still, they negatively affect both the page they are placed on and the page they link to.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Outgoing broken links
 
 Broken links harm user experience and increase bounce rate, which will surely affect your site traffic. Besides, broken links result in incomplete content, as users cannot access the information they may need. What’s more, Google Quality Rater Guidelines say[\[2\]](https://tools.techidaily.com/link-assistant/products/) that Google watches the number of broken links to determine if the site is spammy or was abandoned. And if yes, Google may start deindexing the site.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Incoming broken links
 
@@ -104,16 +103,16 @@ Broken links do not pass link juice, so the page where the link points to will n
 
 Broken links should be fixed anyway to prevent link juice drainage and poor user experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Broken links with 4xx status codes
 
 Most broken links that return 4xx status codes are fixed with the help of correctly implemented 301 redirects to relevant pages. Doing so keeps users on your website (i.e. bounce rate decreases), saves link juice, and does not harm UX.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Broken links with other status codes
 
@@ -128,6 +127,13 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 [The Ultimate Guide to Broken Link Building](https://tools.techidaily.com/link-assistant/products/)
 
 [Most Common Indexing Issues and How to Fix Them - 404 Not Found](https://tools.techidaily.com/link-assistant/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## References
 
@@ -148,16 +154,18 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-capturing-horizon-views-for-successful-drone-livestreams/"><u>[Updated] In 2024, Capturing Horizon Views for Successful Drone Livestreams</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-breakdown-the-ultimate-dji-phantom-4-experience/"><u>2024 Approved Full Breakdown The Ultimate DJI Phantom 4 Experience</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-10-0xc00-cuase-error-code/"><u>如何解決 Windows 10 0Xc00 Cuase Error Code和進行系统備份：深度指南</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-techniques-how-to-load-configuration-from-an-ini-file/"><u>Advanced Techniques: How to Load Configuration From an INI File</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discreet-methods-for-archiving-snapchat-images-unbeknownst-to-friends/"><u>Discreet Methods for Archiving Snapchat Images Unbeknownst to Friends</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-insight-on-sonys-xperia-5-big-features-in-a-small-frame/"><u>Expert Insight on Sony's Xperia 5 - Big Features in a Small Frame</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-smooth-sailing-with-kinemaster-in-film-edits/"><u>In 2024, Smooth Sailing with Kinemaster in Film Edits</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/instructions-detaillees-pour-changer-un-hdd-par-un-ssd-sous-windows-11-guide-doptimisation/"><u>Instructions Détaillées Pour Changer Un HDD Par Un SSD Sous Windows 11 : Guide D'Optimisation</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/kopieren-ihrer-festplatte-in-windows-10-64-bit-effektiv-und-einfach-verstehen/"><u>Kopieren Ihrer Festplatte in Windows 10 (64-Bit) Effektiv Und Einfach Verstehen</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/recupera-tutto-il-contenuto-eliminato-3-fasi-per-restaurare-da-spambin/"><u>Recupera Tutto Il Contenuto Eliminato: 3 Fasi per Restaurare Da Spambin -</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-choosing-a-great-affordable-indoor-hdtv-antenna-featuring-1byone-digital-model/"><u>Ultimate Guide to Choosing a Great Affordable Indoor HDTV Antenna - Featuring 1Byone Digital Model</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/que-es-el-formato-rapido-y-como-puede-destruir-tus-archivos-sin-querer-consejos-para-recuperar-los-datos-perdidos/"><u>¿Qué Es El Formato Rápido Y Cómo Puede Destruir Tus Archivos Sin Querer? Consejos Para Recuperar Los Datos Perdidos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-top-screen-recorders-for-live-broadcasts-on-youtube/"><u>[New] 2024 Approved Top Screen Recorders for Live Broadcasts on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diving-deep-the-intricacies-of-the-mukbang-phenomenon/"><u>[Updated] 2024 Approved Diving Deep The Intricacies of the Mukbang Phenomenon</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/elevate-your-business-strategy-with-these-11-benefits-of-large-scale-sms-marketing-using-massmail-tools/"><u>Elevate Your Business Strategy with These 11 Benefits of Large-Scale SMS Marketing Using MassMail Tools</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/email-or-text-messaging-for-your-brand-choosing-the-most-effective-digital-channels-with-massmail-software/"><u>Email or Text Messaging for Your Brand: Choosing the Most Effective Digital Channels with Massmail Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-text-to-visualization-the-ultimate-guide-to-using-dall-e-with-chatgpt-4-for-ai-artwork/"><u>From Text to Visualization: The Ultimate Guide to Using DALL-E with ChatGPT-4 for AI Artwork</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-ace-2v-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Ace 2V to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-g42-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia G42 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mastering-high-value-promotions-the-ultimate-guide-with-massmail-learn-creating-lucrative-email-campaigns/"><u>Mastering High-Value Promotions: The Ultimate Guide with MassMail - Learn Creating Lucrative Email Campaigns</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/software-di-clonazione-per-unita-ssd-senza-perdite-dati-una-guida-definitiva/"><u>Software Di Clonazione per Unità SSD Senza Perdite Dati: Una Guida Definitiva</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-intersection-of-real-and-virtual-defining-mixed-reality-for-2024/"><u>The Intersection of Real and Virtual Defining Mixed Reality for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/the-lasting-impact-of-email-marketing-insights-and-tools-with-massmail/"><u>The Lasting Impact of Email Marketing: Insights and Tools with Massmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-magsafe-chargers-thoroughly-vetted-by-pros-at-techradar/"><u>Top Rated MagSafe Chargers - Thoroughly Vetted by Pros at TechRadar</u></a></li>
 </ul></div>
 

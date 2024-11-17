@@ -1,7 +1,7 @@
 ---
 title: Is the IDP Generic Alert a Hoax or Hazard? Comprehensive Guide to Detecting and Deleting This Alleged Virus
-date: 2024-10-30T22:16:57.168Z
-updated: 2024-11-06T19:43:47.031Z
+date: 2024-11-14T01:22:42.656Z
+updated: 2024-11-16T19:03:35.109Z
 tags:
   - product
   - antivirus
@@ -62,16 +62,16 @@ However, some common symptoms are:
 * A random window is opened without the user’s initiation.
 * Redirection to untrustworthy or suspicious sites.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does the IDP.Generic virus works?
 
 If the warning by antimalware is not a false-positive, then IDP.Generic virus detection means your system is generally infected with a Trojan virus. A trojan virus presents itself as a legitimate app or file and works in the background by corrupting your data to intercept your internet traffic. Developers can use it to perform many malicious activities like stealing your bank information, passwords, spying on your mails, and more.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did I get the IDP.Generic Virus?
 
@@ -89,22 +89,16 @@ Before moving forward to know the ways of removing IDP.Generic virus, first upda
 
 After updating and re-scanning, if it still shows the warning, move further in this guide to know how to remove it. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Step 1: Restart your PC in Safe Mode**
 
 Windows Safe Mode is the perfect environment to find out and solve the critical errors in the system. In safe mode, only system programs and some crucial programs run. Safe mode would most likely kill the applications and its files that try to run automatically on your system. [Follow this guide to boot your Windows 10 PC in the **Safe Mode**](https://www.windowschimp.com/how-to-boot-windows-10-into-safe-mode/)**.**
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 2: Uninstall Suspicious Applications**
 
@@ -120,10 +114,10 @@ If IDP.Generic virus is still there on your PC, try to find the culprit applicat
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Step 3: Delete Temporary Files**
@@ -136,21 +130,14 @@ Here are the steps to eliminate thre temporary files:
 2. Type **%temp%** and hit the enter key.![temp run command](https://www.malwarefox.com/wp-content/uploads/2020/07/temp-run-command.png)
 3. This run command would navigate you to this path: **_C:\\Users\\\[username\]\\AppData\\Local\\Temp,_** that is, the temp folder.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Step 4: Reset Web Browser Settings**
@@ -160,25 +147,25 @@ If your browser is misbehaving because of IDP.Generic virus, then reset its sett
 1. Open Chrome and navigate to **Settings** by clicking on the three-dots at the top right.![Chrome Settings](https://www.malwarefox.com/wp-content/uploads/2020/03/Chrome-Malware-Scanner-1.png)
 2. Click on advanced **Advanced**.![Chrome Advanced Settings](https://www.malwarefox.com/wp-content/uploads/2020/05/Chrome-Malware-Scanner-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under **Reset and cleanup,** click on “**Restore settings to their original defaults.”**![Restore chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/Restore-chrome.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
 
 5. Relaunch your browser.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 5: Install an Antimalware and Perform a Scan**
 
@@ -188,6 +175,13 @@ MalwareFox is a reliable security software that promises to protect your system 
 
 1. [Download Malwarefox and install it](https://tools.techidaily.com/malwarefox/products/).
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Takeaways to Avoid Such Threats in The Future
 
@@ -238,22 +232,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-optimize-your-instagram-stories-for-engagement-for-2024/"><u>[New] How to Optimize Your Instagram Stories for Engagement for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-effortless-income-estimations-for-youtubers/"><u>[Updated] Effortless Income Estimations for YouTubers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-adaptive-sharing-techniques-for-igtv-on-fb/"><u>2024 Approved Adaptive Sharing Techniques for IGTV on FB</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728486904418-4/"><u>防護措施：以指令符保存硬碟備份方法 | 4次元解決方案</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/a-comprehensive-guide-to-retrieving-accidentally-erased-partitions-in-windows-10/"><u>A Comprehensive Guide to Retrieving Accidentally Erased Partitions in Windows 10</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/bringing-the-past-forward-a-step-by-step-guide-on-recovering-windows-7-saves-on-modern-windows-10-systems-two-approaches/"><u>Bringing the Past Forward: A Step-by-Step Guide on Recovering Windows 7 Saves on Modern Windows 10 Systems (Two Approaches)</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/comment-diminuer-lencombrement-dans-la-vie-quotidienne-avec-des-astuces-efficaces-deconomie-despace/"><u>Comment Diminuer L’Encombrement Dans La Vie Quotidienne Avec Des Astuces Efficaces D'Économie D'Espace</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-auto-play-on-apple-music-a-step-by-step-guide/"><u>Disabling Auto-Play on Apple Music: A Step-by-Step Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-infinix-hot-30-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Infinix Hot 30 5G.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-acer-monitor-software/"><u>Get the Latest Acer Monitor Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-upgrade-from-a-standard-ssd-to-a-larger-ssd-on-windows-111087/"><u>How to Upgrade From a Standard SSD to a Larger SSD on Windows 11/10/8/7</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-huawei-nova-y71-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-shut-down-multiple-safari-tabs-simultaneously-on-ios-devices/"><u>Quick Guide: Shut Down Multiple Safari Tabs Simultaneously on iOS Devices</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/quick-steps-to-assemble-a-bootable-usb-flash-drive-for-windows-server-2019/"><u>Quick Steps to Assemble a Bootable USB Flash Drive for Windows Server 2019</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-alternatives-for-seamless-file-backups-and-syncs-beyond-the-best-second-copy-solution/"><u>Top Alternatives for Seamless File Backups & Syncs: Beyond the Best Second Copy Solution</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/tutorial-comment-rebrancher-avec-succes-votre-serveur-windows-server-2019-en-trois-etapes-facilement-comprehensibles/"><u>Tutorial : Comment Rebrancher Avec Succès Votre Serveur Windows Server 2019 en Trois Étapes Facilement Compréhensibles</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-solving-the-dreaded-80072f8f-issue-on-your-pc/"><u>Ultimate Guide: Solving the Dreaded 80072F8F Issue on Your PC</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-discover-these-exciting-free-tools-to-elevate-your-tiktok-videos-top-10/"><u>[Updated] 2024 Approved Discover These Exciting Free Tools to Elevate Your TikTok Videos (Top 10)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-uniting-individual-shots-into-a-compelling-image-story/"><u>[Updated] In 2024, Uniting Individual Shots Into a Compelling Image Story</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-schutzen-sie-ihre-daten-mit-leichtigkeit-expertise-bei-der-sicherung-von-windows-server-201-dateien/"><u>1. Schützen Sie Ihre Daten Mit Leichtigkeit: Expertise Bei Der Sicherung Von Windows-Server-201#-Dateien</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/como-redimensionar-e-imitar-un-disco-duro-en-sistemas-windows-para-obtener-nuevas-dimensiones-metodos-detallados/"><u>Cómo Redimensionar E Imitar Un Disco Duro en Sistemas Windows Para Obtener Nuevas Dimensiones - Métodos Detallados</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/engaging-your-audience-with-social-strategies-5-techniques-to-encourage-repeat-website-visits-powered-by-massmail/"><u>Engaging Your Audience with Social Strategies: 5 Techniques to Encourage Repeat Website Visits | Powered by Massmail</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/hassle-free-transition-migrate-windows-8-or-81-to-any-hardware-quickly-and-securely/"><u>Hassle-Free Transition: Migrate Windows 8 or 8.1 to Any Hardware Quickly and Securely</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-cutting-out-of-sound-issues-in-windows-11-solved/"><u>How to Fix Continuous Cutting Out of Sound Issues in Windows 11 – Solved!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mastering-promotions-effective-techniques-for-small-businesses-during-holiday-sales-with-massmail-solutions/"><u>Mastering Promotions: Effective Techniques for Small Businesses During Holiday Sales with MassMail Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-knowing-when-youve-been-read-in-gmail/"><u>Mastering the Art of Knowing When You've Been Read in Gmail</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rs-of-digital-avengers-realms/"><u>Masters of Digital Avengers Realms</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/maximize-conversions-essential-techniques-for-winning-email-subject-lines-and-sales-letters-using-massmail-software/"><u>Maximize Conversions: Essential Techniques for Winning Email Subject Lines and Sales Letters Using Massmail Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-cominterop-anomalies-in-winos-environment/"><u>Resolving COMInterop Anomalies in WinOS Environment</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-to-securely-migrate-your-gpt-volume-from-hard-drive-to-solid-state-in-windows-11/"><u>Step-by-Step Guide to Securely Migrate Your GPT Volume From Hard Drive to Solid State in WIndows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-why-wont-my-application-work-on-windows/"><u>Troubleshooting: Why Won't My Application Work on Windows?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/understanding-google-penalties-comprehensive-guide-and-seo-optimization-techniques/"><u>Understanding Google Penalties: Comprehensive Guide & SEO Optimization Techniques</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-final-cut-pro-x-tutorial-l-cuts-and-j-cuts/"><u>Updated In 2024, Final Cut Pro X Tutorial L-Cuts and J-Cuts</u></a></li>
 </ul></div>
 
