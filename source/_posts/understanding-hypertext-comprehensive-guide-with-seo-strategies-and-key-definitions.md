@@ -1,7 +1,7 @@
 ---
 title: "Understanding Hypertext: Comprehensive Guide with SEO Strategies and Key Definitions"
-date: 2024-11-15T18:33:56.130Z
-updated: 2024-11-16T23:23:36.321Z
+date: 2024-11-19T17:09:37.784Z
+updated: 2024-11-26T16:06:50.235Z
 tags:
   - wiki
 categories:
@@ -16,14 +16,11 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## Hypertext
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Hypertext
 
 ### Contents
 
@@ -36,16 +33,7 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext definition
@@ -55,6 +43,10 @@ Hypertext is text that is displayed on a computer or other electronic device and
 ## Hypertext importance
 
 Hypertext is an important part of the World Wide Web, as it allows users to navigate between different pages and resources easily and quickly. It is also a key feature of many other types of electronic documents, including ebooks and presentations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hypertext structure
 
@@ -67,10 +59,7 @@ This structure and flexibility of hypertext also allow creating of complex struc
 It's important to note that Hypertext structure can take on many forms and it could be defined and implemented differently depending on the context and the purpose of the Hypertext system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext, hypermedia, and multimedia
@@ -85,19 +74,6 @@ Multimedia, on the other hand, refers to the use of multiple forms of media, suc
 
 In short, Hypertext is focused on the connection between text, Hypermedia expands the connections to include other media forms and Multimedia encompasses all media types to communicate information.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Hypertext advantages
 
 Hypertext has several advantages that make it a useful tool for organizing and presenting information.
@@ -109,6 +85,10 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 * **Flexibility**: Hypertext is a flexible way of organizing information that can be adapted to a wide range of contexts, from simple webpages to complex, multimedia-rich websites and applications.
 * **Ease of use**: Hypertext is easy for users to understand and navigate. The concept of clicking on underlined or highlighted text to access more information is a common and well-established metaphor that most users are familiar with.
 * **Cost-effective**: Hypertext-based documents and information systems can be created and maintained with relatively low cost, as they can be created and distributed digitally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related links
 
@@ -133,18 +113,21 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazons-premier-titles-social-media-sensation-winners/"><u>[New] 2024 Approved Amazon’s Premier Titles Social Media Sensation Winners</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pinterests-top-free-tools-effortless-video-downloads-online/"><u>[New] Pinterest’s Top Free Tools Effortless Video Downloads Online</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-15-latest-tiktok-fads-stay-updated/"><u>[New] Top 15 Latest TikTok Fads Stay Updated</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-win10-screen-grabber-top-tier-video-recorder-for-2024/"><u>[New] Win10 Screen Grabber - Top-Tier Video Recorder for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-adjusting-youtube-video-scale-effectively/"><u>[Updated] Adjusting YouTube Video Scale Effectively</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-merge-skype-and-zoom-easy-techniques-for-effective-communication/"><u>[Updated] Merge Skype and Zoom Easy Techniques for Effective Communication</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/airdrop-fehlerbehebung-fur-iphone-modelle-ab-version-14-lernen-sie-hier-6-tipps-kennen/"><u>AirDrop Fehlerbehebung Für iPhone-Modelle Ab Version 14 - Lernen Sie Hier 6 Tipps Kennen!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/dell-installieren-sie-eine-partition-zur-windows-version-11-reinstallation-und-zurucksetzung-auf-werkseinstellungen/"><u>Dell - Installieren Sie Eine Partition Zur Windows-Version 11 Reinstallation Und Zurücksetzung Auf Werkseinstellungen</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/determining-ideal-hard-drive-capacity-for-robust-malware-defense-systems/"><u>Determining Ideal Hard Drive Capacity for Robust Malware Defense Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-make-everyday-banter-hilarious-text-meme-genration/"><u>In 2024, Make Everyday Banter Hilarious Text Meme Gen'ration</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/leading-seo-firms-in-muscat-oman-enhance-your-digital-visibility-with-seo-expertise/"><u>Leading SEO Firms in Muscat, Oman: Enhance Your Digital Visibility with SEO Expertise</u></a></li>
-<li><a href="https://driver-install.techidaily.com/restore-functionality-with-reinstalled-atheros-drivers/"><u>Restore Functionality with Reinstalled Atheros Drivers</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-comprehensive-guide-unveiling-the-contrast-between-ssd-sanitize-and-secure-erase-procedures/"><u>The Comprehensive Guide: Unveiling the Contrast Between SSD Sanitize & Secure Erase Procedures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-dynamic-oratory-study-insights-part-8/"><u>[New] 2024 Approved Dynamic Oratory Study Insights, Part 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-apex-quiz-channels-top-general-knowledge-picks-of-2024/"><u>[New] The Apex Quiz Channels Top General Knowledge Picks of 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-steps-for-exceptional-photographic-assemblies/"><u>[Updated] Essential Steps for Exceptional Photographic Assemblies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies/"><u>[Updated] The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210309589-9781801349659-10-guided-meditations-for-anxiety/"><u>10 Guided Meditations For Anxiety | Free Book</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/accelerate-mobile-text-promotions-7-key-strategies-using-massmail-tool/"><u>Accelerate Mobile Text Promotions: 7 Key Strategies Using Massmail Tool</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/convert-ide-hdds-to-sata-on-windows-11-8-and-7-step-by-step-guide/"><u>Convert IDE HDDs to SATA on Windows 11, 8 & 7 - Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/crisis-mastery-2009-harness-self-discipline-to-cut-costs-using-massmails-financial-software-solutions/"><u>Crisis Mastery 2009: Harness Self-Discipline to Cut Costs Using Massmail's Financial Software Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-factors-in-picking-the-best-selfie-extender-for-epic-shots/"><u>Essential Factors in Picking the Best Selfie Extender for Epic Shots</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snicker-shelf-premium-collection-of-gratuitous-gags/"><u>In 2024, Snicker Shelf Premium Collection of Gratuitous Gags</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mastering-link-building-understanding-backlinks-for-enhanced-search-rankings-and-seo-success/"><u>Mastering Link Building: Understanding Backlinks for Enhanced Search Rankings & SEO Success</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728488182179-pc-google/"><u>PC間ファイル同期に最適: Googleドライブ使い方講座</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-device-compatible-backup-solutions-top-clone-and-recovery-programs-for-all-users/"><u>Ultimate Device-Compatible Backup Solutions: Top Clone & Recovery Programs for All Users</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/understanding-clickbait-a-comprehensive-guide-for-search-engine-optimization-strategies/"><u>Understanding Clickbait: A Comprehensive Guide for Search Engine Optimization Strategies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-premium-free-srt-translation-services/"><u>Unveiling Premium Free SRT Translation Services</u></a></li>
 </ul></div>
 

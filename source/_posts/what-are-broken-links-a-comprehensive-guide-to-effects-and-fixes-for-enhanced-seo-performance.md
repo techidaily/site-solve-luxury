@@ -1,7 +1,7 @@
 ---
 title: What Are Broken Links? A Comprehensive Guide to Effects & Fixes for Enhanced SEO Performance
-date: 2024-11-16T02:34:45.465Z
-updated: 2024-11-16T17:39:10.549Z
+date: 2024-11-22T16:24:50.698Z
+updated: 2024-11-26T16:16:57.294Z
 tags:
   - wiki
 categories:
@@ -33,22 +33,12 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 * [Related links](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Broken link definition
 
 A broken link is a link to a page that does not work. When a user or a search engine crawler follows such link, they see an error message or a 404 (not found) page. Another popular definition for broken links is dead links. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why broken links appear
@@ -72,24 +62,15 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 ![site can't be reached message](https://cdn1.link-assistant.com/thumbs/w1073-c1/upload/seowiki/posts/28/bl1.png)
 * **502 (bad gateway)**. A server received an invalid response because it was crushed;
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Reset**. A server dropped connections because it was misconfigured or too busy.
 
 ## Broken links’ meaning for SEO
 
 Broken links themselves do not directly affect your performance in search. Still, they negatively affect both the page they are placed on and the page they link to.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Outgoing broken links
 
@@ -99,20 +80,21 @@ Broken links harm user experience and increase bounce rate, which will surely af
 
 Broken links do not pass link juice, so the page where the link points to will not receive value and page strength. Plus, a page where a broken link points to may not be indexed at all if no other links point to it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing broken links
 
 Broken links should be fixed anyway to prevent link juice drainage and poor user experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Broken links with 4xx status codes
 
 Most broken links that return 4xx status codes are fixed with the help of correctly implemented 301 redirects to relevant pages. Doing so keeps users on your website (i.e. bounce rate decreases), saves link juice, and does not harm UX.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Broken links with other status codes
 
@@ -122,18 +104,15 @@ If a link is broken because of server issues, then it is the server that needs f
 
 Sometimes a page is moved without any alternative. In this case, you should not redirect users to your homepage but set up a custom 404 page. It should include some navigation links that may be interesting for users. Custom 404s are not indexed by Google and are needed to keep users on your site and decrease bounce rate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Related links
 
 [The Ultimate Guide to Broken Link Building](https://tools.techidaily.com/link-assistant/products/)
 
 [Most Common Indexing Issues and How to Fix Them - 404 Not Found](https://tools.techidaily.com/link-assistant/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## References
 
@@ -154,18 +133,14 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-luxury.techidaily.com/que-es-el-formato-rapido-y-como-puede-destruir-tus-archivos-sin-querer-consejos-para-recuperar-los-datos-perdidos/"><u>¿Qué Es El Formato Rápido Y Cómo Puede Destruir Tus Archivos Sin Querer? Consejos Para Recuperar Los Datos Perdidos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-top-screen-recorders-for-live-broadcasts-on-youtube/"><u>[New] 2024 Approved Top Screen Recorders for Live Broadcasts on YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diving-deep-the-intricacies-of-the-mukbang-phenomenon/"><u>[Updated] 2024 Approved Diving Deep The Intricacies of the Mukbang Phenomenon</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/elevate-your-business-strategy-with-these-11-benefits-of-large-scale-sms-marketing-using-massmail-tools/"><u>Elevate Your Business Strategy with These 11 Benefits of Large-Scale SMS Marketing Using MassMail Tools</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/email-or-text-messaging-for-your-brand-choosing-the-most-effective-digital-channels-with-massmail-software/"><u>Email or Text Messaging for Your Brand: Choosing the Most Effective Digital Channels with Massmail Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-text-to-visualization-the-ultimate-guide-to-using-dall-e-with-chatgpt-4-for-ai-artwork/"><u>From Text to Visualization: The Ultimate Guide to Using DALL-E with ChatGPT-4 for AI Artwork</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-ace-2v-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus Ace 2V to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-g42-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia G42 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mastering-high-value-promotions-the-ultimate-guide-with-massmail-learn-creating-lucrative-email-campaigns/"><u>Mastering High-Value Promotions: The Ultimate Guide with MassMail - Learn Creating Lucrative Email Campaigns</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/software-di-clonazione-per-unita-ssd-senza-perdite-dati-una-guida-definitiva/"><u>Software Di Clonazione per Unità SSD Senza Perdite Dati: Una Guida Definitiva</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-intersection-of-real-and-virtual-defining-mixed-reality-for-2024/"><u>The Intersection of Real and Virtual Defining Mixed Reality for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-lasting-impact-of-email-marketing-insights-and-tools-with-massmail/"><u>The Lasting Impact of Email Marketing: Insights and Tools with Massmail</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-magsafe-chargers-thoroughly-vetted-by-pros-at-techradar/"><u>Top Rated MagSafe Chargers - Thoroughly Vetted by Pros at TechRadar</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-flashback-screen-recorder-review/"><u>[New] 2024 Approved FlashBack Screen Recorder Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[New] In 2024, How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/44cm44k344k544og44og44gu5b6p5ywd44cn44gn5asx44kp44km44gf44oh44o844k44ks5yplusw44kk5oi744gz56m25qw144ks44kk44oj/"><u>「システムの復元」で失われたデータを取り戻す究極ガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-infinix-hot-40-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Infinix Hot 40 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/guia-paso-a-paso-para-recuperar-una-particion-efi-eliminada-en-windows-10-con-dos-soluciones-practicas/"><u>Guía Paso a Paso Para Recuperar Una Partición EFI Eliminada en Windows 10 Con Dos Soluciones Prácticas</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-foundations-of-fluid-graphics-a-primer/"><u>In 2024, Foundations of Fluid Graphics A Primer</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mastering-seo-with-permalinks-essential-definitions-and-effective-strategies-for-improved-rankings/"><u>Mastering SEO with Permalinks: Essential Definitions and Effective Strategies for Improved Rankings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/say-goodbye-meta-no-longer-backs-the-quest-1-virtual-reality-headset/"><u>Say Goodbye: Meta No Longer Backs the Quest 1 Virtual Reality Headset</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-backing-up-your-outlookcom-mailbox-with-ease/"><u>Ultimate Guide: Backing Up Your Outlook.com Mailbox with Ease</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solutions Pour Faire Afficher L’Appareil De Stockage Internal Sur L’iPhone : Six Options Efficientes"
-date: 2024-11-11T04:56:53.236Z
-updated: 2024-11-16T17:23:34.645Z
+date: 2024-11-21T16:19:13.249Z
+updated: 2024-11-26T17:13:31.231Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949cb98537f68160223a0f7de27.jpg
@@ -48,23 +48,9 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -98,6 +84,14 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -109,10 +103,7 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
@@ -124,10 +115,7 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
@@ -138,6 +126,10 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
@@ -147,17 +139,7 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
@@ -174,22 +156,23 @@ Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -203,13 +186,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -226,6 +202,10 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -246,6 +226,10 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Free Get MyRecover Now
 
@@ -272,22 +256,20 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-lively-discourse-evaluation-iteration-8/"><u>[New] In 2024, Lively Discourse Evaluation - Iteration 8</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-masterclass-in-capturing-video-frames/"><u>[New] In 2024, Masterclass in Capturing Video Frames</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlocking-the-secrets-of-captivating-auditory-and-visual-sensations-in-asmr-videos/"><u>[Updated] 2024 Approved Unlocking the Secrets of Captivating Auditory & Visual Sensations in ASMR Videos</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/iuoajoocueodioodroodvoocuowvvuixoeodhplusodvoocvplusobruajseobhdog56c05qoe5b6m44kc5a6j5ywo5ocn44gv5asj44kp44kk44gplus44gb44kt44gl77yf44cnig/"><u>「ストレージ対象データの扱い: 破棄後も安全性は変わりませんか？」</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/p-guide-to-ascertain-googles-profitable-potential-youtube-analysis-for-2024/"><u>3-Step Guide to Ascertain Google's Profitable Potential YouTube Analysis for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/chrome-users-rejoice-eliminate-all-pop-up-ads-with-these-4-effective-strategies/"><u>Chrome Users Rejoice: Eliminate All Pop-Up Ads with These 4 Effective Strategies</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/enhance-subscriber-relationships-in-4-simple-steps-using-massmail-software/"><u>Enhance Subscriber Relationships in 4 Simple Steps Using MassMail Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-rapide-et-facile-pour-convertir-des-fichiers-asf-en-mp3-gratuits-en-ligne-avec-movavi/"><u>Guide Rapide Et Facile Pour Convertir Des Fichiers ASF en MP3 Gratuits en Ligne Avec Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-pursuit-with-panasonics-hx-a1-wearable-cameras/"><u>In Pursuit with Panasonic’s HX-A1 Wearable Cameras</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/master-your-inbox-impact-discover-premium-email-marketing-charts-from-massmail-experts/"><u>Master Your Inbox Impact - Discover Premium Email Marketing Charts From MassMail Experts</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mastering-the-art-of-url-slugging-for-enhanced-search-engine-visibility-expert-advice-and-tips/"><u>Mastering the Art of URL Slugging for Enhanced Search Engine Visibility - Expert Advice & Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-google-chrome-when-it-wont-start/"><u>Resolved: How to Fix Google Chrome When It Won't Start</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210675540-9781990863103-sacred-geometry-for-the-soul/"><u>Sacred Geometry For The Soul | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-ati-graphics-card-drivers-on-a-pc/"><u>Step-by-Step Guide: Updating Your ATI Graphics Card Drivers on a PC</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-great-debate-of-e-learning-media-comparing-videos-and-audios-for-cutting-edge-market-tactics-via-massmail/"><u>The Great Debate of E-Learning Media: Comparing Videos and Audios for Cutting-Edge Market Tactics via MassMail</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-10-seo-kompanij-v-prage-polnyj-spisok-professionalnyh-specialistov-po-optimizacii-dlya-chehii/"><u>Топ-10 SEO-Компаний В Праге: Полный Список Профессиональных Специалистов По Оптимизации Для Чехии</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728486939229-yahoo/"><u>メールのインポート・エクスポート: Yahoo! メールで重要な手順を学ぶ</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-secrets-to-optimize-gopro-camera-energy-consumption/"><u>[New] 2024 Approved Secrets to Optimize GoPro Camera Energy Consumption</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-effective-strategies-for-mov-video-recording-in-windows-11/"><u>[New] Effective Strategies for MOV Video Recording in Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-quality-sd-card-for-sony-alpha-7s-ii-for-2024/"><u>[New] Top Quality SD Card for Sony Alpha 7S II for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/6-steps-to-seamlessly-move-images-from-your-vintage-ipad-onto-a-latest-model/"><u>6 Steps to Seamlessly Move Images From Your Vintage iPad Onto a Latest Model</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/come-clonare-le-tue-partizioni-samsung-860-con-software-completamente-gratuiti/"><u>Come Clonare Le Tue Partizioni Samsung 860 Con Software Completamente Gratuiti</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/cost-analysis-physical-servers-versus-virtual-servers-in-the-cloud-era/"><u>Cost Analysis: Physical Servers Versus Virtual Servers in the Cloud Era</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-completely-delete-files-explore-these-7-effective-algorithms/"><u>How to Completely Delete Files? Explore These 7 Effective Algorithms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-mornings-with-mirari-expert-review-of-childrens-alarm-technology/"><u>Mastering Mornings with Mirari: Expert Review of Children’s Alarm Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/modify-your-computers-aesthetic-adjusting-font-settings-in-windows-11-easily/"><u>Modify Your Computer's Aesthetic: Adjusting Font Settings in Windows 11 Easily</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/roku-revolutionizes-audio-visual-integration/"><u>Roku Revolutionizes Audio-Visual Integration</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/secure-your-files-advanced-backup-solutions-via-linea-de-comandos-and-batch-scripts-using-aomei-software/"><u>Secure Your Files: Advanced Backup Solutions via Línea De Comandos & Batch Scripts Using AOMEI Software</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-vivo-y02t-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Vivo Y02T</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/streamlined-media-sharing-between-devices-using-just-one-itunes-collection/"><u>Streamlined Media Sharing Between Devices Using Just One iTunes Collection</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/transforma-sus-videos-ts-en-formato-webm-libremente-en-la-web-por-medio-de-herramientas-de-conversion-gratuitas-como-movavi/"><u>Transforma Sus Videos TS en Formato WebM Libremente en La Web Por Medio De Herramientas De Conversión Gratuitas Como Movavi</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/usb-flash-drive-boot-guide-for-windows-11-easy-step-by-step-methods-explained/"><u>USB Flash Drive Boot Guide for Windows 11: Easy Step-by-Step Methods Explained</u></a></li>
 </ul></div>
 

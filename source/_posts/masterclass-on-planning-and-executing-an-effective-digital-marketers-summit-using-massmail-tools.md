@@ -1,7 +1,7 @@
 ---
 title: Masterclass on Planning and Executing an Effective Digital Marketer's Summit - Using MassMail Tools
-date: 2024-11-13T02:28:30.504Z
-updated: 2024-11-16T19:19:46.179Z
+date: 2024-11-24T16:59:11.274Z
+updated: 2024-11-26T17:08:49.823Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -37,10 +45,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -52,10 +57,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -80,6 +82,10 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -100,38 +106,21 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -140,13 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,18 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-elevate-your-device-experience-with-smooth-screen-capture/"><u>[Updated] Elevate Your Device Experience with Smooth Screen Capture</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-simplifying-streaming-key-tactics-for-youtube-and-twitch-via-obs/"><u>[Updated] In 2024, Simplifying Streaming Key Tactics for YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-phone-sleeves-with-integrated-batteries/"><u>[Updated] Phone Sleeves with Integrated Batteries</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/deciphering-taboola-strategies-for-detecting-and-removing-persistent-promotional-content/"><u>Deciphering Taboola: Strategies for Detecting and Removing Persistent Promotional Content</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/essentiel-pour-les-utilisateurs-preservation-en-douceur-des-donnees-windows-10-lors-du-mise-a-niveau-vers-windows-11/"><u>Essentiel Pour Les Utilisateurs: Préservation en Douceur Des Données Windows 10 Lors Du Mise À Niveau Vers Windows 11</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/migrate-your-memories-smoothly-transfer-images-from-sd-card-to-desktop-using-3-proven-techniques/"><u>Migrate Your Memories Smoothly: Transfer Images From SD Card to Desktop Using 3 Proven Techniques</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/quick-guide-boosting-your-system-with-the-windows-server-essentials-to-standard-upgrade/"><u>Quick Guide: Boosting Your System with the Windows Server Essentials to Standard Upgrade</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165156100-step-up-your-arcade-game-with-massive-fronts/"><u>Step Up Your Arcade Game with Massive Fronts!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-recovering-your-gmail-messages-using-a-backup-copy/"><u>Step-by-Step Guide: Recovering Your Gmail Messages Using a Backup Copy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-dark-side-of-ai-assistance-potential-uses-of-chatgpt-in-malware-generation/"><u>The Dark Side of AI Assistance: Potential Uses of ChatGPT in Malware Generation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/us-government-challenges-apples-market-dominance-as-unlawful-monopoly/"><u>U.S. Government Challenges Apple's Market Dominance as Unlawful Monopoly</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728507128088-6/"><u>どうすればデスクトップから失われたショートカットを取り戻せるか？6つの対処法を教えます。</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-filmmaker-fascination-filmoras-essential-traits/"><u>[New] 2024 Approved Navigating Filmmaker Fascination Filmora's Essential Traits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-to-effective-screen-recording-with-mobizen-for-2024/"><u>[New] Step-by-Step Guide to Effective Screen Recording with Mobizen for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-teleconference-recordings/"><u>[Updated] 2024 Approved Teleconference Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-3-essential-voice-logging-tactics-for-ipad/"><u>[Updated] In 2024, The 3 Essential Voice Logging Tactics for iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-stability-over-advancement-how-my-apple-watch-series-7-outperforms-the-expected-series-10-discovered-on-zdnet/"><u>Choosing Stability over Advancement: How My Apple Watch Series 7 Outperforms the Expected Series 10 | Discovered on ZDNET</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comment-diminuer-lencombrement-dans-la-vie-quotidienne-avec-des-astuces-efficaces-deconomie-despace/"><u>Comment Diminuer L’Encombrement Dans La Vie Quotidienne Avec Des Astuces Efficaces D'Économie D'Espace</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comment-effacer-le-registre-dhistoire-des-fichiers-dans-windows-11/"><u>Comment Effacer Le Registre D’Histoire Des Fichiers Dans Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 15 Pro Max and iPad?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/superior-replacement-for-smarthware-by-western-digital-explore-why-aomei-backupper-reigns-supreme/"><u>Superior Replacement for Smarthware by Western Digital: Explore Why AOMEI Backupper Reigns Supreme</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/tutorial-comment-rebrancher-avec-succes-votre-serveur-windows-server-2019-en-trois-etapes-facilement-comprehensibles/"><u>Tutorial : Comment Rebrancher Avec Succès Votre Serveur Windows Server 2019 en Trois Étapes Facilement Compréhensibles</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 15 Forecasts in Digital Advertising Trends for 2012 by MassMail Solutions
-date: 2024-11-10T20:07:03.889Z
-updated: 2024-11-17T02:34:49.565Z
+date: 2024-11-22T17:44:49.914Z
+updated: 2024-11-26T16:04:55.446Z
 tags:
   - product
 categories:
@@ -18,16 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -57,6 +54,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -69,6 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -76,13 +81,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -93,22 +91,12 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -118,27 +106,17 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -147,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,16 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-automatic-youtube-playback-on-social-media-hubs/"><u>[New] In 2024, Mastering Automatic YouTube Playback on Social Media Hubs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-creating-music-from-videos-instagrams-secret-sauce-for-2024/"><u>[Updated] Creating Music From Videos Instagram's Secret Sauce for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728467295276-windows-11/"><u>如何快速修复Windows 11空文件夹问题</u></a></li>
-<li><a href="https://article-helps.techidaily.com/become-the-star-of-your-match-unique-tinder-profile-ideas-to-try/"><u>Become the Star of Your Match - Unique Tinder Profile Ideas to Try</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-walkthrough-deploying-microsoft-office-onto-your-personal-computer/"><u>Complete Walkthrough: Deploying Microsoft Office Onto Your Personal Computer</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/estrategias-esenciales-para-la-duplicacion-del-sistema-operativo-y-movilizacion-de-datos/"><u>Estrategias Esenciales Para La Duplicación Del Sistema Operativo Y Movilización De Datos</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/sideband-frequencies-are-symmetrically-located-around-the-carrier-frequency-at-intervals-determined-by-the-modulation-index/"><u>Sideband Frequencies Are Symmetrically Located Around the Carrier Frequency at Intervals Determined by the Modulation Index.</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-converting-punjabi-music-files-into-mp3-format-on-macos-and-windows/"><u>Step-by-Step Guide: Converting Punjabi Music Files Into MP3 Format on macOS & Windows</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-steps-for-continuous-startup-failure-in-server-2012-presenting-blue-screen-choice-prompt/"><u>Troubleshooting Steps for Continuous Startup Failure in Server 2012 Presenting Blue Screen Choice Prompt</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-server-2019ssd/"><u>Windows Server 2019とSSDを組み合わせた効率的クローニングテクニック</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-on-google-podcast-upload/"><u>[New] Guide on Google Podcast Upload</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-expert-guide-to-earning-with-youtube/"><u>[New] In 2024, The Expert Guide to Earning with YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-youtube-experience-facebooks-autoplay-solution-for-2024/"><u>[New] Seamless YouTube Experience Facebook's Autoplay Solution for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-no-budget-no-problem-here-are-the-best-vfx-pages/"><u>[Updated] 2024 Approved No Budget? No Problem! Here Are the Best VFX Pages</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/como-redimensionar-e-imitar-un-disco-duro-en-sistemas-windows-para-obtener-nuevas-dimensiones-metodos-detallados/"><u>Cómo Redimensionar E Imitar Un Disco Duro en Sistemas Windows Para Obtener Nuevas Dimensiones - Métodos Detallados</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/engaging-your-audience-with-social-strategies-5-techniques-to-encourage-repeat-website-visits-powered-by-massmail/"><u>Engaging Your Audience with Social Strategies: 5 Techniques to Encourage Repeat Website Visits | Powered by Massmail</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-shared-connectivity-options-google-versus-windows/"><u>Exploring Shared Connectivity Options: Google Versus Windows</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/guia-paso-a-paso-para-migrar-sistema-operativo-entre-discos-duros-en-windows-versiones-recientes/"><u>Guía Paso a Paso Para Migrar Sistema Operativo Entre Discos Duros en Windows Versiones Recientes</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/hassle-free-transition-migrate-windows-8-or-81-to-any-hardware-quickly-and-securely/"><u>Hassle-Free Transition: Migrate Windows 8 or 8.1 to Any Hardware Quickly and Securely</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719152839748-heres-what-facebooks-new-page-labels-mean/"><u>Here's What Facebook's New Page Labels Mean</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mastering-promotions-effective-techniques-for-small-businesses-during-holiday-sales-with-massmail-solutions/"><u>Mastering Promotions: Effective Techniques for Small Businesses During Holiday Sales with MassMail Solutions</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/maximize-conversions-essential-techniques-for-winning-email-subject-lines-and-sales-letters-using-massmail-software/"><u>Maximize Conversions: Essential Techniques for Winning Email Subject Lines and Sales Letters Using Massmail Software</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/understanding-google-penalties-comprehensive-guide-and-seo-optimization-techniques/"><u>Understanding Google Penalties: Comprehensive Guide & SEO Optimization Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-access-registering-on-popular-communication-platforms-without-your-phone-number/"><u>Unlocking Access: Registering on Popular Communication Platforms without Your Phone Number</u></a></li>
 </ul></div>
 
