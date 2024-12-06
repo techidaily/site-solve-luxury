@@ -1,7 +1,7 @@
 ---
 title: "Understanding Hypertext: Comprehensive Guide with SEO Strategies and Key Definitions"
-date: 2024-11-19T17:09:37.784Z
-updated: 2024-11-26T16:06:50.235Z
+date: 2024-12-02T20:20:30.209Z
+updated: 2024-12-05T18:00:51.810Z
 tags:
   - wiki
 categories:
@@ -17,10 +17,14 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Contents
 
@@ -33,19 +37,23 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext definition
 
 Hypertext is text that is displayed on a computer or other electronic device and is linked to other documents or resources[\[1\]](https://tools.techidaily.com/link-assistant/products/). When you click on a hypertext link, you are taken to the linked resource, which can be a webpage, an image, a video, or any other type of digital content. Hypertext links are created using [HTML](https://tools.techidaily.com/link-assistant/products/) (HyperText Markup Language) and are usually underlined and colored differently than the surrounding text to make them stand out[\[2\]](https://tools.techidaily.com/link-assistant/products/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hypertext importance
 
 Hypertext is an important part of the World Wide Web, as it allows users to navigate between different pages and resources easily and quickly. It is also a key feature of many other types of electronic documents, including ebooks and presentations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext structure
@@ -57,10 +65,6 @@ Hypertext is often organized into a network of nodes, where each node represents
 This structure and flexibility of hypertext also allow creating of complex structures like a tree-like structure, and even more complex, a web-like structure. Where a tree structure is a hierarchical one, where each node has a parent, and a web-like structure allows multiple connections to many nodes, where each node can have multiple parents or children.
 
 It's important to note that Hypertext structure can take on many forms and it could be defined and implemented differently depending on the context and the purpose of the Hypertext system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Hypertext, hypermedia, and multimedia
 
@@ -86,10 +90,6 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 * **Ease of use**: Hypertext is easy for users to understand and navigate. The concept of clicking on underlined or highlighted text to access more information is a common and well-established metaphor that most users are familiar with.
 * **Cost-effective**: Hypertext-based documents and information systems can be created and maintained with relatively low cost, as they can be created and distributed digitally.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related links
 
 [Anchor Text: Types, SEO Implications, and Best Practices](https://tools.techidaily.com/link-assistant/products/) 
@@ -113,21 +113,14 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-dynamic-oratory-study-insights-part-8/"><u>[New] 2024 Approved Dynamic Oratory Study Insights, Part 8</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-apex-quiz-channels-top-general-knowledge-picks-of-2024/"><u>[New] The Apex Quiz Channels Top General Knowledge Picks of 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-essential-steps-for-exceptional-photographic-assemblies/"><u>[Updated] Essential Steps for Exceptional Photographic Assemblies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies/"><u>[Updated] The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210309589-9781801349659-10-guided-meditations-for-anxiety/"><u>10 Guided Meditations For Anxiety | Free Book</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/accelerate-mobile-text-promotions-7-key-strategies-using-massmail-tool/"><u>Accelerate Mobile Text Promotions: 7 Key Strategies Using Massmail Tool</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/convert-ide-hdds-to-sata-on-windows-11-8-and-7-step-by-step-guide/"><u>Convert IDE HDDs to SATA on Windows 11, 8 & 7 - Step-by-Step Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/crisis-mastery-2009-harness-self-discipline-to-cut-costs-using-massmails-financial-software-solutions/"><u>Crisis Mastery 2009: Harness Self-Discipline to Cut Costs Using Massmail's Financial Software Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-factors-in-picking-the-best-selfie-extender-for-epic-shots/"><u>Essential Factors in Picking the Best Selfie Extender for Epic Shots</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snicker-shelf-premium-collection-of-gratuitous-gags/"><u>In 2024, Snicker Shelf Premium Collection of Gratuitous Gags</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mastering-link-building-understanding-backlinks-for-enhanced-search-rankings-and-seo-success/"><u>Mastering Link Building: Understanding Backlinks for Enhanced Search Rankings & SEO Success</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728488182179-pc-google/"><u>PC間ファイル同期に最適: Googleドライブ使い方講座</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ultimate-device-compatible-backup-solutions-top-clone-and-recovery-programs-for-all-users/"><u>Ultimate Device-Compatible Backup Solutions: Top Clone & Recovery Programs for All Users</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/understanding-clickbait-a-comprehensive-guide-for-search-engine-optimization-strategies/"><u>Understanding Clickbait: A Comprehensive Guide for Search Engine Optimization Strategies</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unveiling-premium-free-srt-translation-services/"><u>Unveiling Premium Free SRT Translation Services</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-crafting-illusions-the-art-of-time-and-space-manipulation/"><u>[New] 2024 Approved Crafting Illusions The Art of Time & Space Manipulation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-playbook-for-youtube-content-innovation/"><u>[New] The Ultimate Playbook for YouTube Content Innovation</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-how-to-save-tiktok-video-in-gallery-3-proven-ways-androidandiphone/"><u>[Updated] In 2024, How to Save TikTok Video in Gallery-3 Proven Ways [Android&iPhone]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-stabilizing-your-stream-avoid-dropped-frame-errors/"><u>[Updated] Stabilizing Your Stream Avoid Dropped Frame Errors</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/boost-your-pcs-speed-on-windows-top-tips-and-tricks-by-yl-computing/"><u>Boost Your PC's Speed on Windows: Top Tips & Tricks by YL Computing</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/discover-key-characteristics-of-digital-currencies-insights-from-yl-computing-and-yl-software/"><u>Discover Key Characteristics of Digital Currencies: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-11-pro-max-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 11 Pro Max In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/is-it-possible-to-run-windows-defender-alongside-other-virus-protection-programs-expert-tips-from-yl-software/"><u>Is It Possible to Run Windows Defender Alongside Other Virus Protection Programs? Expert Tips From YL Software</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/yl-computings-spy-x-collection-high-quality-wallpapers-and-imagery-for-your-home-screen/"><u>YL Computing's Spy X Collection: High-Quality Wallpapers & Imagery for Your Home Screen</u></a></li>
 </ul></div>
 
