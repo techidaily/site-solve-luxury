@@ -1,7 +1,7 @@
 ---
 title: Provide Feedback on the New Layout and Win an Exclusive Complimentary eBook on Advanced Marketing Techniques From MassMail Software
-date: 2024-12-02T01:04:14.517Z
-updated: 2024-12-05T18:15:43.059Z
+date: 2024-12-07T21:09:05.238Z
+updated: 2024-12-12T02:25:55.773Z
 tags:
   - product
 categories:
@@ -19,12 +19,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -70,21 +74,21 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -103,7 +107,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -115,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-optimal-tools-macs-best-video-grabber-software-guide-for-2024/"><u>[New] Optimal Tools Mac's Best Video Grabber Software Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-capture-and-captivate-creating-incredible-slow-motion-video-masterpieces-on-instagram/"><u>[Updated] Capture and Captivate Creating Incredible Slow-Motion Video Masterpieces on Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-118/"><u>💻Windows 11の最高スクリーンレコーダー：画面キャプチャの達人8つを紹介しよう！</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-language-of-truth-writing-documentaries/"><u>2024 Approved The Language of Truth Writing Documentaries</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/are-your-keyboard-and-mouse-still-operational-learn-more-with-yl-software-solutions/"><u>Are Your Keyboard & Mouse Still Operational? Learn More with YL Software Solutions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/enhancing-iphone-7-screen-record-capabilities-for-2024/"><u>Enhancing iPhone 7 Screen Record Capabilities for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ensuring-your-pcs-processor-health-expert-tips-from-yl-computing-and-yl-software/"><u>Ensuring Your PC's Processor Health: Expert Tips From YL Computing & YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/essential-safety-measures-how-to-accelerate-your-computer-without-compromise-insights-from-yl-computing/"><u>Essential Safety Measures: How to Accelerate Your Computer Without Compromise – Insights From YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/explore-stunning-photograph-collection-of-lego-themed-walls-hd-backdrops-by-yl-software-solutions/"><u>Explore Stunning Photograph Collection of Lego-Themed Walls, HD Backdrops by YL Software Solutions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/high-definition-vibrant-wallpapers-and-bgs-by-yl-computing-explore-the-palette-of-digital-design/"><u>High-Definition Vibrant Wallpapers & BGs by YL Computing - Explore the Palette of Digital Design!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-restoring-your-windows-network-configuration-by-reconfiguring-tcpip-expert-insights-from-yl-software-solutions/"><u>Step-by-Step Guide: Restoring Your Windows Network Configuration by Reconfiguring TCP/IP - Expert Insights From YL Software Solutions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-lets-introduce-the-top-5-applications-to-add-a-song-to-a-video-for-free-with-some-amazing-sound-and-visual-effects/"><u>Updated 2024 Approved Lets Introduce the Top 5 Applications to Add a Song to a Video for Free with some Amazing Sound and Visual Effects</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-filmora-at-zero-cost-the-honest-guide/"><u>Updated In 2024, Get Filmora at Zero Cost The Honest Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/yl-computings-guide-clear-up-your-pc-storage-tips-and-tricks/"><u>YL Computing's Guide: Clear Up Your PC Storage - Tips & Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-8-stream-modifiers-for-flawless-webcam-videos/"><u>[New] Best 8 Stream Modifiers for Flawless Webcam Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-a-step-by-step-approach-to-documenting-every-exciting-moment-on-discord/"><u>2024 Approved A Step-by-Step Approach to Documenting Every Exciting Moment on Discord</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unveiling-the-potential-of-dual-screen-broadcasting-in-facebook-lives/"><u>2024 Approved Unveiling the Potential of Dual-Screen Broadcasting in Facebook Lives</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effective-solutions-for-bandwidth-limitations-insights-from-yl-software-experts/"><u>Effective Solutions for Bandwidth Limitations - Insights From YL Software Experts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fraps-revolutionizing-gamers-screen-recording-for-2024/"><u>Fraps Revolutionizing Gamer's Screen Recording for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-c55-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco C55 Phone that is Locked?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-intro-magic-crafting-irresistible-podcast-openers/"><u>In 2024, Intro Magic Crafting Irresistible Podcast Openers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ms-sql-mastery-damians-db-restoration-tips/"><u>MS SQL Mastery: Damian's DB Restoration Tips</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/printer-problems-solved-a-step-by-step-guide-to-fixing-poor-print-quality/"><u>Printer Problems Solved: A Step-by-Step Guide to Fixing Poor Print Quality</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/shockwave-in-silicon-valley-the-seven-mighty-tech-giants-lose-280b-to-crypto-boom-analyzed-by-yl-software-experts/"><u>Shockwave in Silicon Valley: The 'Seven Mighty Tech Giants' Lose $280B to Crypto Boom, Analyzed by YL Software Experts</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/solving-graphics-card-driver-problems-expert-tips-from-yl-computing/"><u>Solving Graphics Card Driver Problems: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/solving-windows-woes-fixing-unresponsive-mouse-and-keyboard-problems-with-yl-software-tips/"><u>Solving Windows Woes: Fixing Unresponsive Mouse and Keyboard Problems with YL Software Tips</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-frequent-scanner-detachments-a-comprehensive-guide-with-yl-software-solutions/"><u>Troubleshooting Frequent Scanner Detachments: A Comprehensive Guide with YL Software Solutions</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/understanding-the-parties-behind-the-treaty-of-nanking-a-historical-perspective-from-yl-software/"><u>Understanding the Parties Behind the Treaty of Nanking: A Historical Perspective From YL Software</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-6s-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 6s files after scanning? | Stellar</u></a></li>
 </ul></div>
 

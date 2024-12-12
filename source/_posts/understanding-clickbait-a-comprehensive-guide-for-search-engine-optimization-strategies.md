@@ -1,7 +1,7 @@
 ---
 title: "Understanding Clickbait: A Comprehensive Guide for Search Engine Optimization Strategies"
-date: 2024-12-01T21:02:35.309Z
-updated: 2024-12-06T07:25:25.961Z
+date: 2024-12-07T00:17:54.892Z
+updated: 2024-12-12T07:18:58.408Z
 tags:
   - wiki
 categories:
@@ -16,7 +16,15 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Clickbait
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Contents
 
@@ -46,6 +54,10 @@ Quite frequently, clickbait may also be used by internet fraudsters, who resort 
 
 “Clickbait” is a compound of two terms, and as the Urban Dictionary puts it, clickbait literally means “bait for clicks”[\[1\]](https://tools.techidaily.com/link-assistant/products/). The term’s construction bears resemblance to “fish bait” - a common fishing term describing the fish hook that is disguised by an enticement and thus made attractive for fish to swallow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does clickbait work?
 
 Clickbait takes advantage of a well-known psychological phenomenon, the so-called “curiosity gap”, which explains that we, as humans, always experience an urge to discover all the missing pieces of information. 
@@ -53,7 +65,7 @@ Clickbait takes advantage of a well-known psychological phenomenon, the so-calle
 With clickbait, the idea is that you’re only given fragments of information. This causes your curiosity to arise, forming the urgent need to click the link and thus “retrieve the missing pieces”. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of clickbait
@@ -63,7 +75,7 @@ Clickbait is quite often resorted to by tabloids as opposed to respectable news 
 ![clickbait on facebook](https://cdn1.link-assistant.com/thumbs/w692-c1/upload/seowiki/posts/35/c1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here, HaffPost is clearly exploiting our curiosity gap by making only part of the information available, and you feel the need to click the link to learn which movie the article is actually talking about. 
@@ -76,13 +88,13 @@ Another schoolbook example of clickbait is this top right-corner ad. A famous br
 
 In most cases, all clickbait headlines follow a similar structure and rely on the same tactics. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Shorter words
 
 The idea here is that shorter words are easier to read and understand and thus capture our attention more effectively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Over-promises
 
@@ -92,17 +104,9 @@ The go-to phrases for a clickbait writer are “You won’t believe” or “Try
 
 Clickbait often tries to leave you on a cliffhanger - mentioning events without naming them directly (like “She did THIS to lose weight in one week”), thus creating a burning need to continue reading.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Unusual punctuation
 
 Multiple questions or exclamation marks stand out among the rest of your newsfeed items, attract attention and create a sense of importance. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Strong adjectives and superlatives
 
@@ -121,10 +125,6 @@ However, after the over-promise in the headline, we tend to face disappointment 
 Facebook, for example, promises to show clickbait posts to fewer people and, in the long run, even decrease the overall content exposure of a clickbait publisher[\[2\]](https://tools.techidaily.com/link-assistant/products/).
 
 Google, in its turn, has recently launched the so-called “Helpful content” algorithm update, said to fight clickbait search results and make sure top SERP positions are occupied by quality content “written by people, for people”[\[3\]](https://tools.techidaily.com/link-assistant/products/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## References
 
@@ -145,17 +145,17 @@ Google, in its turn, has recently launched the so-called “Helpful content” a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-iphone-hdr-photo-guidebook/"><u>[New] 2024 Approved Ultimate iPhone HDR Photo Guidebook</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-key-techniques-boosting-video-reach-across-both-platforms/"><u>[New] In 2024, Key Techniques Boosting Video Reach Across Both Platforms</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1-backup-techniques-by-yl-software-experts/"><u>1 Backup Techniques by YL Software Experts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-ultimate-guide-7-prime-free-video-tag-extractors/"><u>In 2024, Ultimate Guide 7 Prime Free Video Tag Extractors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/instant-photographic-display-in-11-os-for-2024/"><u>Instant Photographic Display in 11 OS for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/masterchef-madness-unveiling-our-review-for-the-sequel-overcooked-2/"><u>MasterChef Madness: Unveiling Our Review for the Sequel, Overcooked! 2</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mastering-blockchain-a-comprehensive-guide-by-yl-computing-and-software-solutions/"><u>Mastering Blockchain: A Comprehensive Guide by YL Computing & Software Solutions</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/mastering-clonezilla-a-comprehensive-look-at-gpt-vs-mbr-for-disk-partitioning-in-discordant-discs/"><u>Mastering Clonezilla: A Comprehensive Look at GPT Vs. MBR for Disk Partitioning in Discordant Discs</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/solutions-for-fixing-a-warped-game-display-expert-advice-from-yl-computing/"><u>Solutions for Fixing a Warped Game Display: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/stunning-feminine-portraits-and-designs-for-desktop-backgrounds-by-yl-computing-top-quality-imagery-in-hd/"><u>Stunning Feminine Portraits & Designs for Desktop Backgrounds by YL Computing – Top Quality Imagery in HD</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-bard-googles-visionary-step-beyond-chatgpt/"><u>Unleashing 'Bard': Google's Visionary Step Beyond ChatGPT</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/yl-computings-guide-effective-strategies-for-accelerating-your-pcs-efficiency/"><u>YL Computing's Guide: Effective Strategies for Accelerating Your PC's Efficiency</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-eye-catching-text-top-10-photo-writing-tools-for-smartphones/"><u>[Updated] Eye-Catching Text Top 10 Photo Writing Tools for Smartphones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-chat-on-google-meet/"><u>[Updated] How to Chat on Google Meet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expertly-selected-highest-quality-usb-drives-of-the-year-2024/"><u>Expertly Selected, Highest Quality USB Drives of the Year 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/free-methods-for-retrieving-deleted-data-on-your-hard-drive/"><u>Free Methods for Retrieving Deleted Data on Your Hard Drive</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/from-creator-to-consumer-securing-a-spot-on-apples-listings/"><u>From Creator to Consumer Securing a Spot on Apple’s Listings</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock OnePlus 12 Phone with Broken Screen</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-comprehensive-guide-to-minecraft-live-streaming/"><u>In 2024, Comprehensive Guide to Minecraft Live Streaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-cutting-edge-memes-top-ten-template-showcase/"><u>In 2024, Cutting Edge Memes Top Ten Template Showcase</u></a></li>
+<li><a href="https://blog-min.techidaily.com/passos-detalhados-para-registrar-e-jogar-fortnite-em-um-computador-windows-com-a-ferramenta-de-ajuda-de-movavi/"><u>Passos Detalhados Para Registrar E Jogar Fortnite Em Um Computador Windows Com a Ferramenta De Ajuda De Movavi</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-5-mlm-missteps-to-dodge-insights-and-strategies-for-successful-network-marketing-based-on-2amo10/"><u>Top 5 MLM Missteps to Dodge - Insights and Strategies for Successful Network Marketing (Based on 2Amo/10)</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/windows-11-ver22h2/"><u>Windows 11 Ver.22H2 更新不能時の解決策</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-5-seo-agentstv-v-edinburge-otbor-luchshih-uslug-dlya-vashego-vizita/"><u>Топ-5 SEO-Агентств В Эдинбурге: Отбор Лучших Услуг Для Вашего Визита</u></a></li>
 </ul></div>
 

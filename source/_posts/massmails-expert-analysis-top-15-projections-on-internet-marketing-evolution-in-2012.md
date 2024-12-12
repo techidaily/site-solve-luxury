@@ -1,7 +1,7 @@
 ---
 title: "MassMail's Expert Analysis: Top 15 Projections on Internet Marketing Evolution in 2012"
-date: 2024-12-01T23:44:16.631Z
-updated: 2024-12-06T00:48:28.079Z
+date: 2024-12-06T18:54:01.469Z
+updated: 2024-12-12T09:41:01.559Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -63,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -86,6 +82,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -98,6 +98,10 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -105,10 +109,6 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -118,10 +118,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-video-gear-the-ultimate-12-camera-guide/"><u>[Updated] 2024 Approved Essential Video Gear The Ultimate 12 Camera Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-ultimate-list-of-popular-booktok-picks-for-your-reading-spree/"><u>[Updated] In 2024, The Ultimate List of Popular BookTok Picks for Your Reading Spree</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722978815252-how-to-effortlessly-obtain-and-implement-your-usb-camera-drivers-now/"><u>How to Effortlessly Obtain & Implement Your USB Camera Drivers Now</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-troubleshoot-print-jobs-solutions-when-you-encounter-a-printer-error-learn-with-yl-computing/"><u>How to Troubleshoot Print Jobs: Solutions When You Encounter a Printer Error - Learn with YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-tecno-spark-20-proplus-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Tecno Spark 20 Pro+? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-youtube-playlist-creation-tips-and-tricks/"><u>Mastering YouTube Playlist Creation Tips and Tricks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/memorial-day-special-high-performance-dell-s322ndmg-32monitor-only-279/"><u>Memorial Day Special: High-Performance Dell S322nDMG 32Monitor, Only $279!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-your-web-content-mastering-sql-database-pages/"><u>Optimizing Your Web Content: Mastering SQL Database Pages</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/premium-ferrari-488-pista-spoiler-graphics-and-desktop-backgrounds-curated-by-yl-software/"><u>Premium Ferrari 488 Pista Spoiler Graphics and Desktop Backgrounds Curated by YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/resolving-connection-issues-what-to-do-when-your-printer-wont-link-with-your-pc-tips-by-yl-computing/"><u>Resolving Connection Issues: What To Do When Your Printer Won't Link With Your PC - Tips by YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-why-your-rust-programs-keep-abruptly-stopping/"><u>Troubleshooting Tips: Why Your Rust Programs Keep Abruptly Stopping</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-the-reasons-behind-sudden-computer-shutdowns-insights-from-yl-computing-experts/"><u>Unraveling the Reasons Behind Sudden Computer Shutdowns: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unveiling-the-origin-discover-who-founded-the-qing-manchu-empire-in-1644-insights-by-yl-computing-and-software-solutions/"><u>Unveiling the Origin: Discover Who Founded the Qing (Manchu) Empire in 1644 - Insights by YL Computing and Software Solutions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-users-ultimate-guide-to-email-attachments-insights-by-yl-software/"><u>Windows Users' Ultimate Guide to Email Attachments - Insights by YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/yl-software-solutions-easy-instructions-for-disabling-software-on-windows-and-macos/"><u>YL Software Solutions: Easy Instructions for Disabling Software on Windows and MacOS</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1728481514307-windows/"><u>拯救Windows電腦磁碟零容忍的高效解決方法 -【最新版指南】</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/dell-pc-boot-failure-troubleshooting-a-cloned-ssd-issue/"><u>Dell PC Boot Failure: Troubleshooting a Cloned SSD Issue</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/discover-a-must-have-voice-transform-tool-no-cost-maximum-impact-for-2024/"><u>Discover a Must-Have Voice Transform Tool - No Cost, Maximum Impact for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/error-404-unable-to-retrieve-your-requested-webpage/"><u>Error 404: Unable to Retrieve Your Requested Webpage</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/game-enhancing-screens-top-5-for-ps5-and-xbox-gamers-for-2024/"><u>Game-Enhancing Screens Top 5 for PS5 & Xbox Gamers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androidios-video-cutting-edge-8-top-montage-tools-revealed/"><u>In 2024, Android/iOS Video Cutting-Edge 8 Top Montage Tools Revealed</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728478835291-m2-ssd/"><u>M.2 SSDの探し方：システム向け最適選びの徹底ガイド</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-overcoming-divison-2s-startup-issues/"><u>Mastering the Fix: Overcoming Divison 2'S Startup Issues</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/the-ultimate-guide-generating-a-windows-recovery-drive-using-methods-suitable-for-versions-11-10-8-and-7/"><u>The Ultimate Guide: Generating a Windows Recovery Drive Using Methods Suitable for Versions 11, 10, 8 & ^[7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-3-methods-to-install-av1-codec-extension-on-windows-10-or-11/"><u>Top 3 Methods to Install AV1 Codec Extension on Windows 10 or 11</u></a></li>
+<li><a href="https://win-help.techidaily.com/trier-les-problemes-de-sauvegarde-sous-windows-solutions-efficaces-pour-windows-1187-recommandees-par-les-experts/"><u>Trier Les Problèmes De Sauvegarde Sous Windows: Solutions Efficaces Pour Windows 11/8/7 Recommandées Par Les Experts</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/warum-konnen-mp3-dateien-nicht-zu-ihrer-itunes-mediabibliothek-hinzugefugt-werden/"><u>Warum Können MP3-Dateien Nicht Zu Ihrer iTunes Mediabibliothek Hinzugefügt Werden?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209649797-9780757319525-what-will-they-say-about-you-when-youre-gone/"><u>What Will They Say About You When You're Gone? | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Gratitude in Professional Communication: Top 5 Strategies for Flawless Thank-You Email Creation with MassMail"
-date: 2024-12-01T06:32:21.425Z
-updated: 2024-12-06T06:11:57.458Z
+date: 2024-12-08T00:41:43.728Z
+updated: 2024-12-11T18:14:05.694Z
 tags:
   - product
 categories:
@@ -18,12 +18,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -48,6 +52,10 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -66,10 +74,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -78,17 +82,21 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -102,17 +110,9 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,22 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-ultimate-free-collection-top-8-tools-for-viewing-4k-media-on-winos-x/"><u>[Updated] In 2024, Ultimate Free Collection Top 8 Tools for Viewing 4K Media on Win/OS X</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-maintaining-meetings-in-google-recorder/"><u>[Updated] Maintaining Meetings in Google Recorder</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-perfect-pairing-selecting-macpc-blu-ray-player-suites/"><u>2024 Approved Perfect Pairing Selecting Mac/PC Blu-Ray Player Suites</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/are-your-keyboard-and-mouse-still-operational-learn-more-with-yl-software-solutions/"><u>Are Your Keyboard & Mouse Still Operational? Learn More with YL Software Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-bargains-for-ultrabooks-and-notebooks-during-octobers-mega-sales-events-insider-tips-from-zdnet/"><u>Best Bargains for Ultrabooks & Notebooks During October's Mega Sales Events - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ensuring-your-pcs-processor-health-expert-tips-from-yl-computing-and-yl-software/"><u>Ensuring Your PC's Processor Health: Expert Tips From YL Computing & YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/essential-safety-measures-how-to-accelerate-your-computer-without-compromise-insights-from-yl-computing/"><u>Essential Safety Measures: How to Accelerate Your Computer Without Compromise – Insights From YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/explore-stunning-photograph-collection-of-lego-themed-walls-hd-backdrops-by-yl-software-solutions/"><u>Explore Stunning Photograph Collection of Lego-Themed Walls, HD Backdrops by YL Software Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fourfold-superiority-of-claude-ai-chatbot-compared-to-chatgpt/"><u>Fourfold Superiority of Claude AI Chatbot Compared to ChatGPT</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/high-definition-vibrant-wallpapers-and-bgs-by-yl-computing-explore-the-palette-of-digital-design/"><u>High-Definition Vibrant Wallpapers & BGs by YL Computing - Explore the Palette of Digital Design!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/identifying-windows-display-issues-a-comprehensive-guide-insights-by-yl-computing/"><u>Identifying Windows Display Issues: A Comprehensive Guide - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-elevate-your-edits-pro-level-photo-color-techniques/"><u>In 2024, Elevate Your Edits Pro-Level Photo Color Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/navigating-through-2024s-best-video-editor-applications-a-comprehensive-guide-for-selection/"><u>Navigating Through 2024'S Best Video Editor Applications - A Comprehensive Guide for Selection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-nero-related-advrcntr2dll-file-is-missing-issue/"><u>Solving the Nero-Related 'AdvRcntr2.dll File Is Missing' Issue</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-restoring-your-windows-network-configuration-by-reconfiguring-tcpip-expert-insights-from-yl-software-solutions/"><u>Step-by-Step Guide: Restoring Your Windows Network Configuration by Reconfiguring TCP/IP - Expert Insights From YL Software Solutions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/yl-computings-guide-clear-up-your-pc-storage-tips-and-tricks/"><u>YL Computing's Guide: Clear Up Your PC Storage - Tips & Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-10-best-intro-maker-apps-for-iphone-and-android-for-2024/"><u>[New] FREE 10 Best Intro Maker Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-gotorhythms-top-pick-for-hearing-westerosi-songs/"><u>2024 Approved GoToRhythms Top Pick for Hearing Westerosi Songs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/descargas-gratuitas-para-convertir-archivos-flv-a-mjpeg-herramienta-de-conversion-sin-coste/"><u>Descargas Gratuitas Para Convertir Archivos FLV a MJPEG - Herramienta De Conversión Sin Coste</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/exploring-common-scanner-issues-and-fixes-with-insights-from-yl-software-experts/"><u>Exploring Common Scanner Issues and Fixes with Insights From YL Software Experts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essence-of-polarr-revolutionizing-digital-photography/"><u>In 2024, The Essence of Polarr Revolutionizing Digital Photography</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-brio-driver-installation-guide-free-download-for-windows-users/"><u>Logitech BRIO Driver Installation Guide: Free Download for Windows Users</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/quick-tips-for-transferring-files-to-your-desktop-with-yl-software-expertise/"><u>Quick Tips for Transferring Files to Your Desktop with YL Software Expertise</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/slowing-down-how-your-computers-memory-affects-overall-speed-tips-and-tricks-from-yl-software-experts/"><u>Slowing Down? How Your Computer's Memory Affects Overall Speed – Tips and Tricks From YL Software Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-setting-up-undefined-speakers-on-a-windows-11-pc/"><u>Step-by-Step Guide: Setting Up Undefined Speakers on a Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-viewing-mov-videos-on-your-windows-11-pc/"><u>Step-by-Step Guide: Viewing MOV Videos on Your Windows 11 PC</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-process-to-fix-driver-malfunctions-on-windows-systems-with-tips-from-yl-software/"><u>Step-by-Step Process to Fix Driver Malfunctions on Windows Systems with Tips From YL Software</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-guide-common-reasons-why-your-scanners-arent-functioning-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: Common Reasons Why Your Scanners Aren't Functioning - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/unraveling-the-influence-of-the-sino-japanese-wars-on-chinas-past-expert-analysis-by-yl-computing/"><u>Unraveling the Influence of the Sino-Japanese Wars on China's Past - Expert Analysis by YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Email Campaign Metrics & Analytical Instruments - Insights From the MassMail Software Experts
-date: 2024-12-03T03:53:50.700Z
-updated: 2024-12-06T00:28:36.797Z
+date: 2024-12-08T16:52:03.442Z
+updated: 2024-12-12T08:41:37.163Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -39,10 +39,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -70,16 +66,12 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -90,16 +82,24 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -109,6 +109,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-essential-techniques-for-sizing-up-your-instagram-video-reach/"><u>[New] Essential Techniques for Sizing Up Your Instagram Video Reach</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-duets-of-destiny-song-suggestions-for-the-big-ask/"><u>[Updated] Duets of Destiny Song Suggestions for the Big Ask</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-explore-the-best-8-web-sites-for-accessing-3d-text-psds/"><u>2024 Approved Explore the Best 8 Web Sites for Accessing 3D Text PSDs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-speedy-way-effortlessly-add-a-vimeo-video-to-your-slides/"><u>2024 Approved The Speedy Way Effortlessly Add a Vimeo Video to Your Slides</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-duplicate-deletion-for-windows-users-with-yls-expert-tips/"><u>Effortless Duplicate Deletion for Windows Users with YL's Expert Tips</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-can-you-utilize-yls-cryptocurrency-address-balance-verifier-insights-from-an-expert-at-yl-computing/"><u>How Can You Utilize YL's Cryptocurrency Address Balance Verifier: Insights From an Expert at YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-optimize-your-pcs-performance-and-speed-expert-tips-from-yl-software/"><u>How to Optimize Your PC's Performance and Speed: Expert Tips From YL Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-illuminating-success-brightening-up-your-youtube-videos/"><u>In 2024, Illuminating Success Brightening Up Your YouTube Videos</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/protecting-your-crypto-investments-with-yl-softwares-advanced-strategies/"><u>Protecting Your Crypto Investments with YL Software's Advanced Strategies</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/qin-shi-huang-the-emperor-who-united-china-in-221-bc-insights-by-yl-computing-and-yl-software/"><u>Qin Shi Huang: The Emperor Who United China in 221 BC - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/sonic-update-for-whatsapp-statues/"><u>Sonic Update for WhatsApp Statues</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/techniques-for-capturing-wide-angle-360-photos-effortlessly/"><u>Techniques for Capturing Wide Angle 360 Photos Effortlessly</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-7-best-video-merger-software-with-no-watermarks-for-2024/"><u>The 7 Best Video Merger Software with No Watermarks for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-the-mystery-identifying-reasons-behind-your-computers-erratic-freezing-episodes-expertise-from-yl-computing/"><u>Unraveling the Mystery: Identifying Reasons Behind Your Computer's Erratic Freezing Episodes - Expertise From YL Computing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-dissecting-vsdcs-capabilities-in-screen-recording-vs-alternatives/"><u>[New] 2024 Approved Dissecting VSDC's Capabilities in Screen Recording vs Alternatives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-editors-arsenal-advanced-techniques-in-chromatic-tuning/"><u>[Updated] 2024 Approved The Editor's Arsenal Advanced Techniques in Chromatic Tuning</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-build-stellar-youtube-beginnings-on-a-shoestring-budget/"><u>[Updated] In 2024, Build Stellar YouTube Beginnings on a Shoestring Budget</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728462856824-windows/"><u>解決 Windows 復原儲存錯誤的三大捷徑</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728499043827-chkdsk/"><u>使用CHKDSK時，它是否會將某些檔棚消除？</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effizientes-duplikat-synchronisieren-von-verzeichnissen-mit-robocopy-unter-windows/"><u>Effizientes Duplikat-Synchronisieren Von Verzeichnissen Mit Robocopy Unter Windows</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/error-404-unable-to-locate-pages/"><u>Error 404: Unable To Locate Pages</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-interactive-guide-twitter-and-facebook-synergy/"><u>In 2024, Interactive Guide Twitter & Facebook Synergy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-streamlining-console-experience-with-computer-playback-tech/"><u>In 2024, Streamlining Console Experience with Computer Playback Tech</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-lava-yuva-2-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Lava Yuva 2 has been deleted.</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/secure-steps-preserving-data-while-switching-drives/"><u>Secure Steps: Preserving Data While Switching Drives</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-saving-your-data-by-backing-up-windows-server-2008-r2-on-an-external-hdd/"><u>Step-by-Step Guide: Saving Your Data by Backing Up Windows Server 2008 (R2) on an External HDD</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-event-is-organized-by-new-horse-events-as-indicated-by-the-assistants-email-address-given-robertcullennewhorseeventscom/"><u>The Event Is Organized by New Horse Events, as Indicated by the Assistant's Email Address Given (robertcullen@newhorseevents.com).</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-strategies-for-retrieving-data-from-a-reformatted-xqd-memory-card/"><u>Top Strategies for Retrieving Data From a Reformatted XQD Memory Card</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trimming-ai-hallucinations-six-effective-phrasing-strategies/"><u>Trimming AI Hallucinations: Six Effective Phrasing Strategies</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/44ki44oh44kk56splus6ko95zob44gr44gk44geiplusiytplusobhuobnplusocgeobruocroocpoodiq/"><u>アメイ社製品につい#買うためのガイド</u></a></li>
 </ul></div>
 

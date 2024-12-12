@@ -1,7 +1,7 @@
 ---
 title: What Are Broken Links? A Comprehensive Guide to Effects & Fixes for Enhanced SEO Performance
-date: 2024-12-03T05:42:29.924Z
-updated: 2024-12-06T03:58:45.049Z
+date: 2024-12-07T17:49:41.000Z
+updated: 2024-12-12T01:33:06.892Z
 tags:
   - wiki
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broken link
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
    * [Setting up a custom 404 page](https://tools.techidaily.com/link-assistant/products/)
 * [Related links](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Broken link definition
 
@@ -66,11 +62,11 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 ![site can't be reached message](https://cdn1.link-assistant.com/thumbs/w1073-c1/upload/seowiki/posts/28/bl1.png)
 * **502 (bad gateway)**. A server received an invalid response because it was crushed;
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Reset**. A server dropped connections because it was misconfigured or too busy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Broken links’ meaning for SEO
 
@@ -84,12 +80,16 @@ Broken links harm user experience and increase bounce rate, which will surely af
 
 Broken links do not pass link juice, so the page where the link points to will not receive value and page strength. Plus, a page where a broken link points to may not be indexed at all if no other links point to it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing broken links
 
 Broken links should be fixed anyway to prevent link juice drainage and poor user experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Broken links with 4xx status codes
@@ -104,15 +104,15 @@ If a link is broken because of server issues, then it is the server that needs f
 
 Sometimes a page is moved without any alternative. In this case, you should not redirect users to your homepage but set up a custom 404 page. It should include some navigation links that may be interesting for users. Custom 404s are not indexed by Google and are needed to keep users on your site and decrease bounce rate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Related links
 
 [The Ultimate Guide to Broken Link Building](https://tools.techidaily.com/link-assistant/products/)
 
 [Most Common Indexing Issues and How to Fix Them - 404 Not Found](https://tools.techidaily.com/link-assistant/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## References
 
@@ -133,20 +133,24 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-dive-deep-into-obs-advanced-techniques-for-game-capture-for-2024/"><u>[New] Dive Deep Into OBS Advanced Techniques for Game Capture for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-discover-unmissable-adventures-in-sandbox-gaming/"><u>[New] In 2024, Discover Unmissable Adventures in Sandbox Gaming</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-timing-duration-for-a-20mb-high-definition-video/"><u>[Updated] Timing Duration for a 20Mb High-Definition Video</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-duplicate-deletion-for-windows-users-with-yls-expert-tips/"><u>Effortless Duplicate Deletion for Windows Users with YL's Expert Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-universal-availability-a-comprehensive-guide-to-using-chatgpt-globally/"><u>Experience Universal Availability: A Comprehensive Guide to Using ChatGPT Globally</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-can-you-utilize-yls-cryptocurrency-address-balance-verifier-insights-from-an-expert-at-yl-computing/"><u>How Can You Utilize YL's Cryptocurrency Address Balance Verifier: Insights From an Expert at YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-optimize-your-pcs-performance-and-speed-expert-tips-from-yl-software/"><u>How to Optimize Your PC's Performance and Speed: Expert Tips From YL Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-pro-video-setup-choose-from-our-list-of-best-5-webcams-and-mics/"><u>In 2024, Pro Video Setup Choose From Our List of Best 5 Webcams & Mics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-taking-the-leap-secrets-for-free-fcp-acquisition/"><u>In 2024, Taking the Leap Secrets for Free FCP Acquisition</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/protecting-your-crypto-investments-with-yl-softwares-advanced-strategies/"><u>Protecting Your Crypto Investments with YL Software's Advanced Strategies</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/qin-shi-huang-the-emperor-who-united-china-in-221-bc-insights-by-yl-computing-and-yl-software/"><u>Qin Shi Huang: The Emperor Who United China in 221 BC - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/resolving-scanning-issues-what-if-your-scanner-outputs-jumbled-graphics-insights-by-yl-software/"><u>Resolving Scanning Issues: What If Your Scanner Outputs Jumbled Graphics? - Insights by YL Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-camon-30-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Camon 30 Pro 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-the-mystery-identifying-reasons-behind-your-computers-erratic-freezing-episodes-expertise-from-yl-computing/"><u>Unraveling the Mystery: Identifying Reasons Behind Your Computer's Erratic Freezing Episodes - Expertise From YL Computing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-11-update-linked-to-non-operational-printer/"><u>Win 11 Update Linked to Non-Operational Printer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media-for-2024/"><u>[New] Quick Conversion Tactics Extracting MP3 From Vids on Social Media for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-conduct-cost-effective-seminars-using-youtube/"><u>[Updated] Conduct Cost-Effective Seminars Using YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-movavi-photo-editing-software-comprehensive-user-ratings-and-insights/"><u>1. Movavi Photo Editing Software: Comprehensive User Ratings and Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pixellation-perfection-windows-and-macs-photo-to-animation-powerhouse/"><u>2024 Approved Pixellation Perfection Windows & Mac's Photo to Animation Powerhouse</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/absolut-verstandliche-reset-anweisungen-fur-windows-server-2012-r2-ein-umfassender-leitfaden/"><u>Absolut Verständliche Reset-Anweisungen Für Windows Server 2012 (R2) – Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/einfaches-klonen-einer-bootfahigen-festplatte-unter-linux/"><u>Einfaches Klonen Einer Bootfähigen Festplatte Unter Linux</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/expert-email-design-for-smartphones-masterful-methods-and-key-metrics-using-massmail/"><u>Expert Email Design for Smartphones: Masterful Methods and Key Metrics Using MassMail</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-protect-your-saves-encrypting-images-in-aomei-backupper/"><u>How to Protect Your Saves: Encrypting Images in AOMEI Backupper</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-motorola-moto-g13-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Motorola Moto G13 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-direct-links-sharing-twitch-content-with-friends-on-fb/"><u>In 2024, Direct Links Sharing Twitch Content with Friends on FB</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/losung-fur-fehlende-ordner-vom-flash-laufwerk-wiederherstellungstechniken-von-myrecover/"><u>Lösung Für Fehlende Ordner Vom Flash-Laufwerk: Wiederherstellungstechniken Von MyRecover</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-online-meetings-zoom-tips-for-chromebooks/"><u>Mastering Online Meetings Zoom Tips for Chromebooks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unlock-creative-possibilities-top-text-animation-apps-for-mobile-devices-for-2024/"><u>New Unlock Creative Possibilities Top Text Animation Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/provide-feedback-on-the-new-layout-and-win-an-exclusive-complimentary-ebook-on-advanced-marketing-techniques-from-massmail-software/"><u>Provide Feedback on the New Layout and Win an Exclusive Complimentary eBook on Advanced Marketing Techniques From MassMail Software</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/simplify-your-life-mastering-auto-windows-10-data-protection-with-a-click/"><u>Simplify Your Life: Mastering Auto Windows 10 Data Protection with a Click!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-a59-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo A59 5G Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-insights-with-updated-data-management-protocols/"><u>Unlocking Insights with Updated Data Management Protocols</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/windows-easy-transfer-feature-missing-in-windows-11-upgrade/"><u>Windows Easy Transfer Feature Missing in Windows 11 Upgrade</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/luchshie-specialisty-po-seo-v-detrojte-dlya-2024-goda-obzor-i-rekomendacii-seo-powersuite/"><u>Лучшие Специалисты По SEO В Детройте Для 2024 Года: Обзор И Рекомендации - SEO PowerSuite</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crisis Mastery 2009: Harness Self-Discipline to Cut Costs Using Massmail's Financial Software Solutions"
-date: 2024-11-30T20:09:51.254Z
-updated: 2024-12-06T03:14:29.067Z
+date: 2024-12-04T18:17:03.376Z
+updated: 2024-12-11T16:35:02.085Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -51,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -82,6 +74,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -90,21 +86,21 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -114,9 +110,17 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovations-in-podcasting-generating-custom-rss-files/"><u>[New] Innovations in Podcasting Generating Custom RSS Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-power-of-active-listening-in-interviews/"><u>[New] The Power of Active Listening in Interviews</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-10-strategies-for-educators-starting-their-own-youtube-series/"><u>[Updated] 2024 Approved 10 Strategies for Educators Starting Their Own YouTube Series</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-compact-player-showcase-the-very-best-portables/"><u>2024 Approved Compact Player Showcase The Very Best Portables</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/conquering-terrain-with-the-colossal-galaxy-ford-f-150-rc-a-review-of-an-automotive-marvel/"><u>Conquering Terrain with the Colossal Galaxy Ford F-150 R/C - A Review of an Automotive Marvel</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-null-associated-app-errors-windows/"><u>Dealing with Null Associated App Errors (Windows)</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effective-solutions-for-bandwidth-limitations-insights-from-yl-software-experts/"><u>Effective Solutions for Bandwidth Limitations - Insights From YL Software Experts</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/hd-adventure-time-landscapes-premium-backgrounds-and-imagery-by-yl-computing/"><u>HD Adventure Time Landscapes: Premium Backgrounds & Imagery by YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-s18-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo S18 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-overcome-your-pcs-memory-fault-alert-insights-by-yl-software-pros/"><u>How to Overcome Your PC's Memory Fault Alert? Insights by YL Software Pros</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/identifying-and-resolving-windows-failure-to-detect-video-card-tips-from-yl-software-experts/"><u>Identifying & Resolving Window's Failure to Detect Video Card - Tips From YL Software Experts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/loves-epic-tales-the-finest-9-weddings-on-youtube-and-vimeo-for-2024/"><u>Love's Epic Tales The Finest 9 Weddings on YouTube & Vimeo for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/shockwave-in-silicon-valley-the-seven-mighty-tech-giants-lose-280b-to-crypto-boom-analyzed-by-yl-software-experts/"><u>Shockwave in Silicon Valley: The 'Seven Mighty Tech Giants' Lose $280B to Crypto Boom, Analyzed by YL Software Experts</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/solving-windows-woes-fixing-unresponsive-mouse-and-keyboard-problems-with-yl-software-tips/"><u>Solving Windows Woes: Fixing Unresponsive Mouse and Keyboard Problems with YL Software Tips</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/speeding-up-your-pc-key-strategies-in-system-resource-optimization-with-tips-from-yl-software-experts/"><u>Speeding Up Your PC: Key Strategies in System Resource Optimization with Tips From YL Software Experts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-the-leading-choice-in-live-video-software-and-virtual-cam-tech/"><u>Transform Your Broadcasts with ManyCam – The Leading Choice in Live Video Software and Virtual Cam Tech</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-frequent-scanner-detachments-a-comprehensive-guide-with-yl-software-solutions/"><u>Troubleshooting Frequent Scanner Detachments: A Comprehensive Guide with YL Software Solutions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/understanding-the-parties-behind-the-treaty-of-nanking-a-historical-perspective-from-yl-software/"><u>Understanding the Parties Behind the Treaty of Nanking: A Historical Perspective From YL Software</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unlock-astonishing-photo-flair-on-iphone-x7plus-with-these-top-free-tools-for-2024/"><u>Unlock Astonishing Photo Flair on iPhone X/7+ with These Top Free Tools for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-elevate-your-fb-ads-to-new-heights-with-these-top-20-free-editors-for-2024/"><u>[New] Elevate Your Fb Ads to New Heights with These Top 20 Free Editors for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-securing-your-social-media-visuals-instagram-edition/"><u>[New] In 2024, Securing Your Social Media Visuals Instagram Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-becoming-a-master-of-instagrams-video-dialogue-dynamics/"><u>[Updated] 2024 Approved Becoming a Master of Instagram's Video Dialogue Dynamics</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/5-simple-strategies-to-grow-your-email-subscribers-with-massmail-a-comprehensive-guide/"><u>5 Simple Strategies to Grow Your Email Subscribers with MassMail: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/airdrop-fehlerbehebung-fur-iphone-modelle-ab-version-14-lernen-sie-hier-6-tipps-kennen/"><u>AirDrop Fehlerbehebung Für iPhone-Modelle Ab Version 14 - Lernen Sie Hier 6 Tipps Kennen!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/dell-installieren-sie-eine-partition-zur-windows-version-11-reinstallation-und-zurucksetzung-auf-werkseinstellungen/"><u>Dell - Installieren Sie Eine Partition Zur Windows-Version 11 Reinstallation Und Zurücksetzung Auf Werkseinstellungen</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/determining-ideal-hard-drive-capacity-for-robust-malware-defense-systems/"><u>Determining Ideal Hard Drive Capacity for Robust Malware Defense Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977411399-get-your-logitech-t630-up-and-running-on-win7810-download-the-right-driver/"><u>Get Your Logitech T630 Up and Running on Win7/8/10 - Download the Right Driver</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-gt-3-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-obscurity-to-prominence-how-to-thrive-in-youtube-streaming/"><u>In 2024, From Obscurity to Prominence How to Thrive in Youtube Streaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-what-gamers-must-know-about-bandicam/"><u>In 2024, What Gamers Must Know About Bandicam</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/leading-seo-firms-in-muscat-oman-enhance-your-digital-visibility-with-seo-expertise/"><u>Leading SEO Firms in Muscat, Oman: Enhance Your Digital Visibility with SEO Expertise</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/losungsansatze-fur-die-update-fehlercode-0x80070422-in-windows-11-top-5-tipps-und-tricks/"><u>Lösungsansätze Für Die Update-Fehlercode 0X80070422 in Windows 11: Top 5 Tipps Und Tricks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/r-crafters-fusing-visual-and-acoustic-art/"><u>Master Crafters Fusing Visual & Acoustic Art</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/preserve-your-digital-memories-effective-tips-for-leveraging-ntbackup-in-windows-versions-11-8-and-7/"><u>Preserve Your Digital Memories: Effective Tips for Leveraging NTBackup in Windows Versions (11, 8, and 7)</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/unlock-successful-mobile-marketing-tactics-debunking-key-myths-and-embracing-proven-techniques-for-email-excellence-using-massmail-tools/"><u>Unlock Successful Mobile Marketing Tactics: Debunking Key Myths and Embracing Proven Techniques for Email Excellence Using Massmail Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/x-sound-engineer-edition-pc-for-2024/"><u>X-Sound Engineer Edition - PC for 2024</u></a></li>
 </ul></div>
 

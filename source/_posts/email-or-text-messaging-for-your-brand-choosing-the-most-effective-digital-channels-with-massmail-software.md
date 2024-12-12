@@ -1,7 +1,7 @@
 ---
 title: "Email or Text Messaging for Your Brand: Choosing the Most Effective Digital Channels with Massmail Software"
-date: 2024-12-04T02:44:15.133Z
-updated: 2024-12-05T22:09:50.859Z
+date: 2024-12-09T19:31:16.895Z
+updated: 2024-12-12T07:59:59.152Z
 tags:
   - product
 categories:
@@ -19,12 +19,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -54,10 +58,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -75,7 +75,7 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -86,33 +86,29 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-superficial-shares-spell-social-deterioration/"><u>[Updated] How Superficial Shares Spell Social Deterioration</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-final-flourishes-crafting-memorable-video-closures/"><u>2024 Approved Final Flourishes Crafting Memorable Video Closures</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/dealing-with-non-compatible-hardware-drivers-in-windows-a-guide-by-yl-software-experts/"><u>Dealing with Non-Compatible Hardware Drivers in Windows: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/exploring-common-scanner-issues-and-fixes-with-insights-from-yl-software-experts/"><u>Exploring Common Scanner Issues and Fixes with Insights From YL Software Experts</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-asus-computers-sound-up-and-running-realtek-audio-driver-for-free/"><u>Get Your ASUS Computer's Sound Up and Running: Realtek Audio Driver for FREE!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/identifying-the-root-causes-of-gpu-failures-in-windows-environments-insights-from-yl-computing/"><u>Identifying the Root Causes of GPU Failures in Windows Environments - Insights From YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy A05s</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/photographic-tapestry-assembly-techniques/"><u>Photographic Tapestry Assembly Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/premium-audio-modification-gadgets-for-youtube-go-getters-for-2024/"><u>Premium Audio Modification Gadgets for YouTube Go-Getters for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/quick-tips-for-transferring-files-to-your-desktop-with-yl-software-expertise/"><u>Quick Tips for Transferring Files to Your Desktop with YL Software Expertise</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/rejuvenating-your-pcs-heart-a-step-by-step-guide-to-restoring-a-damaged-motherboard-with-bad-bios-by-yl-software/"><u>Rejuvenating Your PC's Heart: A Step-by-Step Guide to Restoring a Damaged Motherboard with Bad BIOS by YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/slowing-down-how-your-computers-memory-affects-overall-speed-tips-and-tricks-from-yl-software-experts/"><u>Slowing Down? How Your Computer's Memory Affects Overall Speed – Tips and Tricks From YL Software Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-for-troubleshooting-failed-device-creations-in-directx/"><u>Solution Guide for Troubleshooting Failed Device Creations in DirectX</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-process-to-fix-driver-malfunctions-on-windows-systems-with-tips-from-yl-software/"><u>Step-by-Step Process to Fix Driver Malfunctions on Windows Systems with Tips From YL Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211274663-9798330007035-summary-of-lisa-chamberlains-tarot-for-beginners/"><u>Summary of Lisa Chamberlain's Tarot for Beginners | Free Book</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-the-influence-of-the-sino-japanese-wars-on-chinas-past-expert-analysis-by-yl-computing/"><u>Unraveling the Influence of the Sino-Japanese Wars on China's Past - Expert Analysis by YL Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-10-stress-relieving-games/"><u>[Updated] 2024 Approved Top 10 Stress Relieving Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-explore-new-realms-best-iphoneandroid-vr-games-for-2024/"><u>[Updated] Explore New Realms Best iPhone/Android VR Games for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-adobe-premiere-pro-101-for-youtube-clips-and-edits/"><u>[Updated] In 2024, Adobe Premiere Pro 101 for YouTube Clips and Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-plotting-your-path-in-the-realm-of-visual-arts/"><u>2024 Approved Plotting Your Path in the Realm of Visual Arts</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comparing-sms-and-email-campaigns-which-offers-better-engagement-insights-from-massmail/"><u>Comparing SMS and Email Campaigns: Which Offers Better Engagement? - Insights From Massmail</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/fast-and-effective-email-crafting-strategies-using-massmail-suite/"><u>Fast and Effective Email Crafting Strategies Using MassMail Suite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic5-ultimate-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Magic5 Ultimate Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-transfer-a-concealed-system-restore-section-to-ssd-safely-a-step-by-step-procedure/"><u>How to Transfer a Concealed System Restore Section to SSD Safely: A Step-by-Step Procedure</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-ultimate-guide-to-self-validation-on-social-media/"><u>In 2024, The Ultimate Guide to Self-Validation on Social Media</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/selecting-the-optimal-digital-multi-level-marketing-opportunity-with-massmail-software/"><u>Selecting the Optimal Digital Multi-Level Marketing Opportunity with Massmail Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210832327-9781916529007-stones-in-my-bones/"><u>Stones In My Bones | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-smart-learners-path-to-affordable-music-streaming-with-tidal-discounts/"><u>The Smart Learner's Path to Affordable Music Streaming with Tidal Discounts</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-5-mlm-missteps-to-dodge-insights-and-strategies-for-successful-network-marketing-based-on-2amo10/"><u>Top 5 MLM Missteps to Dodge - Insights and Strategies for Successful Network Marketing (Based on 2Amo/10)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/windows-11-ver22h2/"><u>Windows 11 Ver.22H2 更新不能時の解決策</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-5-seo-agentstv-v-edinburge-otbor-luchshih-uslug-dlya-vashego-vizita/"><u>Топ-5 SEO-Агентств В Эдинбурге: Отбор Лучших Услуг Для Вашего Визита</u></a></li>
 </ul></div>
 

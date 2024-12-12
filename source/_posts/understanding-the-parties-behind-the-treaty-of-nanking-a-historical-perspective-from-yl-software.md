@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Parties Behind the Treaty of Nanking: A Historical Perspective From YL Software"
-date: 2024-11-30T03:58:14.722Z
-updated: 2024-12-05T16:49:55.871Z
+date: 2024-12-10T16:39:10.766Z
+updated: 2024-12-12T04:22:42.157Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,20 +56,24 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-keep-your-videos-trending-on-youtube-by-sustaining-creative-commitments/"><u>[New] Keep Your Videos Trending on YouTube by Sustaining Creative Commitments</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-snickerscreen-composer/"><u>[New] SnickerScreen Composer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unlock-the-potential-of-hd-videos-on-android-devices-for-2024/"><u>[New] Unlock the Potential of HD Videos on Android Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-captivate-audiences-unveiling-secrets-for-striking-youtube-banners/"><u>[Updated] 2024 Approved Captivate Audiences Unveiling Secrets for Striking YouTube Banners</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-cut-down-on-hassle-with-easy-ipad-recording-methods/"><u>[Updated] 2024 Approved Cut Down On Hassle With Easy iPad Recording Methods</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-velocity-victories-olympics-year-2022-for-2024/"><u>[Updated] Velocity Victories Olympics, Year 2022 for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1-navigating-crypto-taxation-a-step-by-step-guide-by-yl-computings-expert-team/"><u>1. Navigating Crypto Taxation: A Step-by-Step Guide by YL Computing's Expert Team</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-duplicate-deletion-for-windows-users-with-yls-expert-tips/"><u>Effortless Duplicate Deletion for Windows Users with YL's Expert Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/guard-your-gaming-journey-with-switchs-passcode-feature/"><u>Guard Your Gaming Journey with Switch's Passcode Feature</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-can-you-utilize-yls-cryptocurrency-address-balance-verifier-insights-from-an-expert-at-yl-computing/"><u>How Can You Utilize YL's Cryptocurrency Address Balance Verifier: Insights From an Expert at YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-optimize-your-pcs-performance-and-speed-expert-tips-from-yl-software/"><u>How to Optimize Your PC's Performance and Speed: Expert Tips From YL Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-open-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Open Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/protecting-your-crypto-investments-with-yl-softwares-advanced-strategies/"><u>Protecting Your Crypto Investments with YL Software's Advanced Strategies</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/qin-shi-huang-the-emperor-who-united-china-in-221-bc-insights-by-yl-computing-and-yl-software/"><u>Qin Shi Huang: The Emperor Who United China in 221 BC - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-the-mystery-identifying-reasons-behind-your-computers-erratic-freezing-episodes-expertise-from-yl-computing/"><u>Unraveling the Mystery: Identifying Reasons Behind Your Computer's Erratic Freezing Episodes - Expertise From YL Computing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-exporting-snapchat-content-to-your-phones-gallery-for-2024/"><u>[New] Exporting SnapChat Content to Your Phone's Gallery for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-reinvent-your-video-storytelling-in-obs-studio/"><u>[New] In 2024, Reinvent Your Video Storytelling in OBS Studio</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unlocking-twitters-potential-with-live-videos/"><u>[Updated] 2024 Approved Unlocking Twitter's Potential with Live Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-enhancing-tiktok-video-viewership-through-zoom-for-2024/"><u>[Updated] Enhancing TikTok Video Viewership Through Zoom for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-stay-ahead-of-the-curve-top-strategies-for-tracking-blockchain-innovation-insights-by-yl-tech/"><u>1. Stay Ahead of the Curve: Top Strategies for Tracking Blockchain Innovation - Insights by YL Tech</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/microsoft-outlook-8/"><u>電子郵件卡死結：Microsoft Outlook如何用 8 種方式抽身！</u></a></li>
+<li><a href="https://win11.techidaily.com/aspire-to-win-11s-trials-joining-the-insider-brigade/"><u>Aspire to Win 11'S Trials: Joining the Insider Brigade</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comment-configurer-une-solution-de-sauvegarde-avec-aomei-backupper/"><u>Comment Configurer Une Solution De Sauvegarde Avec AOMEI Backupper?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expansion-alert-discover-the-new-whatsapp-channels-feature-now-available-in-these-countries-a-comprehensive-guide-cyber-world-news/"><u>Expansion Alert! Discover the New WhatsApp Channels Feature Now Available in These Countries - A Comprehensive Guide | Cyber World News</u></a></li>
+<li><a href="https://discover-best.techidaily.com/exploring-the-acoustic-depths-of-ankers-soundcore-motion-x500-the-one-dimensional-space-speaker-reviewed/"><u>Exploring the Acoustic Depths of Anker's SoundCore Motion X500 – The One-Dimensional Space Speaker Reviewed</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/follow-up-question-2-what-were-the-key-factors-that-made-south-koreas-technology-sector-more-attractive-for-foreign-investment-compared-to-japan-during-this362/"><u>Follow-Up Question 2] What Were the Key Factors that Made South Korea's Technology Sector More Attractive for Foreign Investment Compared to Japan During This Period?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-restore-a-corrupted-or-damaged-hdd-on-windows-10-8-and-7/"><u>How to Restore a Corrupted or Damaged HDD on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-llama-2-understanding-and-utilizing-its-features-effectively/"><u>Mastering Llama 2: Understanding and Utilizing Its Features Effectively</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/problemlos-umgangen-10-effektive-methoden-zur-reparatur-ihrer-nicht-funktionierenden-seagate-wechselplatte/"><u>Problemlos Umgangen: 10 Effektive Methoden Zur Reparatur Ihrer Nicht Funktionierenden Seagate-Wechselplatte</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/the-best-3-imap-email-backup-software-in-the-year-2024/"><u>The Best 3 IMAP Email Backup Software in the Year 2024.</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-free-tools-ultimate-usb-data-retrieval-apps-compatible-with-windows-11/"><u>Top Free Tools: Ultimate USB Data Retrieval Apps Compatible with Windows 11</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/windowshp/"><u>WindowsリカバリのためHPノートブックで使用する方法を学ぶ：詳しいチュートリアル</u></a></li>
 </ul></div>
 

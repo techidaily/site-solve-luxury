@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Anchor Tags in SEO: Definitions & Crucial Attributes"
-date: 2024-12-02T19:44:27.937Z
-updated: 2024-12-06T04:20:06.090Z
+date: 2024-12-09T07:22:05.588Z
+updated: 2024-12-12T07:34:40.774Z
 tags:
   - wiki
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 ## Anchor tag
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Contents
 
 * [What is an anchor tag?](https://tools.techidaily.com/link-assistant/products/)
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 * [Related articles](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is an anchor tag?
 
 An anchor tag _<a>_ is one of the HTML tags, which is used for linking one page to another or some sections on a single page. By itself, however <a> doesn’t do much (it’s just a placeholder). For linking, it must be accompanied by an _href_ attribute.
@@ -39,6 +47,10 @@ An anchor tag _<a>_ is one of the HTML tags, which is used for linking one page 
 Here is what it looks like:
 
 ![anchor tag](https://cdn1.link-assistant.com/thumbs/w803-c1/upload/seowiki/posts/25/at1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How is an anchor tag important for SEO?
 
@@ -54,19 +66,11 @@ Anchor tag attributes are the way we tell how the hyperlink should behave on the
 
 Here is the list f the most often used anchor attributes:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### href
 
 It is the only mandatory attribute on the list. All the other attributes can be used only if the href attribute is present. _href_ attribute is used to specify the target URL (the destination, in other words)[\[2\]](https://tools.techidaily.com/link-assistant/products/).
 
 Example: <a href="https://website.com">Your anchor text</a>[\[3\]](https://tools.techidaily.com/link-assistant/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### rel
 
@@ -79,7 +83,7 @@ It is used to specify the relation between the current page and the linked one. 
 Example: <a rel="nofollow" href="http://website.com/">Your anchor text</a>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### download
@@ -88,15 +92,15 @@ It is used to specify the target link to download files with a click.
 
 Example: <a href="/images/yourgreatimage.png" download="imagename">
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### hreflang
 
 It is used to specify the language of the linked page.
 
 Example: <a href="https://website.com" hreflang="en">Your anchor text</a>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### media
 
@@ -107,10 +111,6 @@ Example: <a href="att\_a\_media.asp?output=print"
 media="print and (resolution:300dpi)">
 
 Open media attribute page for print.</a>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### target
 
@@ -148,22 +148,24 @@ Example: <a href="https://website.com" target="\_blank">Your anchor text</a>
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-compreranciales-en-fb-tecnicas-para-la-registro-de-llamadas-y-conversaciones/"><u>[New] Compreranciales en FB Técnicas Para La Registro De Llamadas Y Conversaciones</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-slug-line-creation-techniques-for-online-copy/"><u>[New] Slug Line Creation Techniques for Online Copy</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-superior-gameplay-androids-leading-gba-emulators/"><u>[Updated] In 2024, Superior Gameplay Android's Leading GBA Emulators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-navigating-the-world-of-screen-capture-nvidia-edition-for-2024/"><u>[Updated] Navigating the World of Screen Capture NVIDIA Edition for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/boost-your-pcs-power-quickly-with-yl-software-solutions/"><u>Boost Your PC's Power Quickly with YL Software Solutions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/boost-your-pcs-speed-on-windows-top-tips-and-tricks-by-yl-computing/"><u>Boost Your PC's Speed on Windows: Top Tips & Tricks by YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-fixing-libgdk-win32-20-0dll-error-on-your-computer/"><u>Guide to Fixing 'libgdk-win32-2.0-0.dll' Error on Your Computer</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/is-mac-supported-by-windows-defender-explore-alternatives-and-options-with-yl-software-solutions/"><u>Is Mac Supported by Windows Defender? Explore Alternatives and Options with YL Software Solutions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/solving-common-issues-with-your-pcs-optical-disk-player-a-comprehensive-guide/"><u>Solving Common Issues with Your PC's Optical Disk Player: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-tester-review-the-ultimate-rugged-stylus-equipped-windows-tablet-for-on-the-go-professionals/"><u>Top-Tester Review: The Ultimate Rugged, Stylus-Equipped Windows Tablet for On-the-Go Professionals</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-a-non-charging-laptop-expert-tips-from-yl-computing/"><u>Troubleshooting a Non-Charging Laptop: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-empty-screen-problems-on-your-monitor-with-tips-by-yl-software/"><u>Troubleshooting Empty Screen Problems on Your Monitor with Tips by YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-xbox-one-controllers-a-step-by-step-guide/"><u>Troubleshooting Unresponsive Xbox One Controllers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-the-origins-of-the-boxer-rebellion-a-historical-insight-by-yl-computing/"><u>Unraveling the Origins of the Boxer Rebellion: A Historical Insight by YL Computing</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/yl-computings-spy-x-collection-high-quality-wallpapers-and-imagery-for-your-home-screen/"><u>YL Computing's Spy X Collection: High-Quality Wallpapers & Imagery for Your Home Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-connect-worlds-quickly-sharing-tiktoks-with-facebook/"><u>[New] In 2024, Connect Worlds Quickly Sharing TikToks with Facebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-steps-to-clear-out-your-youtube-watch-later-collection/"><u>[New] Steps to Clear Out Your YouTube Watch Later Collection</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-gastronomes-blueprint-filming-feasts-for-2024/"><u>[New] The Gastronome’s Blueprint Filming Feasts for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728504230929-windows-11-hdd/"><u>優秀な Windows 11 適合 HDD バックアップツール選び方 - すべて破格</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effiziente-datensicherung-auf-windows-10-mithilfe-von-dateiversions-backup-oder-aomei-backupper-standard-softwarelosungen-analysieren/"><u>Effiziente Datensicherung Auf Windows 10 Mithilfe Von Dateiversions-Backup Oder AOMEI Backupper Standard Softwarelösungen Analysieren</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratis-converter-geen-inkomsten-m4v-naar-mp4-online-de-beste-oplossing-van-movavi/"><u>Gratis Converter: Geen Inkomsten-M4V Naar MP4 Online - De Beste Oplossing Van Movavi</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/guide-complet-pour-enregistrer-et-recuperer-des-donnees-sur-un-systeme-derniere-edition-de-windows-11/"><u>Guide Complet Pour Enregistrer Et Récupérer Des Données Sur Un Système Dernière Édition De Windows 11</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-fix-synology-drive-client-when-its-stuck-in-processing-alternatives-and-tips/"><u>How to Fix Synology Drive Client When It's Stuck in 'Processing': Alternatives and Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/importing-songs-into-inshot-a-step-by-step-guide-for-2024/"><u>Importing Songs Into InShot A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-fix-how-to-resolve-call-of-duty-warzones-error-code-0-1766-on-gaming-consoles/"><u>Mastering the Fix: How to Resolve Call of Duty Warzone's Error Code 0-1766 on Gaming Consoles</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ottimizzazione-delle-immagini-di-file-passaggi-chiave-per-un-ripristino-efficace-guida-seo/"><u>Ottimizzazione Delle Immagini Di File: Passaggi Chiave per Un Ripristino Efficace - Guida SEO</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/rapid-image-moving-techniques-are-they-effective-in-real-time-transfers-discover-the-truth-inside/"><u>Rapid Image Moving Techniques: Are They Effective in Real-Time Transfers? Discover the Truth Inside!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/reconstitution-dun-fichier-excel-manquant-ou-delete-sur-windows-10-astuces-utiles-pour-tous-les-niveaux/"><u>Reconstitution D'un Fichier Excel Manquant Ou Déleté Sur Windows 10 : Astuces Utiles Pour Tous Les Niveaux</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/samsung-ssd-hdd/"><u>Samsung SSDへの交換 - HDD無改修で簡単な手順</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/secure-steps-preserving-data-while-switching-drives/"><u>Secure Steps: Preserving Data While Switching Drives</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-lenovo-tab-4-evaluation-balancing-cost-savings-with-constraints/"><u>The Lenovo Tab 4 Evaluation: Balancing Cost Savings with Constraints</u></a></li>
+<li><a href="https://win-updates.techidaily.com/tout-savoir-sur-la-reparation-et-recuperation-des-cartes-sd-sony-un-guide-complet/"><u>Tout Savoir Sur La Reparation Et Récupération Des Cartes SD Sony : Un Guide Complet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-hp-monitor-driver-troubles-windows-1087-solutions/"><u>Troubleshooting & Fixing HP Monitor Driver Troubles: Windows 10/8/7 Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 15 Forecasts in Digital Advertising Trends for 2012 by MassMail Solutions
-date: 2024-11-29T19:56:04.242Z
-updated: 2024-12-06T05:53:47.508Z
+date: 2024-12-05T01:38:22.956Z
+updated: 2024-12-11T20:40:00.961Z
 tags:
   - product
 categories:
@@ -18,10 +18,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
@@ -36,10 +32,6 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -51,10 +43,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -79,12 +67,16 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -95,12 +87,16 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -115,7 +111,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,17 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-expert-market-approach-rapid-eradication-on-youtube/"><u>[New] 2024 Approved The Expert' Market Approach Rapid Eradication on YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-transform-your-view-exclusive-alternative-video-websites/"><u>[Updated] In 2024, Transform Your View Exclusive Alternative Video Websites</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-moments-replay-module-for-2024/"><u>[Updated] Moments Replay Module for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-gaming-like-never-before-with-apple-sports-the-free-iphone-application-every-enthusiast-dreams-of-spotlighted-by-zdnet/"><u>Experience Gaming Like Never Before with Apple Sports: The Free iPhone Application Every Enthusiast Dreams Of | Spotlighted by ZDNet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/from-beginner-to-pro-the-essential-guide-to-capturing-your-mac-display-for-2024/"><u>From Beginner to Pro The Essential Guide to Capturing Your Mac Display for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-c50-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-augmented-reality-excellence-mastering-the-use-of-spark-ar-luts/"><u>In 2024, Augmented Reality Excellence Mastering the Use of Spark AR LUTs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mac-users-guide-to-best-4k-display-technology-for-2024/"><u>Mac Users' Guide to Best 4K Display Technology for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/optimizing-your-audio-experience-expert-guide-on-configuring-sound-card-settings-yl-computing/"><u>Optimizing Your Audio Experience: Expert Guide on Configuring Sound Card Settings - YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/resolving-scanning-issues-what-if-your-scanner-outputs-jumbled-graphics-insights-by-yl-software/"><u>Resolving Scanning Issues: What If Your Scanner Outputs Jumbled Graphics? - Insights by YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/trust-and-transparency-in-crypto-evaluating-the-protection-of-personal-information-via-address-balance-verification-applications-developed-by-yl-software/"><u>Trust and Transparency in Crypto: Evaluating the Protection of Personal Information via Address Balance Verification Applications - Developed by YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-typical-windows-hardware-issues-insights-from-yl-computing/"><u>Unraveling Typical Windows Hardware Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-scaling-up-on-igtv-through-powerful-hash-tagging/"><u>[New] 2024 Approved Scaling Up on IGTV Through Powerful Hash Tagging</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-fraps-for-gamers-a-screen-record-review/"><u>[New] In 2024, Fraps for Gamers A Screen Record Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlock-podcast-prominence-with-advanced-seo-techniques-for-2024/"><u>[Updated] Unlock Podcast Prominence with Advanced SEO Techniques for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-to-implement-6-step-evaluation-method-for-boosting-your-email-marketing-results-with-massmail-updated-guide/"><u>Easy-to-Implement 6-Step Evaluation Method for Boosting Your Email Marketing Results with MassMail - Updated Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/guida-passo-passo-per-eseguire-il-backup-del-tuo-pc-windows-11-su-un-dispositivo-qnap-nas/"><u>Guida Passo-Passo per Eseguire Il Backup Del Tuo PC Windows 11 Su Un Dispositivo QNAP NAS</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-oppo-a58-4g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo A58 4G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/navigating-usage-conditions-comprehensive-guide-to-aomei-software-license-obligations/"><u>Navigating Usage Conditions: Comprehensive Guide to AOMEI Software License Obligations</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/swapping-out-your-msi-notebooks-hdd-for-a-faster-solid-state-storage-solution-ssd/"><u>Swapping Out Your MSI Notebook's HDD for a Faster Solid State Storage Solution (SSD)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-big-thing-in-music-streaming-how-apples-new-feature-is-set-to-transform-spotify-playlist-integration-exclusive-zdnet-report/"><u>The Next Big Thing in Music Streaming: How Apple's New Feature Is Set to Transform Spotify Playlist Integration | Exclusive ZDNet Report</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-mobile-device-analysis-techniques-by-zdnet-experts/"><u>Unveiling Mobile Device Analysis Techniques by ZDNet Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/verifying-your-youtube-sign-in-details-for-2024/"><u>Verifying Your YouTube Sign-In Details for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/wiederherstellung-verlorener-apple-backups-unter-windows-11-10-8-und-7-lernen-sie-wie/"><u>Wiederherstellung Verlorener Apple Backups Unter Windows 11, 10, 8 Und 7 - Lernen Sie Wie</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy-to-Implement 6-Step Evaluation Method for Boosting Your Email Marketing Results with MassMail - Updated Guide
-date: 2024-12-01T10:17:42.103Z
-updated: 2024-12-06T00:57:37.612Z
+date: 2024-12-05T00:17:29.762Z
+updated: 2024-12-11T18:45:14.596Z
 tags:
   - product
 categories:
@@ -19,12 +19,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -35,10 +39,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -53,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -82,6 +82,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -91,7 +95,7 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -102,10 +106,6 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
@@ -113,10 +113,6 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-speed-removing-ssgnatures-immediately/"><u>[New] Mastering Speed Removing Ssgnatures Immediately</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-capture-chill-vibes-top-winter-bg-ideas-for-yt-for-2024/"><u>[Updated] Capture Chill Vibes Top Winter Bg Ideas for YT for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-guide-to-youtube-live-streaming/"><u>2024 Approved The Ultimate Guide to YouTube Live Streaming</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/boost-your-pcs-power-quickly-with-yl-software-solutions/"><u>Boost Your PC's Power Quickly with YL Software Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-pova-5-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Pova 5 FRP Bypass</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/is-mac-supported-by-windows-defender-explore-alternatives-and-options-with-yl-software-solutions/"><u>Is Mac Supported by Windows Defender? Explore Alternatives and Options with YL Software Solutions</u></a></li>
-<li><a href="https://discover-best.techidaily.com/navigating-the-future-of-ai-insightful-forecasts-and-upcoming-developments-segment-i/"><u>Navigating the Future of AI – Insightful Forecasts & Upcoming Developments (Segment I)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/pathfinders-paradise-the-best-movies-for-a-purposeful-life-for-2024/"><u>Pathfinders' Paradise The Best Movies for a Purposeful Life for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/solving-common-issues-with-your-pcs-optical-disk-player-a-comprehensive-guide/"><u>Solving Common Issues with Your PC's Optical Disk Player: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-a-non-charging-laptop-expert-tips-from-yl-computing/"><u>Troubleshooting a Non-Charging Laptop: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-empty-screen-problems-on-your-monitor-with-tips-by-yl-software/"><u>Troubleshooting Empty Screen Problems on Your Monitor with Tips by YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-the-origins-of-the-boxer-rebellion-a-historical-insight-by-yl-computing/"><u>Unraveling the Origins of the Boxer Rebellion: A Historical Insight by YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719341599288-windows-chatbot-simulation-localize-for-free-with-gpt4all/"><u>Windows ChatBot Simulation: Localize for Free with GPT4All</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/erfecting-your-look-essential-makeup-tips-and-product-reviews-for-2024/"><u>[New] Perfecting Your Look Essential Makeup Tips & Product Reviews for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-decoding-social-media-analyzing-tiktok-and-snapchat-for-2024/"><u>[Updated] Decoding Social Media Analyzing TikTok & Snapchat for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-how-effective-is-windows-defender-in-protecting-your-online-safety-insights-from-yl-computings-expert-analysis/"><u>1. How Effective Is Windows Defender in Protecting Your Online Safety - Insights From YL Computing's Expert Analysis</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/fixing-interference-problems-how-to-make-your-antivirus-compatible-with-windows-programs-guidance-from-yl-software/"><u>Fixing Interference Problems: How to Make Your Antivirus Compatible with Windows Programs - Guidance From YL Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-80-pro-straight-screen-edition-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 80 Pro Straight Screen Edition Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro iOS? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-upgrade-your-amd-radeon-gpu-with-latest-software-version-2410/"><u>How To Upgrade Your AMD Radeon GPU with Latest Software Version 24.10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Infinix Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/keys-or-values-decoding-the-windows-registrys-essential-components-with-yl-software-insights/"><u>Keys or Values: Decoding the Windows Registry's Essential Components with YL Software Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/master-the-art-of-extracting-zip-archives-in-windows-with-expert-tips-techsolver-solutions/"><u>Master the Art of Extracting .ZIP Archives in Windows with Expert Tips - TechSolver Solutions</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mejora-la-velocidad-de-arranque-del-ssd-en-windows-11-usando-estas-8-tecnicas-efectivas/"><u>Mejora La Velocidad De Arranque Del SSD en Windows 11 Usando Estas 8 Técnicas Efectivas</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tailor-topical-laughs-for-2024/"><u>Tailor Topical Laughs for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-a-non-responsive-mouse-expert-advice-by-yl-software/"><u>Troubleshooting a Non-Responsive Mouse - Expert Advice by YL Software</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-guide-fixing-paper-jams-in-scanners-tips-from-yl-computing/"><u>Troubleshooting Guide: Fixing Paper Jams in Scanners - Tips From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-30-new-dimensions-in-metaverse-memes-for-2024/"><u>Unveiling 30 New Dimensions in Metaverse Memes for 2024</u></a></li>
 </ul></div>
 
