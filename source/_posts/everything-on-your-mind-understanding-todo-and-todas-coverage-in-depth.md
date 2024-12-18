@@ -1,7 +1,7 @@
 ---
 title: "Everything on Your Mind: Understanding 'Todo' & 'Todas' Coverage in Depth"
-date: 2024-12-07T02:25:18.021Z
-updated: 2024-12-12T06:54:46.984Z
+date: 2024-12-11T17:59:30.060Z
+updated: 2024-12-18T16:02:44.694Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd4164208e747d807661e727a6e5b2.jpg
@@ -25,16 +25,12 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -51,11 +47,11 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -73,9 +69,17 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -97,17 +101,9 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -125,6 +121,10 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -141,13 +141,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -180,7 +180,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -198,24 +198,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-boosting-engagement-profits-with-animated-ad-success-tactics-on-fb/"><u>[New] In 2024, Boosting Engagement, Profits with Animated Ad Success Tactics on FB</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/inlandssd/"><u>無敵免費基於Inland的SSD 硬碟對映工具 - 解決起始故障</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/best-chicago-seo-providers-for-optimal-search-engine-rankings-top-picks-by-industry-experts/"><u>Best Chicago SEO Providers for Optimal Search Engine Rankings – Top Picks by Industry Experts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/discovering-windows-best-snipping-and-cropping-software/"><u>Discovering Windows' Best Snipping and Cropping Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/elevate-your-campaigns-discover-top-tips-for-enhanced-email-marketing-effectiveness-using-massmail-tools-expert-advice-from-mmsw-blog/"><u>Elevate Your Campaigns: Discover Top Tips for Enhanced Email Marketing Effectiveness Using MassMail Tools | Expert Advice From MMSW Blog</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-10-high-quality-passport-photos-available-here/"><u>In 2024, Free 10 High-Quality Passport Photos Available Here</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-revenue-battlefield-dm-versus-yo-analysis/"><u>In 2024, Video Revenue Battlefield Dm Versus Yo Analysis</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/leading-haifa-seo-firms-elevate-your-web-visibility-with-elite-online-marketing-services/"><u>Leading Haifa SEO Firms: Elevate Your Web Visibility with Elite Online Marketing Services</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/leading-seo-firms-glasgow-premier-search-engine-optimization-experts-across-the-uk/"><u>Leading SEO Firms Glasgow: Premier Search Engine Optimization Experts Across the UK</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-xcover-7-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy XCover 7? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mastering-multi-channel-promotion-integrating-email-with-social-platforms-insights-from-the-marketing-cocktail-conference-2010/"><u>Mastering Multi-Channel Promotion: Integrating Email with Social Platforms - Insights From the Marketing Cocktail Conference 2010</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/masterpiece-makers-discovering-these-6-unmatched-nft-tools/"><u>Masterpiece Makers Discovering These 6 Unmatched NFT Tools</u></a></li>
-<li><a href="https://facebook.techidaily.com/meta-is-bringing-back-trumps-facebook-and-instagram-accounts/"><u>Meta Is Bringing Back Trump's Facebook and Instagram Accounts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-asus-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Asus Android SIM Unlock APK</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-rated-seo-agencies-in-brussels-expertise-and-services-for-optimal-online-visibility/"><u>Top Rated SEO Agencies in Brussels: Expertise and Services for Optimal Online Visibility</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-to-effective-file-and-folder-deletion-techniques/"><u>Ultimate Guide to Effective File and Folder Deletion Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-the-latest-ipad-pro-m1-2021-revolutionizing-performance-for-mobile-professionals/"><u>Unboxing the Latest iPad Pro (M1, 2021): Revolutionizing Performance for Mobile Professionals</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/understanding-website-architecture-a-comprehensive-guide-to-structuring-your-site-for-enhanced-seo-seo-mastery-series/"><u>Understanding Website Architecture: A Comprehensive Guide to Structuring Your Site for Enhanced SEO | SEO Mastery Series</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-itel-s23-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Itel S23? Fixed | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-video-record-with-vlc/"><u>[New] 2024 Approved Mastering Video Record with VLC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-basics-of-electronic-story-craftsmanship/"><u>[Updated] 2024 Approved The Basics of Electronic Story Craftsmanship</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-discovering-hidden-gems-in-vlc-player-functions/"><u>[Updated] In 2024, Discovering Hidden Gems in VLC Player Functions</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/avoiding-common-pitfalls-in-mlm-essential-techniques-and-tips-from-2009/"><u>Avoiding Common Pitfalls in MLM: Essential Techniques & Tips From 2009</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/einfache-anleitung-iphone-backups-auf-ihrem-qnap-nas-mit-2-schritten-erstellen-fonetool/"><u>Einfache Anleitung: IPhone-Backups Auf Ihrem QNAP NAS Mit 2 Schritten Erstellen - FoneTool</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/enhancing-email-engagement-strategies-with-massmail-software/"><u>Enhancing Email Engagement : Strategies with MassMail Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-buying-ps-games-effectively/"><u>Essential Tips for Buying PS Games Effectively</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/guida-dettagliata-alla-sincronizzazione-di-due-computer-apple-come-eseguirla-in-modo-efficiente/"><u>Guida Dettagliata Alla Sincronizzazione Di Due Computer Apple: Come Eseguirla in Modo Efficiente</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-edge-40-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Edge 40 Pro.</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/solve-hdmi-sound-problems-when-connecting-laptop-to-tvmonitor/"><u>Solve HDMI Sound Problems When Connecting Laptop to TV/Monitor</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/samye-perspektivnye-agentstva-po-seo-v-er-riyade-saudovskaya-araviya-obnovivshiesya-rejtingi-dlya-2024-goda-s-pomoshyu-powersuite-kompanii-vysokoj-effektivn4/"><u>Самые Перспективные Агентства По SEO В Эр-Рияде, Саудовская Аравия – Обновившиеся Рейтинги Для 2024 Года С Помощью PowerSuite | Компании Высокой Эффективности</u></a></li>
 </ul></div>
 

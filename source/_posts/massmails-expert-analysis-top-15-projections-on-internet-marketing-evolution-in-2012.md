@@ -1,7 +1,7 @@
 ---
 title: "MassMail's Expert Analysis: Top 15 Projections on Internet Marketing Evolution in 2012"
-date: 2024-12-06T18:54:01.469Z
-updated: 2024-12-12T09:41:01.559Z
+date: 2024-12-12T18:36:05.279Z
+updated: 2024-12-18T17:02:36.169Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -36,10 +36,6 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -52,15 +48,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -74,6 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -81,10 +81,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -94,17 +90,21 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,18 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-helper.techidaily.com/1728481514307-windows/"><u>拯救Windows電腦磁碟零容忍的高效解決方法 -【最新版指南】</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/dell-pc-boot-failure-troubleshooting-a-cloned-ssd-issue/"><u>Dell PC Boot Failure: Troubleshooting a Cloned SSD Issue</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/discover-a-must-have-voice-transform-tool-no-cost-maximum-impact-for-2024/"><u>Discover a Must-Have Voice Transform Tool - No Cost, Maximum Impact for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/error-404-unable-to-retrieve-your-requested-webpage/"><u>Error 404: Unable to Retrieve Your Requested Webpage</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/game-enhancing-screens-top-5-for-ps5-and-xbox-gamers-for-2024/"><u>Game-Enhancing Screens Top 5 for PS5 & Xbox Gamers for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-androidios-video-cutting-edge-8-top-montage-tools-revealed/"><u>In 2024, Android/iOS Video Cutting-Edge 8 Top Montage Tools Revealed</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728478835291-m2-ssd/"><u>M.2 SSDの探し方：システム向け最適選びの徹底ガイド</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-overcoming-divison-2s-startup-issues/"><u>Mastering the Fix: Overcoming Divison 2'S Startup Issues</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-ultimate-guide-generating-a-windows-recovery-drive-using-methods-suitable-for-versions-11-10-8-and-7/"><u>The Ultimate Guide: Generating a Windows Recovery Drive Using Methods Suitable for Versions 11, 10, 8 & ^[7</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-3-methods-to-install-av1-codec-extension-on-windows-10-or-11/"><u>Top 3 Methods to Install AV1 Codec Extension on Windows 10 or 11</u></a></li>
-<li><a href="https://win-help.techidaily.com/trier-les-problemes-de-sauvegarde-sous-windows-solutions-efficaces-pour-windows-1187-recommandees-par-les-experts/"><u>Trier Les Problèmes De Sauvegarde Sous Windows: Solutions Efficaces Pour Windows 11/8/7 Recommandées Par Les Experts</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/warum-konnen-mp3-dateien-nicht-zu-ihrer-itunes-mediabibliothek-hinzugefugt-werden/"><u>Warum Können MP3-Dateien Nicht Zu Ihrer iTunes Mediabibliothek Hinzugefügt Werden?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209649797-9780757319525-what-will-they-say-about-you-when-youre-gone/"><u>What Will They Say About You When You're Gone? | Free Book</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-starting-a-vlog-the-must-have-equipmentsoftware-for-2024/"><u>[New] Starting a Vlog The Must-Have Equipment/Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/directors-cut-assessment-video-editor-review/"><u>Director's Cut Assessment – Video Editor Review</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/essentiel-pour-les-utilisateurs-preservation-en-douceur-des-donnees-windows-10-lors-du-mise-a-niveau-vers-windows-11/"><u>Essentiel Pour Les Utilisateurs: Préservation en Douceur Des Données Windows 10 Lors Du Mise À Niveau Vers Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-in-minutes-expert-advice-and-tricks-every-apple-user-should-know-unlock-the-full-potential-on-zdnet/"><u>Master Your iPad in Minutes: Expert Advice & Tricks Every Apple User Should Know | Unlock the Full Potential on ZDNET</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/quick-guide-boosting-your-system-with-the-windows-server-essentials-to-standard-upgrade/"><u>Quick Guide: Boosting Your System with the Windows Server Essentials to Standard Upgrade</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-recovering-your-gmail-messages-using-a-backup-copy/"><u>Step-by-Step Guide: Recovering Your Gmail Messages Using a Backup Copy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-hardware-analysis/"><u>Tom's Tech Review: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-imessage-block-notifications-and-steps-to-verify-them/"><u>Understanding iMessage Block Notifications and Steps to Verify Them</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728507128088-6/"><u>どうすればデスクトップから失われたショートカットを取り戻せるか？6つの対処法を教えます。</u></a></li>
 </ul></div>
 

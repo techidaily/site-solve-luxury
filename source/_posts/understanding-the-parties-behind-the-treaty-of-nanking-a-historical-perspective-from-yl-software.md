@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Parties Behind the Treaty of Nanking: A Historical Perspective From YL Software"
-date: 2024-12-10T16:39:10.766Z
-updated: 2024-12-12T04:22:42.157Z
+date: 2024-12-15T18:47:17.471Z
+updated: 2024-12-18T17:52:46.688Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-exporting-snapchat-content-to-your-phones-gallery-for-2024/"><u>[New] Exporting SnapChat Content to Your Phone's Gallery for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-reinvent-your-video-storytelling-in-obs-studio/"><u>[New] In 2024, Reinvent Your Video Storytelling in OBS Studio</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unlocking-twitters-potential-with-live-videos/"><u>[Updated] 2024 Approved Unlocking Twitter's Potential with Live Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-enhancing-tiktok-video-viewership-through-zoom-for-2024/"><u>[Updated] Enhancing TikTok Video Viewership Through Zoom for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1-stay-ahead-of-the-curve-top-strategies-for-tracking-blockchain-innovation-insights-by-yl-tech/"><u>1. Stay Ahead of the Curve: Top Strategies for Tracking Blockchain Innovation - Insights by YL Tech</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/microsoft-outlook-8/"><u>電子郵件卡死結：Microsoft Outlook如何用 8 種方式抽身！</u></a></li>
-<li><a href="https://win11.techidaily.com/aspire-to-win-11s-trials-joining-the-insider-brigade/"><u>Aspire to Win 11'S Trials: Joining the Insider Brigade</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/comment-configurer-une-solution-de-sauvegarde-avec-aomei-backupper/"><u>Comment Configurer Une Solution De Sauvegarde Avec AOMEI Backupper?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expansion-alert-discover-the-new-whatsapp-channels-feature-now-available-in-these-countries-a-comprehensive-guide-cyber-world-news/"><u>Expansion Alert! Discover the New WhatsApp Channels Feature Now Available in These Countries - A Comprehensive Guide | Cyber World News</u></a></li>
-<li><a href="https://discover-best.techidaily.com/exploring-the-acoustic-depths-of-ankers-soundcore-motion-x500-the-one-dimensional-space-speaker-reviewed/"><u>Exploring the Acoustic Depths of Anker's SoundCore Motion X500 – The One-Dimensional Space Speaker Reviewed</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/follow-up-question-2-what-were-the-key-factors-that-made-south-koreas-technology-sector-more-attractive-for-foreign-investment-compared-to-japan-during-this362/"><u>Follow-Up Question 2] What Were the Key Factors that Made South Korea's Technology Sector More Attractive for Foreign Investment Compared to Japan During This Period?</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-restore-a-corrupted-or-damaged-hdd-on-windows-10-8-and-7/"><u>How to Restore a Corrupted or Damaged HDD on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-llama-2-understanding-and-utilizing-its-features-effectively/"><u>Mastering Llama 2: Understanding and Utilizing Its Features Effectively</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/problemlos-umgangen-10-effektive-methoden-zur-reparatur-ihrer-nicht-funktionierenden-seagate-wechselplatte/"><u>Problemlos Umgangen: 10 Effektive Methoden Zur Reparatur Ihrer Nicht Funktionierenden Seagate-Wechselplatte</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-best-3-imap-email-backup-software-in-the-year-2024/"><u>The Best 3 IMAP Email Backup Software in the Year 2024.</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-free-tools-ultimate-usb-data-retrieval-apps-compatible-with-windows-11/"><u>Top Free Tools: Ultimate USB Data Retrieval Apps Compatible with Windows 11</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windowshp/"><u>WindowsリカバリのためHPノートブックで使用する方法を学ぶ：詳しいチュートリアル</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-metaverse-laughs-creating-viral-digital-cartoons/"><u>[New] Metaverse Laughs Creating Viral Digital Cartoons</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-free2x-webcam-recorder-software-review-in-depth/"><u>[Updated] In 2024, Free2X Webcam Recorder Software Review in Depth</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-14-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 14 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/boosting-starfields-excitement-a-guide-to-ultimate-in-game-tweaking-and-improvements/"><u>Boosting Starfield's Excitement: A Guide to Ultimate In-Game Tweaking and Improvements</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/detailed-insight-on-the-asus-x441ba-understanding-its-benefits-and-drawbacks/"><u>Detailed Insight on the Asus X441BA: Understanding Its Benefits & Drawbacks</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effective-techniques-for-disabling-pop-up-ads-in-the-chrome-app-on-your-android-device/"><u>Effective Techniques for Disabling Pop-Up Ads in the Chrome App on Your Android Device</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effizientes-duplikat-erstellen-und-exportieren-von-vmware-virtual-machine-disk-vmdk-schritt-fur-schritt-anleitung/"><u>Effizientes Duplikat Erstellen Und Exportieren Von VMware Virtual Machine Disk (VMDK) - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/migrate-your-memories-smoothly-transfer-images-from-sd-card-to-desktop-using-3-proven-techniques/"><u>Migrate Your Memories Smoothly: Transfer Images From SD Card to Desktop Using 3 Proven Techniques</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/rechtzeitig-beheben-sie-ihren-defekten-windows-bootloader-ansatze-fur-die-verwendung-von-uefi-and-mbr/"><u>Rechtzeitig Beheben Sie Ihren Defekten Windows Bootloader - Ansätze Für Die Verwendung Von UEFI & MBR</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/recupera-i-file-eliminati-rapidamente-7-modi-con-windows-10/"><u>Recupera I File Eliminati Rapidamente: 7 Modi Con Windows 10</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/rehabilitasi-data-email-terguling-di-yahoo-solusi-tahu-apa-caranya-setelah-beberapa-tahun-telah-kehilangan/"><u>Rehabilitasi Data Email Terguling Di Yahoo: Solusi Tahu Apa Caranya Setelah Beberapa Tahun Telah Kehilangan!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/solucionado-disponibilidad-temporal-de-la-unidad-de-historia-de-archivos/"><u>Solucionado - Disponibilidad Temporal De La Unidad De Historia De Archivos</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/solving-the-missing-vcruntime140dll-issue-proven-fixes-and-strategies/"><u>Solving the Missing vcruntime140.dll Issue: Proven Fixes and Strategies</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-transforming-mswmm-to-popular-video-and-audio-formats-like-mp4-avi-mov/"><u>Step-by-Step Guide: Transforming MSWMM to Popular Video and Audio Formats Like MP4, AVI, MOV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-implementing-effective-slack-notifications/"><u>Step-by-Step Instructions on Implementing Effective Slack Notifications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-why-your-microphone-may-fail-to-capture-sound/"><u>Troubleshooting: Why Your Microphone May Fail to Capture Sound</u></a></li>
 </ul></div>
 

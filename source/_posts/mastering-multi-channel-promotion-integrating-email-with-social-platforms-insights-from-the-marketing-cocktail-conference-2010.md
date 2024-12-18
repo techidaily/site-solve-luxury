@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multi-Channel Promotion: Integrating Email with Social Platforms - Insights From the Marketing Cocktail Conference 2010"
-date: 2024-12-09T06:05:29.095Z
-updated: 2024-12-12T05:44:12.855Z
+date: 2024-12-14T17:59:59.053Z
+updated: 2024-12-18T17:19:53.327Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -31,10 +35,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -55,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -74,40 +74,40 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -149,17 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-immediate-gif-to-video-conversion-top-5-free-websites/"><u>[New] 2024 Approved Immediate GIF-to-Video Conversion, Top 5 Free Websites</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-leveraging-windows-11-features-for-top-notch-gaming-capture/"><u>[New] 2024 Approved Leveraging Windows 11 Features for Top-Notch Gaming Capture</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-the-reasons-behind-missing-shorts-thumbnails/"><u>[New] 2024 Approved Unveiling the Reasons Behind Missing Shorts Thumbnails</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-expert-techniques-for-high-dynamic-range-image-creation-with-lightroom/"><u>[New] In 2024, Expert Techniques for High Dynamic Range Image Creation with Lightroom</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-the-efficacy-of-cancer-therapies-with-endocannabinoid-modulation/"><u>Enhancing the Efficacy of Cancer Therapies with Endocannabinoid Modulation</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/fehlerbehebung-warum-sie-diesen-ordner-nicht-synchronisieren-konnen/"><u>Fehlerbehebung: Warum Sie Diesen Ordner Nicht Synchronisieren Können</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/houstons-leading-search-engine-optimization-compan-cuate-top-ranked-seo-services/"><u>Houston's Leading Search Engine Optimization Compan Cuate: Top Ranked SEO Services</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-microsoft-store-error-code-0x80073cf3-in-windows-11/"><u>How to Rectify Microsoft Store Error Code 0X80073CF3 in Windows 11</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/resolutions-compromises-comment-annuler-la-suppression-dun-jeu-pc-par-valve-corporation/"><u>Résolutions Compromises - Comment Annuler La Suppression D'un Jeu PC Par Valve Corporation</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-tutorial-for-quick-and-easy-hard-drive-erasure-on-acer-devices/"><u>Step-by-Step Tutorial for Quick and Easy Hard Drive Erasure on Acer Devices</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-ranking-seo-companies-in-amman-jordan-comprehensive-guide-seo-mastery-suite/"><u>Top-Ranking SEO Companies in Amman, Jordan - Comprehensive Guide | SEO Mastery Suite</u></a></li>
-<li><a href="https://discover-community.techidaily.com/yl-software-strategies-for-a-neater-more-organized-computer-system/"><u>YL Software Strategies for a Neater, More Organized Computer System</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guaranteed-safe-approaches-for-turning-youtube-songs-into-mp3-files/"><u>[New] 2024 Approved Guaranteed Safe Approaches for Turning YouTube Songs Into MP3 Files</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-seamless-computer-based-tiktok-live-broadcast-setup/"><u>[Updated] In 2024, Seamless Computer-Based TikTok LIVE Broadcast Setup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-gopro-hero5-testing-report/"><u>[Updated] In-Depth GoPro Hero5 Testing Report</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/best-replacement-options-for-brightedge-boost-your-seo-with-proven-techniques/"><u>Best Replacement Options for BrightEdge: Boost Your SEO with Proven Techniques</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/crisis-mastery-2009-harness-self-discipline-to-cut-costs-using-massmails-financial-software-solutions/"><u>Crisis Mastery 2009: Harness Self-Discipline to Cut Costs Using Massmail's Financial Software Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-note-13-proplus-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Redmi Note 13 Pro+ 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/japans-language-blueprint-an-in-depth-exploration/"><u>Japan's Language Blueprint: An In-Depth Exploration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-affordable-high-performance-crafting-a-stealthy-starfield-rig-below-1200/"><u>Mastering the Art of Affordable High Performance: Crafting a Stealthy Starfield Rig Below $1,200</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-art-of-non-harmful-social-engagement-online/"><u>Mastering The Art of Non-Harmful Social Engagement Online</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/optimizing-your-email-campaigns-understanding-and-enhancing-click-through-rates-with-massmail/"><u>Optimizing Your Email Campaigns: Understanding & Enhancing Click-Through Rates with MassMail</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728488182179-pc-google/"><u>PC間ファイル同期に最適: Googleドライブ使い方講座</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-chill-out-scenes-to-add-zest-to-your-snowy-videos-for-2024/"><u>Top 5 Chill-Out Scenes to Add Zest to Your Snowy Videos for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/understanding-clickbait-a-comprehensive-guide-for-search-engine-optimization-strategies/"><u>Understanding Clickbait: A Comprehensive Guide for Search Engine Optimization Strategies</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/unlocking-synergy-master-20-steps-to-combine-email-marketing-with-social-networks-via-massmail-software-your-key-to-digital-triumph/"><u>Unlocking Synergy: Master 20 Steps to Combine Email Marketing with Social Networks via MassMail Software – Your Key to Digital Triumph</u></a></li>
 </ul></div>
 

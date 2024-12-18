@@ -1,7 +1,7 @@
 ---
 title: "Mastering Gratitude in Professional Communication: Top 5 Strategies for Flawless Thank-You Email Creation with MassMail"
-date: 2024-12-08T00:41:43.728Z
-updated: 2024-12-11T18:14:05.694Z
+date: 2024-12-15T18:39:43.363Z
+updated: 2024-12-18T18:12:16.395Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -39,6 +35,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -53,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -74,6 +74,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -82,16 +86,12 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -110,6 +110,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-10-best-intro-maker-apps-for-iphone-and-android-for-2024/"><u>[New] FREE 10 Best Intro Maker Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-gotorhythms-top-pick-for-hearing-westerosi-songs/"><u>2024 Approved GoToRhythms Top Pick for Hearing Westerosi Songs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/descargas-gratuitas-para-convertir-archivos-flv-a-mjpeg-herramienta-de-conversion-sin-coste/"><u>Descargas Gratuitas Para Convertir Archivos FLV a MJPEG - Herramienta De Conversión Sin Coste</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/exploring-common-scanner-issues-and-fixes-with-insights-from-yl-software-experts/"><u>Exploring Common Scanner Issues and Fixes with Insights From YL Software Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-essence-of-polarr-revolutionizing-digital-photography/"><u>In 2024, The Essence of Polarr Revolutionizing Digital Photography</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-brio-driver-installation-guide-free-download-for-windows-users/"><u>Logitech BRIO Driver Installation Guide: Free Download for Windows Users</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/quick-tips-for-transferring-files-to-your-desktop-with-yl-software-expertise/"><u>Quick Tips for Transferring Files to Your Desktop with YL Software Expertise</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/slowing-down-how-your-computers-memory-affects-overall-speed-tips-and-tricks-from-yl-software-experts/"><u>Slowing Down? How Your Computer's Memory Affects Overall Speed – Tips and Tricks From YL Software Experts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-setting-up-undefined-speakers-on-a-windows-11-pc/"><u>Step-by-Step Guide: Setting Up Undefined Speakers on a Windows 11 PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-viewing-mov-videos-on-your-windows-11-pc/"><u>Step-by-Step Guide: Viewing MOV Videos on Your Windows 11 PC</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-process-to-fix-driver-malfunctions-on-windows-systems-with-tips-from-yl-software/"><u>Step-by-Step Process to Fix Driver Malfunctions on Windows Systems with Tips From YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-guide-common-reasons-why-your-scanners-arent-functioning-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: Common Reasons Why Your Scanners Aren't Functioning - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-the-influence-of-the-sino-japanese-wars-on-chinas-past-expert-analysis-by-yl-computing/"><u>Unraveling the Influence of the Sino-Japanese Wars on China's Past - Expert Analysis by YL Computing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-strategy-for-stellar-valorant-video-thumbnails-on-youtube/"><u>[New] 2024 Approved The Ultimate Strategy for Stellar Valorant Video Thumbnails on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-maximizing-learning-through-recording-classroom-discourse-on-mac-for-2024/"><u>[Updated] Maximizing Learning Through Recording Classroom Discourse on Mac for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-dynamic-edge-technique-adding-motion-blur-to-portraits-using-picsart/"><u>2024 Approved The Dynamic Edge Technique Adding Motion Blur to Portraits Using Picsart</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-fixes-for-when-mozilla-thunderbird-wont-open/"><u>Effective Fixes for When Mozilla Thunderbird Won't Open</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/efficiently-handle-windows-user-accounts-with-our-easy-control-panel-strategies-by-yl-software/"><u>Efficiently Handle Windows User Accounts with Our Easy Control Panel Strategies by YL Software</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-perfect-audio-on-your-vr-headset-mastering-oculus-quest-mic-usage/"><u>Get Perfect Audio on Your VR Headset: Mastering Oculus Quest Mic Usage</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/impactful-outcomes-since-the-founding-of-prc-in-1949-insights-by-yl-computing-and-software/"><u>Impactful Outcomes Since The Founding of PRC in 1949 - Insights by YL Computing & Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-getting-started-with-snapseed-editing/"><u>In 2024, Step by Step Getting Started with Snapseed Editing</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/keys-or-values-decoding-the-windows-registrys-essential-components-with-yl-software-insights/"><u>Keys or Values: Decoding the Windows Registry's Essential Components with YL Software Insights</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/maximize-your-pcs-performance-effective-tips-for-clearing-up-hard-drive-space-the-yl-computing-guide/"><u>Maximize Your PC's Performance: Effective Tips for Clearing Up Hard Drive Space - The YL Computing Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/unraveling-history-the-rise-of-chinas-initial-consolidation-under-the-qin-dynasty-insights-from-yl-computing/"><u>Unraveling History: The Rise of China's Initial Consolidation Under the Qin Dynasty - Insights From YL Computing</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/vibrant-sunny-flora-hd-wallpapers-and-background-graphics-by-yl-software-stunning-pictures-for-visual-enhancement/"><u>Vibrant Sunny Flora HD Wallpapers & Background Graphics by YL Software: Stunning Pictures for Visual Enhancement</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/yl-computings-ultimate-tutorial-installing-additional-programs-through-your-pcs-control-panel/"><u>YL Computing's Ultimate Tutorial: Installing Additional Programs Through Your PC's Control Panel</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/yl-web-scraper-revolutionizes-data-collection-and-intelligent-analysis-discover-how-with-yl-computings-latest-innovation/"><u>YL Web Scraper Revolutionizes Data Collection & Intelligent Analysis - Discover How with YL Computing's Latest Innovation</u></a></li>
 </ul></div>
 

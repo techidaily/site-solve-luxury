@@ -1,7 +1,7 @@
 ---
 title: What Are Broken Links? A Comprehensive Guide to Effects & Fixes for Enhanced SEO Performance
-date: 2024-12-07T17:49:41.000Z
-updated: 2024-12-12T01:33:06.892Z
+date: 2024-12-13T18:49:18.981Z
+updated: 2024-12-18T18:04:59.951Z
 tags:
   - wiki
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broken link
@@ -62,15 +62,23 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 ![site can't be reached message](https://cdn1.link-assistant.com/thumbs/w1073-c1/upload/seowiki/posts/28/bl1.png)
 * **502 (bad gateway)**. A server received an invalid response because it was crushed;
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Reset**. A server dropped connections because it was misconfigured or too busy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broken links’ meaning for SEO
 
 Broken links themselves do not directly affect your performance in search. Still, they negatively affect both the page they are placed on and the page they link to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Outgoing broken links
 
@@ -80,17 +88,9 @@ Broken links harm user experience and increase bounce rate, which will surely af
 
 Broken links do not pass link juice, so the page where the link points to will not receive value and page strength. Plus, a page where a broken link points to may not be indexed at all if no other links point to it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixing broken links
 
 Broken links should be fixed anyway to prevent link juice drainage and poor user experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Broken links with 4xx status codes
 
@@ -105,7 +105,7 @@ If a link is broken because of server issues, then it is the server that needs f
 Sometimes a page is moved without any alternative. In this case, you should not redirect users to your homepage but set up a custom 404 page. It should include some navigation links that may be interesting for users. Custom 404s are not indexed by Google and are needed to keep users on your site and decrease bounce rate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related links
@@ -133,24 +133,18 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-quick-conversion-tactics-extracting-mp3-from-vids-on-social-media-for-2024/"><u>[New] Quick Conversion Tactics Extracting MP3 From Vids on Social Media for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-conduct-cost-effective-seminars-using-youtube/"><u>[Updated] Conduct Cost-Effective Seminars Using YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-movavi-photo-editing-software-comprehensive-user-ratings-and-insights/"><u>1. Movavi Photo Editing Software: Comprehensive User Ratings and Insights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pixellation-perfection-windows-and-macs-photo-to-animation-powerhouse/"><u>2024 Approved Pixellation Perfection Windows & Mac's Photo to Animation Powerhouse</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/absolut-verstandliche-reset-anweisungen-fur-windows-server-2012-r2-ein-umfassender-leitfaden/"><u>Absolut Verständliche Reset-Anweisungen Für Windows Server 2012 (R2) – Ein Umfassender Leitfaden</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/einfaches-klonen-einer-bootfahigen-festplatte-unter-linux/"><u>Einfaches Klonen Einer Bootfähigen Festplatte Unter Linux</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/expert-email-design-for-smartphones-masterful-methods-and-key-metrics-using-massmail/"><u>Expert Email Design for Smartphones: Masterful Methods and Key Metrics Using MassMail</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-protect-your-saves-encrypting-images-in-aomei-backupper/"><u>How to Protect Your Saves: Encrypting Images in AOMEI Backupper</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-motorola-moto-g13-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Motorola Moto G13 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-direct-links-sharing-twitch-content-with-friends-on-fb/"><u>In 2024, Direct Links Sharing Twitch Content with Friends on FB</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/losung-fur-fehlende-ordner-vom-flash-laufwerk-wiederherstellungstechniken-von-myrecover/"><u>Lösung Für Fehlende Ordner Vom Flash-Laufwerk: Wiederherstellungstechniken Von MyRecover</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-online-meetings-zoom-tips-for-chromebooks/"><u>Mastering Online Meetings Zoom Tips for Chromebooks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-unlock-creative-possibilities-top-text-animation-apps-for-mobile-devices-for-2024/"><u>New Unlock Creative Possibilities Top Text Animation Apps for Mobile Devices for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/provide-feedback-on-the-new-layout-and-win-an-exclusive-complimentary-ebook-on-advanced-marketing-techniques-from-massmail-software/"><u>Provide Feedback on the New Layout and Win an Exclusive Complimentary eBook on Advanced Marketing Techniques From MassMail Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/simplify-your-life-mastering-auto-windows-10-data-protection-with-a-click/"><u>Simplify Your Life: Mastering Auto Windows 10 Data Protection with a Click!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-a59-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo A59 5G Phones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-insights-with-updated-data-management-protocols/"><u>Unlocking Insights with Updated Data Management Protocols</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-easy-transfer-feature-missing-in-windows-11-upgrade/"><u>Windows Easy Transfer Feature Missing in Windows 11 Upgrade</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/luchshie-specialisty-po-seo-v-detrojte-dlya-2024-goda-obzor-i-rekomendacii-seo-powersuite/"><u>Лучшие Специалисты По SEO В Детройте Для 2024 Года: Обзор И Рекомендации - SEO PowerSuite</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-from-zero-to-hero-the-metaverse-avatar-blueprint/"><u>[New] 2024 Approved From Zero to Hero The Metaverse Avatar Blueprint</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-perfecting-the-art-of-digital-compositing-a-kinemaster-approach/"><u>[New] In 2024, Perfecting the Art of Digital Compositing A Kinemaster Approach</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-exploring-originality-how-to-uncover-roots-of-instagram-visuals/"><u>[Updated] 2024 Approved Exploring Originality How to Uncover Roots of Instagram Visuals</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/free-methods-for-retrieving-deleted-data-on-your-hard-drive/"><u>Free Methods for Retrieving Deleted Data on Your Hard Drive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862737018-get-the-edge-in-gaming-with-a-steal-at-1199-the-msi-katana-156-gaming-beast-and-rtx-4070-gpu/"><u>Get the Edge in Gaming with a Steal at $1,199 – The MSI Katana 15.6 Gaming Beast & RTX 4070 GPU</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-ai-top-8-reasons-educators-should-adapt/"><u>Harnessing the Power of AI: Top 8 Reasons Educators Should Adapt</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-nokia-g42-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nokia G42 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y27s Phone without Any Data Loss</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-5-mlm-missteps-to-dodge-insights-and-strategies-for-successful-network-marketing-based-on-2amo10/"><u>Top 5 MLM Missteps to Dodge - Insights and Strategies for Successful Network Marketing (Based on 2Amo/10)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-motorola-moto-g34-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola Moto G34 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/windows-11-ver22h2/"><u>Windows 11 Ver.22H2 更新不能時の解決策</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-5-seo-agentstv-v-edinburge-otbor-luchshih-uslug-dlya-vashego-vizita/"><u>Топ-5 SEO-Агентств В Эдинбурге: Отбор Лучших Услуг Для Вашего Визита</u></a></li>
 </ul></div>
 

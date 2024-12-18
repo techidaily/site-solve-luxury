@@ -1,7 +1,7 @@
 ---
 title: Fast and Effective Email Crafting Strategies Using MassMail Suite
-date: 2024-12-08T17:35:25.373Z
-updated: 2024-12-12T00:28:06.148Z
+date: 2024-12-15T18:56:50.723Z
+updated: 2024-12-18T16:40:10.211Z
 tags:
   - product
 categories:
@@ -44,19 +44,11 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,9 +62,17 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -81,6 +81,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -91,28 +95,28 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-luxury.techidaily.com/que-es-el-formato-rapido-y-como-puede-destruir-tus-archivos-sin-querer-consejos-para-recuperar-los-datos-perdidos/"><u>¿Qué Es El Formato Rápido Y Cómo Puede Destruir Tus Archivos Sin Querer? Consejos Para Recuperar Los Datos Perdidos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-fiscal-horizons-exploring-mr-beasts-income/"><u>[Updated] Fiscal Horizons Exploring Mr. Beast's Income</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-elevate-your-images-with-instagrams-new-filter-options-for-2024/"><u>[Updated] How to Elevate Your Images with Instagram's New Filter Options for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-coordinating-zoom-meetings-with-iphone-android-and-computer-timelines/"><u>2024 Approved Coordinating Zoom Meetings with iPhone, Android, and Computer Timelines</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-secure-cloud-stores-for-your-android-compiled/"><u>2024 Approved Top Secure Cloud Stores for Your Android - Compiled</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/create-professional-valorant-thumbnails-in-no-time/"><u>Create Professional Valorant Thumbnails in No Time</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/email-or-text-messaging-for-your-brand-choosing-the-most-effective-digital-channels-with-massmail-software/"><u>Email or Text Messaging for Your Brand: Choosing the Most Effective Digital Channels with Massmail Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/high-availability-backup-strategies-in-windows-server-versions-2022-2019-2012/"><u>High Availability Backup Strategies in Windows Server Versions (2022, 2019, Ⅶ, 2012)</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-recover-deleted-minecraft-worlds-on-windows-ps4-and-mobile-devices/"><u>How to Recover Deleted Minecraft Worlds on Windows, PS4, and Mobile Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/methods-for-reactivating-windows-task-manager/"><u>Methods for Reactivating Windows Task Manager</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/software-di-clonazione-per-unita-ssd-senza-perdite-dati-una-guida-definitiva/"><u>Software Di Clonazione per Unità SSD Senza Perdite Dati: Una Guida Definitiva</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-lasting-impact-of-email-marketing-insights-and-tools-with-massmail/"><u>The Lasting Impact of Email Marketing: Insights and Tools with Massmail</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-windows-overcoming-class-not-registered-errors-easily/"><u>Troubleshooting Windows - Overcoming 'Class Not Registered' Errors Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-you-should-consider-ditching-gas-for-electric-vehicles-today/"><u>Why You Should Consider Ditching Gas for Electric Vehicles Today</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-avoiding-unauthorized-use-mastering-photowatermarking-on-instagram/"><u>[Updated] 2024 Approved Avoiding Unauthorized Use Mastering Photowatermarking on Instagram</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-content-that-encourages-constructive-youtube-commentary/"><u>[Updated] Crafting Content that Encourages Constructive YouTube Commentary</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-foremost-gallery-archive-networks-for-2024/"><u>[Updated] Foremost Gallery Archive Networks for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/conquering-hdr-photography-with-ease/"><u>Conquering HDR Photography with Ease</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/die-top-3-methoden-zum-erzeugen-von-windows-881-images-professionelle-anleitung/"><u>Die Top-3 Methoden Zum Erzeugen Von Windows 8/8.1 Images - Professionelle Anleitung</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/essentiel-pour-les-utilisateurs-inverser-lheure-dun-ordinateur-sous-windows-versions-11-10-8-et-navigateurs/"><u>Essentiel Pour Les Utilisateurs : Inverser L'heure D’un Ordinateur Sous Windows (Versions 11, 10, 8 Et Navigateurs)</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/free-solutions-for-crafting-a-gateway-system-restore-drive-a-step-by-step-guide/"><u>Free Solutions for Crafting a Gateway System Restore Drive - A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/how-to-download-kissasian-videos-a-comprehensive-guide/"><u>How to Download KissAsian Videos - A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-set-up-remote-desktop-on-windows-10/"><u>How to Set up Remote Desktop on Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-v29-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo V29</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mastering-nef-file-rescue-learn-the-top-four-strategies-for-recovering-deleted-camera-raw-files-nef/"><u>Mastering NEF File Rescue: Learn the Top Four Strategies for Recovering Deleted Camera RAW Files (.NEF)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-win1011-nvidia-opengl-error-3/"><u>Overcoming Win10/11 NVIDIA OpenGL Error 3</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/synology-nas/"><u>Synology NASで失われたデータの完全復旧方法</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-life-of-the-greek-gods/"><u>The Life of the Greek Gods</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/the-ultimate-guide-top-two-methods-for-rebooting-your-lacie-external-hdd/"><u>The Ultimate Guide: Top Two Methods for Rebooting Your LaCie External HDD</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-platform-showdown-podcast-vs-youtube/"><u>The Ultimate Platform Showdown Podcast vs YouTube</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728491862220-windows-1011/"><u>Windows 10/11の自動バックアップ機能：シャットダウン時の設定ガイド</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728474739854-windows-11/"><u>Windows 11リテーナビルティ転用ガイド：パソコン間で簡単にライセンスを移設</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728492118729-windows/"><u>Windowsの工場出荷状態初期化後のファイル回復完全ガイド</u></a></li>
 </ul></div>
 

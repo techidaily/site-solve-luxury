@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Campaigns via Tactical Email List Splitting - The MassMail Approach
-date: 2024-12-09T18:49:53.648Z
-updated: 2024-12-12T06:40:19.022Z
+date: 2024-12-12T16:30:40.860Z
+updated: 2024-12-18T17:47:01.203Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,13 +32,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -74,25 +70,29 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -102,25 +102,25 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,22 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nnovative-youtube-intro-strategies-using-imovie/"><u>[New] Innovative YouTube Intro Strategies Using iMovie</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-a-comprehensive-look-editing-and-polishing-yt-videos-via-movie-maker-for-2024/"><u>[Updated] A Comprehensive Look Editing and Polishing YT Videos via Movie Maker for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1-nasne-hdd/"><u>1. Nasne モデルHDDのバックアップ作成手順：効果的かつ安全な方法</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/6-steps-to-seamlessly-move-images-from-your-vintage-ipad-onto-a-latest-model/"><u>6 Steps to Seamlessly Move Images From Your Vintage iPad Onto a Latest Model</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/audiophiles-guide-to-distinguishing-between-home-theater-and-stereo-receiver-technologies/"><u>Audiophile's Guide to Distinguishing Between Home Theater & Stereo Receiver Technologies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connect-globally-for-free-expertly-selected-top-5-calling-applications/"><u>Connect Globally for Free: Expertly Selected Top 5 Calling Applications</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/cost-analysis-physical-servers-versus-virtual-servers-in-the-cloud-era/"><u>Cost Analysis: Physical Servers Versus Virtual Servers in the Cloud Era</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/efficient-acer-erecovery-setup-and-usage-guide-on-windows-10/"><u>Efficient Acer eRecovery Setup & Usage Guide on Windows 10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-poco-x5-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Poco X5 Pro Easily?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovate-your-live-broadcast-on-mac-with-1-5-software-for-2024/"><u>Innovate Your Live Broadcast on Mac with #1-5 Software for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/secure-your-files-advanced-backup-solutions-via-linea-de-comandos-and-batch-scripts-using-aomei-software/"><u>Secure Your Files: Advanced Backup Solutions via Línea De Comandos & Batch Scripts Using AOMEI Software</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/steps-to-recover-accidentally-deleted-items-from-windows-recycle-bin-solutions-by-yl-computing/"><u>Steps to Recover Accidentally Deleted Items From Windows Recycle Bin - Solutions by YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/streamlined-media-sharing-between-devices-using-just-one-itunes-collection/"><u>Streamlined Media Sharing Between Devices Using Just One iTunes Collection</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/testdisk-het-meest-effectieve-tool-voor-het-herstel-van-data-in-windows-11-10-8-en-7/"><u>TestDisk Het Meest Effectieve Tool Voor Het Herstel Van Data In Windows 11, 10, 8 En 7</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-online-video-compression-made-easy-10-best-tools/"><u>Updated 2024 Approved Free Online Video Compression Made Easy 10 Best Tools</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728492031257-windows-7/"><u>Windows 7 システムセキュリティ強化ガイド:最適な設定手順</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitter-trends-the-hottest-video-buzz/"><u>[New] 2024 Approved Twitter Trends The Hottest Video Buzz</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/achieving-video-clarity-with-obs-in-zoom-environments-for-2024/"><u>Achieving Video Clarity with OBS in Zoom Environments for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ampliando-el-espacio-de-la-unidad-c-rapida-y-facil-con-estas-3-tecnicas-para-windows-11/"><u>Ampliando El Espacio De La Unidad C Rápida Y Fácil Con Estas 3 Técnicas Para Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-tecno-spark-go-2023-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Tecno Spark Go (2023) to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-m54-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy M54 5G Device SIM</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effective-techniques-for-disabling-pop-up-ads-in-the-chrome-app-on-your-android-device/"><u>Effective Techniques for Disabling Pop-Up Ads in the Chrome App on Your Android Device</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effizientes-duplikat-erstellen-und-exportieren-von-vmware-virtual-machine-disk-vmdk-schritt-fur-schritt-anleitung/"><u>Effizientes Duplikat Erstellen Und Exportieren Von VMware Virtual Machine Disk (VMDK) - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-troubleshooting-steps-for-a-laptop-trackpad-that-wont-respond/"><u>Essential Troubleshooting Steps for A Laptop Trackpad That Won't Respond</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-finding-and-restoring-lost-emails-on-gmail-platform/"><u>Guide: Finding and Restoring Lost Emails on Gmail Platform</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/intersection-of-metal-constraint-and-labor-constraint/"><u>Intersection of Metal Constraint and Labor Constraint:</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-t630-supported-software-and-updates-download-for-windows-7-8-10/"><u>Logitech T630 Supported Software & Updates - Download for Windows 7, 8, 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-analytics-essential-tools-for-beginner-marketers-on-social-media-for-2024/"><u>Mastering the Art of Analytics Essential Tools for Beginner Marketers on Social Media for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/new-horizons-in-your-forties-language-learnings-top-4-advantages/"><u>New Horizons in Your Forties: Language Learning's Top 4 Advantages</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/recupera-i-file-eliminati-rapidamente-7-modi-con-windows-10/"><u>Recupera I File Eliminati Rapidamente: 7 Modi Con Windows 10</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/solucionado-disponibilidad-temporal-de-la-unidad-de-historia-de-archivos/"><u>Solucionado - Disponibilidad Temporal De La Unidad De Historia De Archivos</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/solving-the-missing-vcruntime140dll-issue-proven-fixes-and-strategies/"><u>Solving the Missing vcruntime140.dll Issue: Proven Fixes and Strategies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/vid-wizards-guide-to-glitter-and-glamour-creating-your-chanel/"><u>Vid-Wizards Guide to Glitter and Glamour Creating Your Chanel</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/windowswd-my-cloudwd-nas/"><u>WindowsパソコンからWD My CloudまたはWD NASデバイスへの効果的なバックアップ手順</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728497868846-raw/"><u>ハードディスクのRAW状態からデータを回復:手順とテクニック</u></a></li>
 </ul></div>
 

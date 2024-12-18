@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Intelligence of Your Email Promotion Strategies with Massmail
-date: 2024-12-09T09:18:04.839Z
-updated: 2024-12-11T19:47:35.224Z
+date: 2024-12-13T18:19:14.219Z
+updated: 2024-12-18T17:29:16.928Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -37,7 +33,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -79,7 +75,7 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -87,24 +83,28 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -119,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -149,22 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-future-proof-your-data-with-top-30-free-unlimited-1tbplus-options/"><u>[New] Future-Proof Your Data with Top 30 Free, Unlimited (1TB+) Options</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-highlighted-20-anime-melodies-at-start/"><u>[New] Highlighted 20 Anime Melodies at Start</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-free-text-animation-for-artists/"><u>[New] Navigating Free Text Animation for Artists</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-3dr-a-solo-traverse-into-future-tech-world-for-2024/"><u>[Updated] '3DR' A Solo Traverse Into Future Tech World for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-preserve-tweets-as-visual-delights-with-iosandroid-steps/"><u>[Updated] 2024 Approved Preserve Tweets as Visual Delights with iOS/Android Steps</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/free-solutions-for-crafting-a-gateway-system-restore-drive-a-step-by-step-guide/"><u>Free Solutions for Crafting a Gateway System Restore Drive - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ghost-recon-breakpoint-no-more-crashes-fast-fix-guide/"><u>Ghost Recon Breakpoint No More Crashes - Fast Fix Guide!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/hddssdoemwindows-10/"><u>HDDやSSDにOEM版Windows 10をインストールする詳細なガイド</u></a></li>
-<li><a href="https://solve-help.techidaily.com/immerse-in-digital-comics-anywhere-anytime-on-the-convenient-and-portable-kindle-fire-device/"><u>Immerse in Digital Comics Anywhere, Anytime on the Convenient and Portable Kindle Fire Device</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastery-of-storing-snaps-on-devices-post-snapchat-use/"><u>In 2024, Mastery of Storing Snaps on Devices Post-Snapchat Use</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mastering-nef-file-rescue-learn-the-top-four-strategies-for-recovering-deleted-camera-raw-files-nef/"><u>Mastering NEF File Rescue: Learn the Top Four Strategies for Recovering Deleted Camera RAW Files (.NEF)</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/secure-your-files-on-windows-10-top-techniques-for-effective-hard-drive-backups/"><u>Secure Your Files on Windows 10: Top Techniques for Effective Hard Drive Backups</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-ultimate-guide-top-two-methods-for-rebooting-your-lacie-external-hdd/"><u>The Ultimate Guide: Top Two Methods for Rebooting Your LaCie External HDD</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-realities-of-cyberpunk-section-1-advanced-problem-on-tunnel-construction-methods/"><u>Unveiling the Realities of Cyberpunk # Section 1: Advanced Problem on Tunnel Construction Methods</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728491862220-windows-1011/"><u>Windows 10/11の自動バックアップ機能：シャットダウン時の設定ガイド</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728474739854-windows-11/"><u>Windows 11リテーナビルティ転用ガイド：パソコン間で簡単にライセンスを移設</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728492118729-windows/"><u>Windowsの工場出荷状態初期化後のファイル回復完全ガイド</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-tips-for-dynamic-and-engaging-video-covers-on-the-worlds-largest-social-media-network-for-2024/"><u>[New] Tips for Dynamic & Engaging Video Covers on the World's Largest Social Media Network for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-independent-ringtones-at-your-fingertips-a-comprehensive-guide/"><u>[Updated] Independent Ringtones at Your Fingertips A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-live-action-sims-perfecting-your-videos/"><u>[Updated] Live-Action Sims Perfecting Your Videos</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-risolta-trovare-soluzioni-per-il-riavvio-del-sistema-e-lerrore-di-analisi-dei-comandi-in-windows/"><u>1. [Risolta]: Trovare Soluzioni per Il Riavvio Del Sistema E L'Errore Di Analisi Dei Comandi in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-itel-s23plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Itel S23+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comment-connecter-et-charger-automatiquement-vos-deux-cles-usb-simultanement/"><u>Comment Connecter Et Charger Automatiquement Vos Deux Clés USB Simultanément ?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effectively-remove-repetitive-images-using-siri-shortcuts-techniques/"><u>Effectively Remove Repetitive Images Using Siri Shortcuts Techniques</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effiziente-datensicherung-von-der-festplatte-ohne-die-nutzung-von-windows-software/"><u>Effiziente Datensicherung Von Der Festplatte Ohne Die Nutzung Von Windows-Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-your-video-trailers-to-youtube-success/"><u>Hitching Your Video Trailers to YouTube Success</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hts-on-how-youtube-handles-uploaded-videos/"><u>Insights on How YouTube Handles Uploaded Videos</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/klonen-von-samsung-ssd-c-laufwerken-die-top-2-flexibelsten-methoden-erklart/"><u>Klonen Von Samsung SSD C-Laufwerken: Die Top 2 Flexibelsten Methoden Erklärt</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/problembehandlung-m2-speicherplatte-nicht-sichtbar-in-bios-einstellungen-und-windows-speichermanager/"><u>Problembehandlung: M2 Speicherplatte Nicht Sichtbar in BIOS-Einstellungen Und Windows-Speichermanager</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/repariere-deine-alt-links-in-windows-11-schritt-fur-schritt-anleitung-zur-aktionskontextmenuwiederverwendung/"><u>Repariere Deine Alt-Links in Windows 11 – Schritt-Für-Schritt-Anleitung Zur Aktionskontextmenüwiederverwendung</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-vpn-connectivity-problems-7-essential-troubleshooting-steps/"><u>Solve Your iPhone's VPN Connectivity Problems: 7 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-15-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 15 Plus to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-up-youtube-your-first-gear-list/"><u>Starting Up YouTube - Your First Gear List</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-tutorial-retrieving-lost-information-from-your-wd-portable-hdd/"><u>Step-by-Step Tutorial: Retrieving Lost Information From Your WD Portable HDD</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-sonys-xperia-5-size-and-price-overview/"><u>Unboxing Sony's Xperia 5: Size and Price Overview</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/shagi-k-vossozdaniyu-zagruzochnogo-ssd-na-usb-podrobnoe-rukovodstvo/"><u>Шаги К Воссозданию Загрузочного SSD На USB: Подробное Руководство</u></a></li>
 </ul></div>
 
