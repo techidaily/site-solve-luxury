@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multi-Channel Promotion: Integrating Email with Social Platforms - Insights From the Marketing Cocktail Conference 2010"
-date: 2024-12-14T17:59:59.053Z
-updated: 2024-12-18T17:19:53.327Z
+date: 2024-12-22T07:32:04.957Z
+updated: 2024-12-26T17:17:51.996Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -48,15 +52,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -75,16 +79,12 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -94,20 +94,20 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -149,19 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guaranteed-safe-approaches-for-turning-youtube-songs-into-mp3-files/"><u>[New] 2024 Approved Guaranteed Safe Approaches for Turning YouTube Songs Into MP3 Files</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-seamless-computer-based-tiktok-live-broadcast-setup/"><u>[Updated] In 2024, Seamless Computer-Based TikTok LIVE Broadcast Setup</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-gopro-hero5-testing-report/"><u>[Updated] In-Depth GoPro Hero5 Testing Report</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/best-replacement-options-for-brightedge-boost-your-seo-with-proven-techniques/"><u>Best Replacement Options for BrightEdge: Boost Your SEO with Proven Techniques</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/crisis-mastery-2009-harness-self-discipline-to-cut-costs-using-massmails-financial-software-solutions/"><u>Crisis Mastery 2009: Harness Self-Discipline to Cut Costs Using Massmail's Financial Software Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-note-13-proplus-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Redmi Note 13 Pro+ 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/japans-language-blueprint-an-in-depth-exploration/"><u>Japan's Language Blueprint: An In-Depth Exploration</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-affordable-high-performance-crafting-a-stealthy-starfield-rig-below-1200/"><u>Mastering the Art of Affordable High Performance: Crafting a Stealthy Starfield Rig Below $1,200</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-the-art-of-non-harmful-social-engagement-online/"><u>Mastering The Art of Non-Harmful Social Engagement Online</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/optimizing-your-email-campaigns-understanding-and-enhancing-click-through-rates-with-massmail/"><u>Optimizing Your Email Campaigns: Understanding & Enhancing Click-Through Rates with MassMail</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728488182179-pc-google/"><u>PC間ファイル同期に最適: Googleドライブ使い方講座</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-chill-out-scenes-to-add-zest-to-your-snowy-videos-for-2024/"><u>Top 5 Chill-Out Scenes to Add Zest to Your Snowy Videos for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/understanding-clickbait-a-comprehensive-guide-for-search-engine-optimization-strategies/"><u>Understanding Clickbait: A Comprehensive Guide for Search Engine Optimization Strategies</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unlocking-synergy-master-20-steps-to-combine-email-marketing-with-social-networks-via-massmail-software-your-key-to-digital-triumph/"><u>Unlocking Synergy: Master 20 Steps to Combine Email Marketing with Social Networks via MassMail Software – Your Key to Digital Triumph</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-orchestrating-a-journey-through-hidden-youtube-archives/"><u>[New] 2024 Approved Orchestrating a Journey Through Hidden YouTube Archives</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-expert-strategies-for-effective-online-image-trimming/"><u>[Updated] In 2024, Expert Strategies for Effective Online Image Trimming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-tips-on-using-uavs-creatively-in-filmmaking/"><u>[Updated] Tips on Using UAVs Creatively in Filmmaking</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728477272183-windows/"><u>如何在Windows系统中保证无风险地清理旧备份照片——分析三种技术</u></a></li>
+<li><a href="https://fox-links.techidaily.com/artful-expression-on-tablets-leading-ios-drawers-for-2024/"><u>Artful Expression on Tablets Leading iOS Drawers for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/gratis-programm-fur-das-klonen-von-datentragern-auf-windows-10-professionelles-migrationstool/"><u>Gratis Programm Für Das Klonen Von Datenträgern Auf Windows 10 - Professionelles Migrationstool</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-propeller-market-for-top-tier-fpv-drones/"><u>In 2024, Navigating the Propeller Market for Top-Tier FPV Drones</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/nvme-ssd-sata-ssdhdd/"><u>NVMe SSDへの移行: SATA SSD/HDDの安全なクローニング手順</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/tutoriel-mettre-a-niveau-le-sys-dun-pc-sur-de-nouveaux-composants/"><u>Tutoriel : Mettre À Niveau Le Sys D'un PC Sur De Nouveaux Composants</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-amoored-pc-version-stability-improvements-and-patch-notes/"><u>Yakuza Amoored: PC Version Stability Improvements and Patch Notes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Modern Approaches to Personalized Email Campaigns Using MassMail Software
-date: 2024-12-13T16:39:10.326Z
-updated: 2024-12-18T17:35:52.352Z
+date: 2024-12-23T16:47:57.086Z
+updated: 2024-12-27T03:07:36.372Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,6 +44,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -44,15 +56,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -65,10 +77,6 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -85,10 +93,6 @@ If you use several types of media to promote your campaign, use a different keyw
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -107,7 +111,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -115,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-customizable-screenshot-tools-for-gamers/"><u>[New] In 2024, Top 10 Customizable Screenshot Tools for Gamers</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/exploring-common-scanner-issues-and-fixes-with-insights-from-yl-software-experts/"><u>Exploring Common Scanner Issues and Fixes with Insights From YL Software Experts</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/has-support-ended-for-this-product-or-service/"><u>Has Support Ended For This Product or Service?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-the-notorious-centipede-bug-in-destiny-2/"><u>How to Resolve the Notorious 'Centipede Bug' In Destiny 2</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-google-pixel-8-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Google Pixel 8</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y28-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo Y28 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mycam-recorder-unveiled-an-expert-review-for-2024/"><u>MyCam Recorder Unveiled An Expert Review for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/quick-tips-for-transferring-files-to-your-desktop-with-yl-software-expertise/"><u>Quick Tips for Transferring Files to Your Desktop with YL Software Expertise</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/rejuvenating-your-pcs-heart-a-step-by-step-guide-to-restoring-a-damaged-motherboard-with-bad-bios-by-yl-software/"><u>Rejuvenating Your PC's Heart: A Step-by-Step Guide to Restoring a Damaged Motherboard with Bad BIOS by YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/slowing-down-how-your-computers-memory-affects-overall-speed-tips-and-tricks-from-yl-software-experts/"><u>Slowing Down? How Your Computer's Memory Affects Overall Speed – Tips and Tricks From YL Software Experts</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/startup-steps-for-successful-youtubers-setting-up-channels-securing-sales/"><u>Startup Steps for Successful Youtubers Setting Up Channels, Securing Sales</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-process-to-fix-driver-malfunctions-on-windows-systems-with-tips-from-yl-software/"><u>Step-by-Step Process to Fix Driver Malfunctions on Windows Systems with Tips From YL Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-the-stalls-proven-solutions-to-keep-ghostwire-tokyo-running-flawlessly-on-pc-systems/"><u>Stop the Stalls! Proven Solutions to Keep Ghostwire: Tokyo Running Flawlessly on PC Systems</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-pioneering-monarch-of-the-ming-era-explored-deep-dives-with-yl-software-innovations/"><u>The Pioneering Monarch of the Ming Era Explored – Deep Dives with YL Software Innovations</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-guide-common-reasons-why-your-scanners-arent-functioning-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: Common Reasons Why Your Scanners Aren't Functioning - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-guide-solutions-when-your-pc-fails-to-start-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: Solutions When Your PC Fails to Start - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-the-influence-of-the-sino-japanese-wars-on-chinas-past-expert-analysis-by-yl-computing/"><u>Unraveling the Influence of the Sino-Japanese Wars on China's Past - Expert Analysis by YL Computing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/wtv-to-mpeg-online-upgrade-get-your-media-in-top-quality-playback-for-free/"><u>WTV to MPEG Online Upgrade - Get Your Media in Top-Quality Playback for Free!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/xsplit-repository-direct-gaming-analysis/"><u>XSplit Repository Direct Gaming Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-olympic-spirits-2022s-short-track-feat/"><u>[New] 2024 Approved Olympic Spirits 2022'S Short-Track Feat</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-overview-merging-srt-with-mp4-files-and-videos/"><u>[Updated] Comprehensive Overview Merging SRT with MP4 Files and Videos</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-secure-your-data-online-exploring-effective-backup-and-storage-solutions/"><u>1. Secure Your Data Online: Exploring Effective Backup & Storage Solutions</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effacement-et-recyclage-de-disques-durs-3-techniques-efficaces/"><u>Effacement Et Recyclage De Disques Durs : 3 Techniques Efficaces</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effizientes-klonen-von-mbr-harddisks-auf-gpt-ssds-ohne-windows-reinstallieren/"><u>Effizientes Klonen Von MBR-Harddisks Auf GPT-SSDs Ohne Windows-Reinstallieren</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/filmoras-peers-the-best-slide-show-template-collections/"><u>Filmora's Peers The Best Slide Show Template Collections</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/hd-eagle-inspired-desktop-icons-and-wallpapers-for-pcs-and-macs-from-yl-software/"><u>HD Eagle-Inspired Desktop Icons & Wallpapers for PCs and Macs From YL Software</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-fresh-start-your-toshiba-laptop-with-a-quick-windows-reset-guide/"><u>How to Fresh Start Your Toshiba Laptop with a Quick Windows Reset Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/loscht-das-hochladen-von-dateien-auf-eine-sd-karte-bei-der-formatierung-alle-daten/"><u>Löscht Das Hochladen Von Dateien Auf Eine SD-Karte Bei Der Formatierung Alle Daten?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-quick-keys-in-3d-paint/"><u>Mastering Quick Keys in 3D Paint</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-solutions-to-locate-missing-airpods-on-find-my-apple-feature/"><u>Top 11 Solutions to Locate Missing AirPods on 'Find My' Apple Feature</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-to-free-video-repair-apps-compatible-with-windows-11/"><u>Ultimate Guide to FREE Video Repair Apps Compatible with Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722856772010-wallet-friendly-hd-entertainment-packs-start-your-ht-journey-today/"><u>Wallet-Friendly HD Entertainment Packs - Start Your HT Journey Today!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/gptp/"><u>データ損失回避技術：メニューリーダーとGPTPを使ったハードドライブのセットアップ</u></a></li>
 </ul></div>
 

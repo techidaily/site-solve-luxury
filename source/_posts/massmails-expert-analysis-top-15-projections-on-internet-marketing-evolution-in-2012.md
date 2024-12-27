@@ -1,7 +1,7 @@
 ---
 title: "MassMail's Expert Analysis: Top 15 Projections on Internet Marketing Evolution in 2012"
-date: 2024-12-12T18:36:05.279Z
-updated: 2024-12-18T17:02:36.169Z
+date: 2024-12-26T00:21:52.182Z
+updated: 2024-12-26T22:07:24.128Z
 tags:
   - product
 categories:
@@ -19,12 +19,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,6 +44,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -48,15 +56,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -69,10 +77,6 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -90,21 +94,17 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,14 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-starting-a-vlog-the-must-have-equipmentsoftware-for-2024/"><u>[New] Starting a Vlog The Must-Have Equipment/Software for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/directors-cut-assessment-video-editor-review/"><u>Director's Cut Assessment – Video Editor Review</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/essentiel-pour-les-utilisateurs-preservation-en-douceur-des-donnees-windows-10-lors-du-mise-a-niveau-vers-windows-11/"><u>Essentiel Pour Les Utilisateurs: Préservation en Douceur Des Données Windows 10 Lors Du Mise À Niveau Vers Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-in-minutes-expert-advice-and-tricks-every-apple-user-should-know-unlock-the-full-potential-on-zdnet/"><u>Master Your iPad in Minutes: Expert Advice & Tricks Every Apple User Should Know | Unlock the Full Potential on ZDNET</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/quick-guide-boosting-your-system-with-the-windows-server-essentials-to-standard-upgrade/"><u>Quick Guide: Boosting Your System with the Windows Server Essentials to Standard Upgrade</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-recovering-your-gmail-messages-using-a-backup-copy/"><u>Step-by-Step Guide: Recovering Your Gmail Messages Using a Backup Copy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-hardware-analysis/"><u>Tom's Tech Review: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-imessage-block-notifications-and-steps-to-verify-them/"><u>Understanding iMessage Block Notifications and Steps to Verify Them</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728507128088-6/"><u>どうすればデスクトップから失われたショートカットを取り戻せるか？6つの対処法を教えます。</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-essence-of-plot-weaving/"><u>[New] In 2024, Essence of Plot Weaving</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-revamp-your-instagram-showcase-with-top-10-insights/"><u>[New] In 2024, Revamp Your Instagram Showcase with Top 10 Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-premier-ios-devices-to-play-psp-games-in-high-fidelity-2023-edition/"><u>[New] Premier iOS Devices to Play PSP Games in High Fidelity, 2023 Edition</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-risolta-trovare-soluzioni-per-il-riavvio-del-sistema-e-lerrore-di-analisi-dei-comandi-in-windows/"><u>1. [Risolta]: Trovare Soluzioni per Il Riavvio Del Sistema E L'Errore Di Analisi Dei Comandi in Windows</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728493797433-aomei/"><u>AOMEI製バックアップソフト「初期設定」へのガイド</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comment-connecter-et-charger-automatiquement-vos-deux-cles-usb-simultanement/"><u>Comment Connecter Et Charger Automatiquement Vos Deux Clés USB Simultanément ?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effectively-remove-repetitive-images-using-siri-shortcuts-techniques/"><u>Effectively Remove Repetitive Images Using Siri Shortcuts Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-end-streaming-gear-for-professionals-for-2024/"><u>High-End Streaming Gear for Professionals for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-nubia-red-magic-9-proplus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Nubia Red Magic 9 Pro+ without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-compelling-podcast-names-a-detailed-guide-with-idea-examples/"><u>In 2024, Crafting Compelling Podcast Names A Detailed Guide with Idea Examples</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopros-versatility-up-against-nikons-km-170/"><u>In 2024, GoPro's Versatility Up Against Nikon's KM-170</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/klonen-von-samsung-ssd-c-laufwerken-die-top-2-flexibelsten-methoden-erklart/"><u>Klonen Von Samsung SSD C-Laufwerken: Die Top 2 Flexibelsten Methoden Erklärt</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/problembehandlung-m2-speicherplatte-nicht-sichtbar-in-bios-einstellungen-und-windows-speichermanager/"><u>Problembehandlung: M2 Speicherplatte Nicht Sichtbar in BIOS-Einstellungen Und Windows-Speichermanager</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/repariere-deine-alt-links-in-windows-11-schritt-fur-schritt-anleitung-zur-aktionskontextmenuwiederverwendung/"><u>Repariere Deine Alt-Links in Windows 11 – Schritt-Für-Schritt-Anleitung Zur Aktionskontextmenüwiederverwendung</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-tutorial-retrieving-lost-information-from-your-wd-portable-hdd/"><u>Step-by-Step Tutorial: Retrieving Lost Information From Your WD Portable HDD</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-comprehensive-guide-to-visual-effects-in-online-platforms-for-2024/"><u>The Comprehensive Guide to Visual Effects in Online Platforms for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-elite-list-10-best-cases-for-your-gopro-for-2024/"><u>The Elite List 10 Best Cases for Your GoPro for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/shagi-k-vossozdaniyu-zagruzochnogo-ssd-na-usb-podrobnoe-rukovodstvo/"><u>Шаги К Воссозданию Загрузочного SSD На USB: Подробное Руководство</u></a></li>
 </ul></div>
 

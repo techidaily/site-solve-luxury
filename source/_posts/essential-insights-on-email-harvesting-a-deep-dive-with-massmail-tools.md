@@ -1,7 +1,7 @@
 ---
 title: "Essential Insights on Email Harvesting: A Deep Dive with MassMail Tools"
-date: 2024-12-12T18:50:56.000Z
-updated: 2024-12-18T17:23:24.171Z
+date: 2024-12-21T06:47:12.135Z
+updated: 2024-12-26T21:16:14.458Z
 tags:
   - product
 categories:
@@ -44,15 +44,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -66,25 +66,25 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -94,16 +94,12 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -118,6 +114,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,24 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-face-fluidity-techniques-implementing-motion-blur-effects/"><u>[New] In 2024, Face Fluidity Techniques Implementing Motion Blur Effects</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-navigating-the-best-iphone-options-for-adding-water-marks/"><u>[New] In 2024, Navigating the Best iPhone Options for Adding Water Marks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-limitless-text-in-format-best-free-psd/"><u>[Updated] Limitless Text in Format Best FREE PSD</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728475642553-windows-amoeba/"><u>保留不可或缺的文件：如何在Windows Amoeba撤消删除免费方法详解指南</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/5lin5zyo44gu44oq44od44kv44ki44od44ox44k344k544og44og44o744op44kk44k44o8ic0g5zwp6agm6kej5rg65b6m/"><u>不在のバックアップシステム・ライター - 問題解決後</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/comment-ouvrir-correctement-les-photos-au-format-jpg-sous-windows-11/"><u>Comment Ouvrir Correctement Les Photos Au Format JPG Sous Windows 11 ?</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/como-transferir-sua-configuracao-do-pc-original-a-abordagem-das-triplicadas-principal/"><u>Como Transferir Sua Configuração Do PC Original: A Abordagem Das Triplicadas Principal</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/hddsamsung-ssd/"><u>HDDからSamsung SSDへスムーズに移行 - 再インストール不要</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-speed-photo-inspector-for-windows-11-for-2024/"><u>High-Speed Photo Inspector for Windows 11 for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-back-up-your-files-on-the-cloud-with-aomei-backupper-a-comprehensive-tutorial/"><u>How to Back up Your Files on the Cloud with AOMEI Backupper: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-rectify-steam-decks-cloud-sync-faults/"><u>How to Rectify Steam Deck's Cloud Sync Faults</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-set-up-a-task-scheduler-for-user-sign-off-and-data-backups/"><u>How to Set Up a Task Scheduler for User Sign-Off & Data Backups</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-motorola-razr-40-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Motorola Razr 40 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-ultimate-guide-to-the-top-5-youtube-link-reducers/"><u>In 2024, The Ultimate Guide to the Top 5 YouTube Link Reducers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/riperais-dvds-oficialmente-com-o-winx-dvd-ripper-platino-conversao-simples-e-rapida-de-cd-para-mp4-em-segundos/"><u>Riperáis DVDs Oficialmente Com O WinX DVD Ripper Platino - Conversão Simples E Rápida De CD Para MP4 Em Segundos!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-rated-partition-recovery-tools-for-windows-1187-a-comprehensive-guide/"><u>Top Rated Partition Recovery Tools for Windows 11/8/7: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/two-methods-to-transfer-a-cloned-copy-of-your-windows-11-partition-onto-an-ssd/"><u>Two Methods to Transfer a Cloned Copy of Your Windows 11 Partition Onto an SSD</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-lava-storm-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Lava Storm 5G.</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-silent-watchers-best-instagram-apps/"><u>[Updated] 2024 Approved The Silent Watchers' Best Instagram Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-achieving-smooth-volume-decreases-using-lumafusion/"><u>[Updated] Achieving Smooth Volume Decreases Using Lumafusion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlock-pristine-facebook-videos-on-chromebooks/"><u>[Updated] Unlock Pristine Facebook Videos on Chromebooks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/el-success-story-turning-budget-into-brands/"><u>Channel Success Story Turning Budget Into Brands</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-zoom-setbacks-fixing-error-code-1132-on-windows/"><u>Conquer Zoom Setbacks: Fixing Error Code 1132 on Windows</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/free-solutions-for-crafting-a-gateway-system-restore-drive-a-step-by-step-guide/"><u>Free Solutions for Crafting a Gateway System Restore Drive - A Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/hddssdoemwindows-10/"><u>HDDやSSDにOEM版Windows 10をインストールする詳細なガイド</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-6-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 6 Smoothly</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/secure-your-files-on-windows-10-top-techniques-for-effective-hard-drive-backups/"><u>Secure Your Files on Windows 10: Top Techniques for Effective Hard Drive Backups</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/the-ultimate-guide-top-two-methods-for-rebooting-your-lacie-external-hdd/"><u>The Ultimate Guide: Top Two Methods for Rebooting Your LaCie External HDD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-must-watch-family-films-on-amazon-prime-video-this-july-2024/"><u>Top Picks: Must-Watch Family Films on Amazon Prime Video This July 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-when-your-computer-cant-locate-d3dx9-33dll/"><u>Troubleshooting Steps for When Your Computer Can't Locate D3dx9_ 33.dll</u></a></li>
 </ul></div>
 

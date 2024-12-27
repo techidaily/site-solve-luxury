@@ -1,7 +1,7 @@
 ---
 title: "Understanding Hypertext: Comprehensive Guide with SEO Strategies and Key Definitions"
-date: 2024-12-17T16:35:41.372Z
-updated: 2024-12-18T18:54:19.047Z
+date: 2024-12-23T18:24:52.041Z
+updated: 2024-12-27T04:08:42.714Z
 tags:
   - wiki
 categories:
@@ -29,23 +29,19 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext definition
 
 Hypertext is text that is displayed on a computer or other electronic device and is linked to other documents or resources[\[1\]](https://tools.techidaily.com/link-assistant/products/). When you click on a hypertext link, you are taken to the linked resource, which can be a webpage, an image, a video, or any other type of digital content. Hypertext links are created using [HTML](https://tools.techidaily.com/link-assistant/products/) (HyperText Markup Language) and are usually underlined and colored differently than the surrounding text to make them stand out[\[2\]](https://tools.techidaily.com/link-assistant/products/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Hypertext importance
 
 Hypertext is an important part of the World Wide Web, as it allows users to navigate between different pages and resources easily and quickly. It is also a key feature of many other types of electronic documents, including ebooks and presentations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext structure
@@ -70,6 +66,10 @@ Multimedia, on the other hand, refers to the use of multiple forms of media, suc
 
 In short, Hypertext is focused on the connection between text, Hypermedia expands the connections to include other media forms and Multimedia encompasses all media types to communicate information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hypertext advantages
 
 Hypertext has several advantages that make it a useful tool for organizing and presenting information.
@@ -83,7 +83,7 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 * **Cost-effective**: Hypertext-based documents and information systems can be created and maintained with relatively low cost, as they can be created and distributed digitally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related links
@@ -91,7 +91,7 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 [Anchor Text: Types, SEO Implications, and Best Practices](https://tools.techidaily.com/link-assistant/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## References
@@ -113,22 +113,20 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-desktop-dials-adjusting-audio-to-a-whisper/"><u>[New] Desktop Dials Adjusting Audio to a Whisper</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tier-cinematic-peeks-album/"><u>[New] Top-Tier Cinematic Peeks Album</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-how-to-make-your-periscope-stream-swifter/"><u>[Updated] In 2024, How to Make Your Periscope Stream Swifter</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-dawn-of-a-new-era-key-fb-ad-trends-arriving-for-2024/"><u>[Updated] The Dawn of a New Era Key FB Ad Trends Arriving for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728483565979-windows-11ssd/"><u>如何在不重灌的情况下，移动Windows 11卷片到SSD上：最佳技术指南</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/comment-puis-je-recuperer-des-donnees-a-partir-dun-disque-dur-sata/"><u>Comment Puis-Je Récupérer Des Données À Partir D'un Disque Dur SATA</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/error-404-pages-cant-be-found/"><u>Error 404: Pages Can't Be Found</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/exploring-security-measures-the-reasons-behind-antivirus-software-choosing-to-quarantine-instead-of-deleting-potentially-dangerous-files/"><u>Exploring Security Measures: The Reasons Behind Antivirus Software Choosing to Quarantine Instead of Deleting Potentially Dangerous Files</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-the-future-of-home-cleaning-with-the-newly-launched-ai-enhanced-eufy-x8-pro-vacuum/"><u>Exploring the Future of Home Cleaning with the Newly Launched, AI-Enhanced Eufy X8 Pro Vacuum</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/how-does-a-blockchain-wallet-balance-verification-software-work-insights-by-yl-computing/"><u>How Does a Blockchain Wallet Balance Verification Software Work - Insights by YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-create-a-recovery-disk-for-dell-hp-or-lenovo-computers/"><u>How to Create a Recovery Disk for Dell, HP, or Lenovo Computers</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-reinstall-the-system-image-of-windows-11-onto-fresh-storage-device/"><u>How to Reinstall the System Image of Windows 11 Onto Fresh Storage Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-reno-10-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Reno 10 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/next-gen-portable-play-top-gba-on-android/"><u>Next-Gen Portable Play Top GBA on Android</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/simplified-steps-for-initiating-windows-11-safe-mode-expert-tips-and-insights/"><u>Simplified Steps for Initiating Windows 11 Safe Mode – Expert Tips and Insights</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-14-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 14 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728490783590-windows-11-ssd/"><u>Windows 11の最適移行: SSDへの完全コピー手引き</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-breathe-life-into-your-reel-tips-for-perfect-slow-motion/"><u>[New] Breathe Life Into Your Reel Tips for Perfect Slow Motion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instagram-streamlining-the-process-of-image-addition/"><u>[Updated] Instagram Streamlining the Process of Image Addition</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comment-copier-un-ssd-sur-un-hdd-avec-windows-7-et-repartir-en-toute-surete/"><u>Comment Copier Un SSD Sur Un HDD Avec Windows 7 Et Repartir en Toute Sûreté</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y100i-power-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y100i Power 5G FRP Locks</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/gratuito-conversor-de-video-em-mp4-para-aac-online-pela-movavi/"><u>Gratuito Conversor De Vídeo Em MP4 Para AAC Online Pela Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/les-solutions-detaillees-pour-rectifier-les-difficultes-de-base-de-donnees-lors-du-controle-des-fichier-jpeg/"><u>Les Solutions Détaillées Pour Rectifier Les Difficultés De Base De Données Lors Du Contrôle Des Fichier JPEG</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/secure-your-virtual-space-reliable-online-server-backups-for-ultimate-data-defense/"><u>Secure Your Virtual Space: Reliable Online Server Backups for Ultimate Data Defense</u></a></li>
+<li><a href="https://facebook.techidaily.com/soundscapes-on-facebook-expanded-audio-hub-unveiled/"><u>Soundscapes on Facebook: Expanded Audio Hub Unveiled</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-workflow-with-printer-driver/"><u>Streamline Workflow with Printer Driver</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-essential-role-of-voice-in-visual-content-for-2024/"><u>The Essential Role of Voice in Visual Content for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/tutorial-comment-sauvegarder-votre-iphone-vers-un-disque-dur-exterieur-avec-les-systemes-dexploitation-windows-1110-explique/"><u>Tutorial : Comment Sauvegarder Votre iPhone Vers Un Disque Dur Extérieur Avec Les Systèmes D'Exploitation Windows 11/10 Expliqué</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728510351203-windows-11usb/"><u>Windows 11でポータブルな簡易バックアップソフトウェアの作成とUSB移行ガイド</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/44oh44o844k44oq44od44kv44ki44od44ox5a6m5lqg5b6m44cb44or44k944kz44oz44ks54sh5lq644gn44k344oj44od44oi44oa44km44oz44gz44kl5pa55rov/"><u>データバックアップ完了後、パソコンを無人でシャットダウンする方法</u></a></li>
 </ul></div>
 

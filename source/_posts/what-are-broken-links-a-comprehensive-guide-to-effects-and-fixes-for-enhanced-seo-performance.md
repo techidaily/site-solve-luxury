@@ -1,7 +1,7 @@
 ---
 title: What Are Broken Links? A Comprehensive Guide to Effects & Fixes for Enhanced SEO Performance
-date: 2024-12-13T18:49:18.981Z
-updated: 2024-12-18T18:04:59.951Z
+date: 2024-12-26T00:26:49.851Z
+updated: 2024-12-27T01:10:22.711Z
 tags:
   - wiki
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Broken link
 
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 
 A broken link is a link to a page that does not work. When a user or a search engine crawler follows such link, they see an error message or a 404 (not found) page. Another popular definition for broken links is dead links. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why broken links appear
 
 Broken links appear because of a variety of reasons:
@@ -50,6 +50,10 @@ Broken links appear because of a variety of reasons:
 * A whole site is not available or timed out;
 * A link points to the content (a PDF, video, Google Docs file, etc.) that is no longer available;
 * A page has restricted access (password protection, firewall, etc.).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Examples of broken links
 
@@ -62,23 +66,11 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 ![site can't be reached message](https://cdn1.link-assistant.com/thumbs/w1073-c1/upload/seowiki/posts/28/bl1.png)
 * **502 (bad gateway)**. A server received an invalid response because it was crushed;
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Reset**. A server dropped connections because it was misconfigured or too busy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Broken links’ meaning for SEO
 
 Broken links themselves do not directly affect your performance in search. Still, they negatively affect both the page they are placed on and the page they link to.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Outgoing broken links
 
@@ -91,6 +83,10 @@ Broken links do not pass link juice, so the page where the link points to will n
 ## Fixing broken links
 
 Broken links should be fixed anyway to prevent link juice drainage and poor user experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Broken links with 4xx status codes
 
@@ -105,7 +101,7 @@ If a link is broken because of server issues, then it is the server that needs f
 Sometimes a page is moved without any alternative. In this case, you should not redirect users to your homepage but set up a custom 404 page. It should include some navigation links that may be interesting for users. Custom 404s are not indexed by Google and are needed to keep users on your site and decrease bounce rate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related links
@@ -113,6 +109,10 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 [The Ultimate Guide to Broken Link Building](https://tools.techidaily.com/link-assistant/products/)
 
 [Most Common Indexing Issues and How to Fix Them - 404 Not Found](https://tools.techidaily.com/link-assistant/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## References
 
@@ -133,18 +133,16 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-from-zero-to-hero-the-metaverse-avatar-blueprint/"><u>[New] 2024 Approved From Zero to Hero The Metaverse Avatar Blueprint</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-perfecting-the-art-of-digital-compositing-a-kinemaster-approach/"><u>[New] In 2024, Perfecting the Art of Digital Compositing A Kinemaster Approach</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-exploring-originality-how-to-uncover-roots-of-instagram-visuals/"><u>[Updated] 2024 Approved Exploring Originality How to Uncover Roots of Instagram Visuals</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/free-methods-for-retrieving-deleted-data-on-your-hard-drive/"><u>Free Methods for Retrieving Deleted Data on Your Hard Drive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862737018-get-the-edge-in-gaming-with-a-steal-at-1199-the-msi-katana-156-gaming-beast-and-rtx-4070-gpu/"><u>Get the Edge in Gaming with a Steal at $1,199 – The MSI Katana 15.6 Gaming Beast & RTX 4070 GPU</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-ai-top-8-reasons-educators-should-adapt/"><u>Harnessing the Power of AI: Top 8 Reasons Educators Should Adapt</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-nokia-g42-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nokia G42 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y27s Phone without Any Data Loss</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-5-mlm-missteps-to-dodge-insights-and-strategies-for-successful-network-marketing-based-on-2amo10/"><u>Top 5 MLM Missteps to Dodge - Insights and Strategies for Successful Network Marketing (Based on 2Amo/10)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-motorola-moto-g34-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola Moto G34 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-11-ver22h2/"><u>Windows 11 Ver.22H2 更新不能時の解決策</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-5-seo-agentstv-v-edinburge-otbor-luchshih-uslug-dlya-vashego-vizita/"><u>Топ-5 SEO-Агентств В Эдинбурге: Отбор Лучших Услуг Для Вашего Визита</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-psycho-social-signal-customization-ps-console-edition/"><u>[New] 2024 Approved Psycho-Social Signal Customization PS Console Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-breaking-down-the-barriers-effective-rtmp-streaming-in-premiere-for-2024/"><u>[New] Breaking Down the Barriers Effective RTMP Streaming in Premiere for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/excellent-substitutes-for-standard-308-winchester-cartridges-a-comprehensive-guide/"><u>Excellent Substitutes for Standard .308 Winchester Cartridges: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/explore-the-best-digital-book-management-with-calibre-e-reader-tool/"><u>Explore the Best Digital Book Management with Calibre E-Reader Tool</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/guide-accessing-and-reading-kindle-azw3-ebooks-on-ios-devices/"><u>Guide: Accessing and Reading Kindle AZW3 Ebooks on iOS Devices</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/guide-effortlessly-moving-your-kindle-ebooks-from-pc-to-mac/"><u>Guide: Effortlessly Moving Your Kindle eBooks From PC to MAC</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-bypass-epub-drm-protection-with-a-python-automation-script/"><u>How to Bypass EPUB DRM Protection with a Python Automation Script</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-from-an-unresponsive-google-chrome-session-effectively/"><u>How to Recover From an Unresponsive Google Chrome Session Effectively</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-note-30-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix Note 30 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-a78-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo A78 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-5-best-lightweight-action-cameras-for-2024/"><u>Top 5 Best Lightweight Action Cameras for 2024</u></a></li>
 </ul></div>
 
