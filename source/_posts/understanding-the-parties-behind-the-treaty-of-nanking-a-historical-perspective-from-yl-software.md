@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Parties Behind the Treaty of Nanking: A Historical Perspective From YL Software"
-date: 2025-01-01T18:25:13.219Z
-updated: 2025-01-05T18:43:15.121Z
+date: 2025-01-07T09:34:34.324Z
+updated: 2025-01-12T05:40:31.885Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,19 +56,20 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-efficient-ad-elimination-select-7-android-adblockers/"><u>[New] 2024 Approved Efficient Ad Elimination Select 7 Android AdBlockers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-elevating-gameplay-streaming-mastery-for-youtubers/"><u>[New] 2024 Approved Elevating Gameplay Streaming Mastery for YouTubers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-leading-caller-id-changers-with-enchanting-options/"><u>[Updated] In 2024, Leading Caller ID Changers with Enchanting Options</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-romantic-recitals-perfect-love-songs-for-your-proposal-moment/"><u>[Updated] Romantic Recitals Perfect Love Songs for Your Proposal Moment</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-free-full-version-software-for-copying-dvds-on-windows-10-or-11-top-picks-of-2/"><u>Best Free Full-Version Software for Copying DVDs on Windows 10 or 11 - Top Picks of 2</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/complete-step-by-step-tutorial-on-archiving-your-legacy-messages-in-outlook/"><u>Complete Step-by-Step Tutorial on Archiving Your Legacy Messages in Outlook</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effective-methods-for-restoring-lost-jpeg-photos-on-computer-drives-and-usb-disks/"><u>Effective Methods for Restoring Lost JPEG Photos on Computer Drives and USB Disks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hubsan-x4-quadcopter-examination-an-in-depth-guide/"><u>Hubsan X4 Quadcopter Examination An In-Depth Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/improve-frame-rate-and-eliminate-stutters-ultimate-guide-to-enhancing-performance-in-call-of-duty-mobile/"><u>Improve Frame Rate & Eliminate Stutters: Ultimate Guide to Enhancing Performance in Call of Duty Mobile</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-studio-validating-earnings-flow/"><u>In 2024, YouTube Studio Validating Earnings Flow</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/paso-a-paso-facil-transicion-de-windows-server-2019-a-2022/"><u>Paso a Paso: Fácil Transición De Windows Server 2019 a 2022.</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/resolving-disk-accessibility-issues-on-hp-laptops-with-windows-ebuild-explore-7-effective-strategies/"><u>Resolving Disk Accessibility Issues on HP Laptops with Windows Ebuild: Explore 7 Effective Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-6-gamers-choices-all-at-no-cost/"><u>Top 6 Gamers' Choices: All at No Cost</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/tutorial-panduan-efektif-melariskan-file-di-sistem-operasi-windows-10/"><u>Tutorial Panduan Efektif: Melariskan File Di Sistem Operasi Windows 10</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-crafting-compelling-podcast-teasers/"><u>[New] In 2024, Crafting Compelling Podcast Teasers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-operational-update-troubled-obs-camera/"><u>[New] Operational Update Troubled OBS Camera</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-ace-your-social-media-game-essential-video-marketing-techniques-on-facebook/"><u>[Updated] Ace Your Social Media Game Essential Video Marketing Techniques on Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-guide-to-fixing-the-unavailable-module-error-message/"><u>A Guide to Fixing the Unavailable Module Error Message</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-with-the-latest-toshibe-device-drivers-on-your-windows-machine/"><u>Ensure Optimal Performance with the Latest Toshibe Device Drivers on Your Windows Machine.</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/fehlerbehebung-warum-sie-diesen-ordner-nicht-synchronisieren-konnen/"><u>Fehlerbehebung: Warum Sie Diesen Ordner Nicht Synchronisieren Können</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/houstons-leading-search-engine-optimization-compan-cuate-top-ranked-seo-services/"><u>Houston's Leading Search Engine Optimization Compan Cuate: Top Ranked SEO Services</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-pinnacle-of-media-excellence-top-phones-videos/"><u>In 2024, The Pinnacle of Media Excellence Top Phones Videos</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/resolutions-compromises-comment-annuler-la-suppression-dun-jeu-pc-par-valve-corporation/"><u>Résolutions Compromises - Comment Annuler La Suppression D'un Jeu PC Par Valve Corporation</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/solutions-pour-faire-afficher-lappareil-de-stockage-internal-sur-liphone-six-options-efficientes/"><u>Solutions Pour Faire Afficher L’Appareil De Stockage Internal Sur L’iPhone : Six Options Efficientes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solve-these-prevalent-android-glitches-in-just-a-few-simple-steps/"><u>Solve These Prevalent Android Glitches in Just a Few Simple Steps!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-windows-device-managers-code-41-issues-a-step-by-step-guide/"><u>Solving Windows Device Manager's Code 41 Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-tutorial-for-quick-and-easy-hard-drive-erasure-on-acer-devices/"><u>Step-by-Step Tutorial for Quick and Easy Hard Drive Erasure on Acer Devices</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-ranking-seo-companies-in-amman-jordan-comprehensive-guide-seo-mastery-suite/"><u>Top-Ranking SEO Companies in Amman, Jordan - Comprehensive Guide | SEO Mastery Suite</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-poco-m6-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Poco M6 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 
