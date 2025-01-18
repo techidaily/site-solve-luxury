@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multi-Channel Promotion: Integrating Email with Social Platforms - Insights From the Marketing Cocktail Conference 2010"
-date: 2025-01-10T17:39:00.794Z
-updated: 2025-01-12T04:58:46.844Z
+date: 2025-01-13T18:21:48.267Z
+updated: 2025-01-17T21:09:37.290Z
 tags:
   - product
 categories:
@@ -32,13 +32,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -47,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -70,13 +66,13 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -87,7 +83,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -98,9 +94,17 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -110,13 +114,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,17 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-mp3-extraction-from-pinterest-vids/"><u>[New] Mastering MP3 Extraction From Pinterest Vids</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obs-vs-streamlabs-which-is-better/"><u>[Updated] OBS vs Streamlabs Which Is Better?</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-fixes-to-stop-modern-warfare-3-from-freezing-or-crashing-on-your-computer/"><u>Effortless Fixes to Stop Modern Warfare 3 From Freezing or Crashing on Your Computer</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/einfache-schritte-zum-erstellen-eines-clonezilla-bootfahigen-usb-flash-drives-mit-rufus/"><u>Einfache Schritte Zum Erstellen Eines Clonezilla Bootfähigen USB Flash Drives Mit Rufus</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/exploring-vmwares-vms-licensing-schemes-essential-insights-for-your-infrastructure/"><u>Exploring VMware's VMS Licensing Schemes: Essential Insights for Your Infrastructure</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-clone-an-ssd-to-a-hard-drive-in-windows-11-with-secure-boot-feature/"><u>How to Clone an SSD to a Hard Drive in Windows 11 with Secure Boot Feature</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V30 Phone without PIN</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leverage-netflixs-picture-in-picture-functionality/"><u>In 2024, Leverage Netflix's Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-insiders-look-at-twitter-ad-performance-metrics/"><u>In 2024, The Insider's Look at Twitter Ad Performance Metrics</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728507532078-microsoft-outlook/"><u>Microsoft Outlookアドレスブックを簡単な手順で安全に保存する方法</u></a></li>
-<li><a href="https://article-posts.techidaily.com/time-honored-treasures-free-of-restrictions-for-2024/"><u>Time-Honored Treasures, Free of Restrictions for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-solutions-for-overcoming-windows-backup-failure-due-to-library-locations/"><u>Top Solutions for Overcoming 'Windows Backup Failure' Due to Library Locations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-best-free-cloud-options-get-unlimited-storage-1tbplus/"><u>[New] In 2024, Best Free Cloud Options Get Unlimited Storage (1TB+)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-15-activities-perfect-for-podcast-lovers/"><u>[New] Top 15 Activities Perfect for Podcast Lovers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlock-your-youtube-potential-try-these-proven-growth-strategies/"><u>[New] Unlock Your YouTube Potential Try These Proven Growth Strategies</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-ultimate-guide-crafting-professional-email-signatures-with-massmail/"><u>1. Ultimate Guide: Crafting Professional Email Signatures with MassMail</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-tech-vanguard-apoyser-vs-other-top-screen-capture-tools/"><u>2024 Approved Tech Vanguard Apoyser vs Other Top Screen Capture Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-memes-edit-master/"><u>2024 Approved Ultimate Memes Edit Master</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/begin-animation-ease-in-transition-for-2024/"><u>Begin Animation Ease-In Transition for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-solutions-when-encountered-with-nonfunctional-push-to-talk-feature-on-overwatch/"><u>Common Solutions When Encountered with Nonfunctional Push-to-Talk Feature on Overwatch</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/discover-how-adding-online-questionnaires-via-massmail-boosts-website-engagement-top-advantages-revealed/"><u>Discover How Adding Online Questionnaires via MassMail Boosts Website Engagement – Top Advantages Revealed!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-images-with-gopro-studios-color-adjustment/"><u>Enhancing Images with GoPro Studio's Color Adjustment</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/exchange-mail-backup-to-external-hdd-with-outlook-express/"><u>Exchange Mail Backup to External HDD with Outlook Express</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/htc-u23-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>HTC U23 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/managing-virtual-machine-proliferation-top-practices-for-efficient-oversight-and-governance/"><u>Managing Virtual Machine Proliferation: Top Practices for Efficient Oversight & Governance</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728462000784-ssd/"><u>SSD驚喜回來了:硬碟分區修復技術教程</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/transferring-data-from-hdd-to-ssd-in-windows-11-a-dual-approach-guide/"><u>Transferring Data From HDD to SSD in Windows 11: A Dual-Approach Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-a-non-booting-hard-drive-on-your-pc-fast-solutions-for-windows-10-8-and-7/"><u>Troubleshooting a Non-Booting Hard Drive on Your PC: Fast Solutions for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/wie-leichtes-ios-apparatendatenfreigabe-videos-von-iphone-zu-ipad-mit-airdrop-teilen/"><u>Wie Leichtes iOS-Apparatendatenfreigabe: Videos Von iPhone Zu iPad Mit AirDrop Teilen</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-5-agentstv-po-optimizacii-dlya-poiskovyh-sistem-v-manchestere-velikobritaniya/"><u>Топ-5 Агентств По Оптимизации Для Поисковых Систем В Манчестере - Великобритания</u></a></li>
 </ul></div>
 

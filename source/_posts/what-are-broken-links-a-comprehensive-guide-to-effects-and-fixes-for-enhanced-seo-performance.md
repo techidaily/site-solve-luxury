@@ -1,7 +1,7 @@
 ---
 title: What Are Broken Links? A Comprehensive Guide to Effects & Fixes for Enhanced SEO Performance
-date: 2025-01-10T16:23:33.806Z
-updated: 2025-01-12T00:36:15.246Z
+date: 2025-01-12T22:42:29.545Z
+updated: 2025-01-18T00:41:21.268Z
 tags:
   - wiki
 categories:
@@ -16,11 +16,11 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Broken link
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Contents
 
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
    * [Setting up a custom 404 page](https://tools.techidaily.com/link-assistant/products/)
 * [Related links](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Broken link definition
 
@@ -62,11 +66,11 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 ![site can't be reached message](https://cdn1.link-assistant.com/thumbs/w1073-c1/upload/seowiki/posts/28/bl1.png)
 * **502 (bad gateway)**. A server received an invalid response because it was crushed;
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Reset**. A server dropped connections because it was misconfigured or too busy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Broken links’ meaning for SEO
 
@@ -76,33 +80,29 @@ Broken links themselves do not directly affect your performance in search. Still
 
 Broken links harm user experience and increase bounce rate, which will surely affect your site traffic. Besides, broken links result in incomplete content, as users cannot access the information they may need. What’s more, Google Quality Rater Guidelines say[\[2\]](https://tools.techidaily.com/link-assistant/products/) that Google watches the number of broken links to determine if the site is spammy or was abandoned. And if yes, Google may start deindexing the site.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Incoming broken links
 
 Broken links do not pass link juice, so the page where the link points to will not receive value and page strength. Plus, a page where a broken link points to may not be indexed at all if no other links point to it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing broken links
 
 Broken links should be fixed anyway to prevent link juice drainage and poor user experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Broken links with 4xx status codes
 
 Most broken links that return 4xx status codes are fixed with the help of correctly implemented 301 redirects to relevant pages. Doing so keeps users on your website (i.e. bounce rate decreases), saves link juice, and does not harm UX.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Broken links with other status codes
 
 If a link is broken because of server issues, then it is the server that needs fixing. Make sure everything is implemented correctly on the server side and ask Google to recrawl pages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Setting up a custom 404 page
 
@@ -133,17 +133,18 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-10-best-meme-templates/"><u>[New] 2024 Approved Top 10 Best Meme Templates</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/est-practices-in-confirming-your-youtube-access/"><u>[New] Best Practices in Confirming Your YouTube Access</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-undead-unleashed-discovering-the-ultimate-zombie-games-for-2024/"><u>[New] Undead Unleashed Discovering the Ultimate Zombie Games for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-precision-engineering-for-dvd-production-in-macos/"><u>[Updated] Precision Engineering for DVD Production in macOS</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-complete-activity-inspection-guide/"><u>2024 Approved Complete Activity Inspection Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effizientes-klonen-von-mbr-harddisks-auf-gpt-ssds-ohne-windows-reinstallieren/"><u>Effizientes Klonen Von MBR-Harddisks Auf GPT-SSDs Ohne Windows-Reinstallieren</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/error-404-pages-cant-be-found/"><u>Error 404: Pages Can't Be Found</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-logitech-mk710-drivers-for-your-computer/"><u>How to Get the Newest Logitech MK710 Drivers for Your Computer</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-reinstall-the-system-image-of-windows-11-onto-fresh-storage-device/"><u>How to Reinstall the System Image of Windows 11 Onto Fresh Storage Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-newest-zexmte-bluetooth-interface-driver-on-windows-1078/"><u>Install the Newest Zexmte Bluetooth Interface Driver on Windows 10/7/8</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/simplified-steps-for-initiating-windows-11-safe-mode-expert-tips-and-insights/"><u>Simplified Steps for Initiating Windows 11 Safe Mode – Expert Tips and Insights</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/step-by-step-guide-to-moving-your-iphones-media-to-a-windows-or-mac-desktop/"><u>Step-by-Step Guide to Moving Your iPhone's Media to a Windows or Mac Desktop</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-topmusicreactionvids-yt-celebrity-highlights-2023/"><u>[New] 2024 Approved TopMusicReactionVids YT Celebrity Highlights, 2023</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-new-realms-of-thought-30plus-vr-metaphysical-messages/"><u>[Updated] Exploring New Realms of Thought 30+ VR Metaphysical Messages</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-tutorial-simplifying-youtube-subscriptions/"><u>2024 Approved Ultimate Tutorial Simplifying YouTube Subscriptions</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/akalis-nvme-cloning-master-schritt-fur-schritt-mit-diesem-umfassenden-tutorial/"><u>Akalis-NVMe Cloning: Master Schritt Für Schritt Mit Diesem Umfassenden Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-your-competitive-edge-with-custom-vocal-alteration-techniques-in-free-fire-gaming-no-charge/"><u>Boost Your Competitive Edge with Custom Vocal Alteration Techniques in Free Fire Gaming (No Charge!)</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/come-unire-le-tue-carte-su-windows-81/"><u>Come Unire Le Tue Carte Su Windows 8.1</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/erfolgreich-wiederhergestellte-partitionsdatenbank-auf-my-passport-von-western-digital-komplettlosung-erklart/"><u>Erfolgreich Wiederhergestellte Partitionsdatenbank Auf My Passport Von Western Digital - Komplettlösung Erklärt</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015815223-immediate-solutions-to-restart-fortnite-voice-chatting-no-hassle/"><u>Immediate Solutions to Restart Fortnite Voice Chatting - No Hassle!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mitigating-risks-in-java-programming-a-comprehensive-guide-for-securing-code-safecodetech/"><u>Mitigating Risks in Java Programming: A Comprehensive Guide for Securing Code | SafeCodeTech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-unresponsive-gamepads-with-steam-in-windows/"><u>Overcoming the Hurdle of Unresponsive Gamepads with Steam in Windows</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/restore-your-pc-with-ease-a-step-by-step-tutorial-on-using-images-for-windows-recovery/"><u>Restore Your PC with Ease: A Step-by-Step Tutorial on Using Images for Windows Recovery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-wow-how-to-get-past-launch-problems-on-pc/"><u>Troubleshooting WoW - How to Get Past Launch Problems on PC</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/wiederherstellen-sie-ihre-geloschten-onedrive-dateien-schnell-losungen-fur-den-datenverlust/"><u>Wiederherstellen Sie Ihre Gelöschten OneDrive-Dateien Schnell: Lösungen Für Den Datenverlust</u></a></li>
 </ul></div>
 

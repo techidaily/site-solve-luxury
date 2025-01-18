@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Tailored Cold Email Strategies with MassMail
-date: 2025-01-07T05:52:52.271Z
-updated: 2025-01-11T22:53:20.675Z
+date: 2025-01-13T17:31:13.792Z
+updated: 2025-01-17T23:20:06.018Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -55,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -70,21 +74,17 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -98,21 +98,17 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-essential-guide-to-budget-friendly-free-srt-tools-for-2024/"><u>[Updated] Essential Guide to Budget-Friendly FREE SRT Tools for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-spotlight-savvy-profiling-and-promoting-on-snapchat/"><u>[Updated] Spotlight Savvy Profiling and Promoting on Snapchat</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/excellence-in-search-engine-optimization-elite-agencies-and-professionals-of-brussels-unleash-the-potential-with-belgiums-best-seo-powersuite/"><u>Excellence in Search Engine Optimization: Elite Agencies and Professionals of Brussels | Unleash the Potential with Belgium's Best – SEO PowerSuite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-cannot-update-expert-strategies-to-refresh-your-minecraft-game-client-smoothly/"><u>Fixing 'Cannot Update' - Expert Strategies to Refresh Your Minecraft Game Client Smoothly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-typing-lessons-our-picks-for-learners-of-any-age-top-12-list/"><u>Free Typing Lessons: Our Picks for Learners of Any Age (Top 12 List)</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-drop-sql-constraints-effectively-achieve-greater-database-flexibility/"><u>How to Drop SQL Constraints Effectively: Achieve Greater Database Flexibility</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-masterpieces-of-radio-scripting-artistry/"><u>In 2024, Masterpieces of Radio Scripting Artistry</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/is-sns-hdr-pro-the-gold-standard-for-hdr-editors/"><u>Is SNS HDR Pro the Gold Standard for HDR Editors?</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/massmail-cold-email-automation-explained-understanding-the-power-of-batch-contact-outreach/"><u>MassMail Cold Email Automation Explained: Understanding the Power of Batch Contact Outreach</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/maximize-your-email-output-tips-and-tools-for-efficient-composing-with-massmail/"><u>Maximize Your Email Output: Tips & Tools for Efficient Composing with MassMail</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-free-and-legal-top-public-domain-video-download-websites/"><u>New Free and Legal Top Public Domain Video Download Websites</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728501941403-ntfs/"><u>NTFSドライブバックアップ自動化：最強フリーソフトとその使い方</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-game-interruptions-fix-stability-issues-in-wwe-2k22-for-pc-gamers/"><u>Overcome Game Interruptions - Fix Stability Issues in WWE 2K22 for PC Gamers</u></a></li>
-<li><a href="https://techidaily.com/remove-samsung-lock-screen-without-passwordsamsung-galaxy-a14-4g-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung Lock Screen without Password(Samsung Galaxy A14 4G)</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/soluciones-efectivas-ante-la-escasez-del-almacenamiento-en-los-sistemas-operativos-windows-versiones-1187/"><u>Soluciones Efectivas Ante La Escasez Del Almacenamiento en Los Sistemas Operativos Windows: Versiones 11/8/7</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unlock-the-secrets-of-stunning-email-creation-13-essential-tips-using-massmail-tools/"><u>Unlock the Secrets of Stunning Email Creation: 13 Essential Tips Using MassMail Tools</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unlocking-the-secrets-of-seo-success-mastery-of-pagerank-via-massmail-solutions/"><u>Unlocking the Secrets of SEO Success: Mastery of PageRank via MassMail Solutions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/luchshie-eksperty-po-seo-iz-lidsa-raskryvaj-svoj-onlajn-potencial-s-pomoshyu-powersuite-seo-ekspertiza-dlya-uspeha/"><u>Лучшие Эксперты По SEO Из Лидса: Раскрывай Свой Онлайн-Потенциал С Помощью PowerSuite | SEO Экспертиза Для Успеха</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-essence-of-engaging-live-broadcasts-360-video-techniques-for-youtube/"><u>[New] 2024 Approved The Essence of Engaging Live Broadcasts 360° Video Techniques for Youtube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-switch-to-the-future-capture-cards-guide/"><u>[Updated] In 2024, Switch to the Future Capture Cards Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-stay-ahead-of-the-curve-top-strategies-for-tracking-blockchain-innovation-insights-by-yl-tech/"><u>1. Stay Ahead of the Curve: Top Strategies for Tracking Blockchain Innovation - Insights by YL Tech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-apples-affordable-marvel-ranking-of-cost-free-image-arrangement-apps/"><u>2024 Approved Apple's Affordable Marvel Ranking of Cost-Free Image Arrangement Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lut-enthusiasts-delight-free-bundles-with-dji-minis-and-air-2/"><u>2024 Approved LUT Enthusiasts' Delight – Free Bundles with DJI Minis & Air 2</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/drm-free-conversion-techniques-for-selecting-pages-in-ebooks/"><u>DRM-Free Conversion Techniques for Selecting Pages in eBooks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-performance-free-rtx-2080-super-driver-downloads-for-windows-11-systems/"><u>Enhance Gaming Performance: Free RTX 2080 Super Driver Downloads for Windows 11 Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/illuminated-influence-elevating-your-cinematic-presentations-for-2024/"><u>Illuminated Influence Elevating Your Cinematic Presentations for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/self-help-tips-thawing-and-restoring-functionality-to-your-stuck-kobo-glo-device/"><u>Self-Help Tips: Thawing and Restoring Functionality to Your Stuck Kobo Glo Device</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-tutorial-for-modifying-ibook-meta-tags-in-macos-mavericks/"><u>Step-by-Step Tutorial for Modifying iBook Meta Tags in macOS Mavericks</u></a></li>
 </ul></div>
 
