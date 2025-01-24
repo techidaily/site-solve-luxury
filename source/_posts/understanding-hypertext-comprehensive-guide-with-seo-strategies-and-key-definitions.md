@@ -1,7 +1,7 @@
 ---
 title: "Understanding Hypertext: Comprehensive Guide with SEO Strategies and Key Definitions"
-date: 2025-01-13T18:45:39.837Z
-updated: 2025-01-18T00:25:07.127Z
+date: 2025-01-19T20:12:44.871Z
+updated: 2025-01-24T08:10:46.740Z
 tags:
   - wiki
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext
@@ -33,12 +33,16 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext definition
 
 Hypertext is text that is displayed on a computer or other electronic device and is linked to other documents or resources[\[1\]](https://tools.techidaily.com/link-assistant/products/). When you click on a hypertext link, you are taken to the linked resource, which can be a webpage, an image, a video, or any other type of digital content. Hypertext links are created using [HTML](https://tools.techidaily.com/link-assistant/products/) (HyperText Markup Language) and are usually underlined and colored differently than the surrounding text to make them stand out[\[2\]](https://tools.techidaily.com/link-assistant/products/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hypertext importance
 
@@ -67,7 +71,7 @@ Multimedia, on the other hand, refers to the use of multiple forms of media, suc
 In short, Hypertext is focused on the connection between text, Hypermedia expands the connections to include other media forms and Multimedia encompasses all media types to communicate information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext advantages
@@ -83,16 +87,12 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 * **Cost-effective**: Hypertext-based documents and information systems can be created and maintained with relatively low cost, as they can be created and distributed digitally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related links
 
 [Anchor Text: Types, SEO Implications, and Best Practices](https://tools.techidaily.com/link-assistant/products/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## References
 
@@ -113,22 +113,22 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-explore-the-richest-historical-content-with-these-top-10-yt-groups/"><u>[New] Explore the Richest Historical Content with These Top 10 YT Groups</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-essential-guide-to-obs-and-zoom-live-stream-setup/"><u>[New] The Essential Guide to OBS and Zoom Live Stream Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-first-step-in-vlogging-tools-you-need/"><u>[New] The First Step in Vlogging Tools You Need</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-filmless-to-film-rich-digitizing-yesteryears-images/"><u>[Updated] From Filmless to Film-Rich Digitizing Yesteryears' Images</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-tips-for-creating-instagrammable-unboxing-highlights-for-2024/"><u>[Updated] Top Tips for Creating Instagrammable Unboxing Highlights for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-achieve-cinematic-quality-with-sims-4-recordings/"><u>2024 Approved Achieve Cinematic Quality with Sims 4 Recordings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortlessly-removing-the-lock-screen-on-your-windows-11-pc/"><u>Effortlessly Removing the Lock Screen on Your Windows 11 PC</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/exquisite-static-hd-wallpaper-pack-featuring-celestial-beauty-explore-the-stars-with-yl-softwares-latest-creation/"><u>Exquisite Static HD Wallpaper Pack Featuring Celestial Beauty - Explore the Stars with YL Software's Latest Creation</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/free-tips-on-how-to-optimize-and-clear-your-computers-storage-yl-technologies/"><u>Free Tips on How to Optimize and Clear Your Computer's Storage - YL Technologies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-optimize-your-pcs-performance-and-speed-expert-tips-from-yl-software/"><u>How to Optimize Your PC's Performance and Speed: Expert Tips From YL Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-note-12-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi Note 12 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/optimizing-your-audio-experience-expert-guide-on-configuring-sound-card-settings-yl-computing/"><u>Optimizing Your Audio Experience: Expert Guide on Configuring Sound Card Settings - YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/protecting-your-crypto-investments-with-yl-softwares-advanced-strategies/"><u>Protecting Your Crypto Investments with YL Software's Advanced Strategies</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/resolving-scanning-issues-what-if-your-scanner-outputs-jumbled-graphics-insights-by-yl-software/"><u>Resolving Scanning Issues: What If Your Scanner Outputs Jumbled Graphics? - Insights by YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/trust-and-transparency-in-crypto-evaluating-the-protection-of-personal-information-via-address-balance-verification-applications-developed-by-yl-software/"><u>Trust and Transparency in Crypto: Evaluating the Protection of Personal Information via Address Balance Verification Applications - Developed by YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unraveling-typical-windows-hardware-issues-insights-from-yl-computing/"><u>Unraveling Typical Windows Hardware Issues: Insights From YL Computing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-7-fps-gaming-list/"><u>[New] In 2024, The Ultimate 7 FPS Gaming List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erfecting-yt-thumbnails-with-aspect-ratios-for-2024/"><u>[New] Perfecting YT Thumbnails with Aspect Ratios for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-6-instagram-money-calculator-safe-and-effective/"><u>[New] Top 6 Instagram Money Calculator - Safe & Effective</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>[Updated] Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/windowstoshiba-ssd-windows-711/"><u>精选Windows系统下Toshiba SSD优化克隆工具：从 Windows 7到11</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728493797433-aomei/"><u>AOMEI製バックアップソフト「初期設定」へのガイド</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/can-you-upgrade-ram-on-a-laptop/"><u>Can You Upgrade RAM on a Laptop?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comment-connecter-et-charger-automatiquement-vos-deux-cles-usb-simultanement/"><u>Comment Connecter Et Charger Automatiquement Vos Deux Clés USB Simultanément ?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effectively-remove-repetitive-images-using-siri-shortcuts-techniques/"><u>Effectively Remove Repetitive Images Using Siri Shortcuts Techniques</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/guida-passo-passo-per-eseguire-un-ripristino-di-sistema-utilizzando-un-disco-avviabile/"><u>Guida Passo-Passo per Eseguire Un Ripristino Di Sistema Utilizzando Un Disco Avviabile</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-convert-your-dvd-collection-to-mkv-format-flawlessly/"><u>How to Convert Your DVD Collection to MKV Format Flawlessly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-asus-rog-gt-ac5300-evaluation-a-dream-for-gamers-and-tech-professionals/"><u>In-Depth Asus ROG GT-AC5300 Evaluation: A Dream for Gamers & Tech Professionals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-edge-breakthroughs-the-best-new-ai-processor-tech/"><u>Leading-Edge Breakthroughs: The Best New AI Processor Tech</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-tutorial-retrieving-lost-information-from-your-wd-portable-hdd/"><u>Step-by-Step Tutorial: Retrieving Lost Information From Your WD Portable HDD</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138621361-9781601633910-the-oneness-blessing/"><u>The Oneness Blessing | Free Book</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/wie-man-eine-autonome-backup-losung-mit-google-drive-fur-den-desktop-aktiviert/"><u>Wie Man Eine Autonome Backup-Lösung Mit Google Drive Für Den Desktop Aktiviert</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/shagi-k-vossozdaniyu-zagruzochnogo-ssd-na-usb-podrobnoe-rukovodstvo/"><u>Шаги К Воссозданию Загрузочного SSD На USB: Подробное Руководство</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Masterclass on Planning and Executing an Effective Digital Marketer's Summit - Using MassMail Tools
-date: 2025-01-14T22:39:21.718Z
-updated: 2025-01-17T22:02:19.247Z
+date: 2025-01-23T01:14:33.070Z
+updated: 2025-01-23T21:08:52.461Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -40,6 +36,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -48,11 +48,19 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -74,10 +82,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -86,16 +90,12 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -103,7 +103,7 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -118,10 +118,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,14 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-unraveling-the-imovie-video-edge-policy/"><u>[New] Unraveling the iMovie Video Edge Policy</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-secrets-behind-top-performers-in-online-forums-like-reddit/"><u>[Updated] 2024 Approved The Secrets Behind Top Performers in Online Forums Like Reddit</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-image-curves-in-adobe-photoshop/"><u>[Updated] Mastering Image Curves in Adobe Photoshop</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-ultimate-list-top-18-high-def-camcorders/"><u>[Updated] Ultimate List Top 18 High-Def Camcorders</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/akalis-nvme-cloning-master-schritt-fur-schritt-mit-diesem-umfassenden-tutorial/"><u>Akalis-NVMe Cloning: Master Schritt Für Schritt Mit Diesem Umfassenden Tutorial</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/come-unire-le-tue-carte-su-windows-81/"><u>Come Unire Le Tue Carte Su Windows 8.1</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/erfolgreich-wiederhergestellte-partitionsdatenbank-auf-my-passport-von-western-digital-komplettlosung-erklart/"><u>Erfolgreich Wiederhergestellte Partitionsdatenbank Auf My Passport Von Western Digital - Komplettlösung Erklärt</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/validating-crypto-payments-made-simple-with-yl-computings-guide/"><u>Validating Crypto Payments Made Simple with YL Computing's Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/wiederherstellen-sie-ihre-geloschten-onedrive-dateien-schnell-losungen-fur-den-datenverlust/"><u>Wiederherstellen Sie Ihre Gelöschten OneDrive-Dateien Schnell: Lösungen Für Den Datenverlust</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-pioneering-approaches-to-logging-lol-rallies/"><u>[New] 2024 Approved Pioneering Approaches to Logging LOL Rallies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevate-your-instagram-game-scouting-the-8-top-post-schedulers/"><u>2024 Approved Elevate Your Instagram Game Scouting the 8 Top Post Schedulers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466200962-cant-use-ringsilent-mode-on-iphone-fix-it-with-these-easy-steps/"><u>Can't Use Ring/Silent Mode on iPhone? Fix It with These Easy Steps!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-sense-of-microsofts-bluetooth-linked-app/"><u>Making Sense of Microsoft's Bluetooth-Linked App</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-strategies-for-effective-content-duplication-and-plagiarism-free-techniques/"><u>Top Strategies for Effective Content Duplication & Plagiarism-Free Techniques</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/transferring-your-reading-experience-from-amazons-kindle-to-the-kobo-e-reader/"><u>Transferring Your Reading Experience From Amazon's Kindle to the Kobo E-Reader</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/transform-documents-into-professional-pdf-format-easily-with-top-rated-pdf-converter/"><u>Transform Documents Into Professional PDF Format Easily with Top-Rated PDF Converter</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-and-resolving-the-missing-dll-msvcr1/"><u>Troubleshooting and Resolving the Missing DLL: MSVCR1지</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-post-update-cplusplus-runtime-issues-a-guide/"><u>Troubleshooting Post-Update C++ Runtime Issues: A Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wmvwav-movavi/"><u>WMVからWAVへの簡単な無料オンライン音声ファイル変換 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Are Broken Links? A Comprehensive Guide to Effects & Fixes for Enhanced SEO Performance
-date: 2025-01-12T22:42:29.545Z
-updated: 2025-01-18T00:41:21.268Z
+date: 2025-01-17T00:50:26.400Z
+updated: 2025-01-24T02:00:32.786Z
 tags:
   - wiki
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 
 ## Broken link
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Contents
 
 * [Broken link definition](https://tools.techidaily.com/link-assistant/products/)
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
    * [Setting up a custom 404 page](https://tools.techidaily.com/link-assistant/products/)
 * [Related links](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Broken link definition
 
@@ -69,7 +61,7 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 * **Reset**. A server dropped connections because it was misconfigured or too busy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broken links’ meaning for SEO
@@ -84,35 +76,43 @@ Broken links harm user experience and increase bounce rate, which will surely af
 
 Broken links do not pass link juice, so the page where the link points to will not receive value and page strength. Plus, a page where a broken link points to may not be indexed at all if no other links point to it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing broken links
 
 Broken links should be fixed anyway to prevent link juice drainage and poor user experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Broken links with 4xx status codes
 
 Most broken links that return 4xx status codes are fixed with the help of correctly implemented 301 redirects to relevant pages. Doing so keeps users on your website (i.e. bounce rate decreases), saves link juice, and does not harm UX.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Broken links with other status codes
 
 If a link is broken because of server issues, then it is the server that needs fixing. Make sure everything is implemented correctly on the server side and ask Google to recrawl pages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Setting up a custom 404 page
 
 Sometimes a page is moved without any alternative. In this case, you should not redirect users to your homepage but set up a custom 404 page. It should include some navigation links that may be interesting for users. Custom 404s are not indexed by Google and are needed to keep users on your site and decrease bounce rate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related links
 
 [The Ultimate Guide to Broken Link Building](https://tools.techidaily.com/link-assistant/products/)
 
 [Most Common Indexing Issues and How to Fix Them - 404 Not Found](https://tools.techidaily.com/link-assistant/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## References
 
@@ -133,18 +133,19 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-topmusicreactionvids-yt-celebrity-highlights-2023/"><u>[New] 2024 Approved TopMusicReactionVids YT Celebrity Highlights, 2023</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-exploring-new-realms-of-thought-30plus-vr-metaphysical-messages/"><u>[Updated] Exploring New Realms of Thought 30+ VR Metaphysical Messages</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-tutorial-simplifying-youtube-subscriptions/"><u>2024 Approved Ultimate Tutorial Simplifying YouTube Subscriptions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/akalis-nvme-cloning-master-schritt-fur-schritt-mit-diesem-umfassenden-tutorial/"><u>Akalis-NVMe Cloning: Master Schritt Für Schritt Mit Diesem Umfassenden Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boost-your-competitive-edge-with-custom-vocal-alteration-techniques-in-free-fire-gaming-no-charge/"><u>Boost Your Competitive Edge with Custom Vocal Alteration Techniques in Free Fire Gaming (No Charge!)</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/come-unire-le-tue-carte-su-windows-81/"><u>Come Unire Le Tue Carte Su Windows 8.1</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/erfolgreich-wiederhergestellte-partitionsdatenbank-auf-my-passport-von-western-digital-komplettlosung-erklart/"><u>Erfolgreich Wiederhergestellte Partitionsdatenbank Auf My Passport Von Western Digital - Komplettlösung Erklärt</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015815223-immediate-solutions-to-restart-fortnite-voice-chatting-no-hassle/"><u>Immediate Solutions to Restart Fortnite Voice Chatting - No Hassle!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mitigating-risks-in-java-programming-a-comprehensive-guide-for-securing-code-safecodetech/"><u>Mitigating Risks in Java Programming: A Comprehensive Guide for Securing Code | SafeCodeTech</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-unresponsive-gamepads-with-steam-in-windows/"><u>Overcoming the Hurdle of Unresponsive Gamepads with Steam in Windows</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/restore-your-pc-with-ease-a-step-by-step-tutorial-on-using-images-for-windows-recovery/"><u>Restore Your PC with Ease: A Step-by-Step Tutorial on Using Images for Windows Recovery</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-wow-how-to-get-past-launch-problems-on-pc/"><u>Troubleshooting WoW - How to Get Past Launch Problems on PC</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/wiederherstellen-sie-ihre-geloschten-onedrive-dateien-schnell-losungen-fur-den-datenverlust/"><u>Wiederherstellen Sie Ihre Gelöschten OneDrive-Dateien Schnell: Lösungen Für Den Datenverlust</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-skyrocketing-video-performance-on-vimeo/"><u>[New] 2024 Approved Skyrocketing Video Performance on Vimeo</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-explore-and-enjoy-locating-recently-liked-videos-on-facebook/"><u>[New] In 2024, Explore & Enjoy Locating Recently Liked Videos on Facebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-your-iphone-step-by-step-guide-to-podcast-acquisition/"><u>[Updated] Mastering Your iPhone Step-by-Step Guide to Podcast Acquisition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-perfecting-tiktok-videos-efficient-techniques-for-numerical-edits/"><u>2024 Approved Perfecting TikTok Videos Efficient Techniques for Numerical Edits</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-play-40c-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor Play 40C to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-vanguard-2024-pc-version-no-more-freezes-or-crashes-what-you-need-to-know/"><u>CoD Vanguard 2024 PC Version: No More Freezes or Crashes – What You Need to Know</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-13t-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 13T Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-essential-guide-to-smartphone-based-youtube-thumbnails/"><u>In 2024, The Essential Guide to Smartphone-Based YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/license-free-minecraft-banner-pack-for-2024/"><u>License-Free Minecraft Banner Pack for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/transform-documents-into-professional-pdf-format-easily-with-top-rated-pdf-converter/"><u>Transform Documents Into Professional PDF Format Easily with Top-Rated PDF Converter</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-and-resolving-the-missing-dll-msvcr1/"><u>Troubleshooting and Resolving the Missing DLL: MSVCR1지</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-post-update-cplusplus-runtime-issues-a-guide/"><u>Troubleshooting Post-Update C++ Runtime Issues: A Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/turbocharge-your-audio-library-efficiently-convert-audible-books-to-high-quality-mp3-at-record-speeds-aax-format/"><u>Turbocharge Your Audio Library: Efficiently Convert Audible Books to High-Quality MP3 at Record Speeds (AAX Format)</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-list-of-websites-for-accessing-free-audiobooks/"><u>Ultimate List of Websites for Accessing Free Audiobooks</u></a></li>
 </ul></div>
 
