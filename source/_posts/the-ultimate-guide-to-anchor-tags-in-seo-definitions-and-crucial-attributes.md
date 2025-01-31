@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Anchor Tags in SEO: Definitions & Crucial Attributes"
-date: 2025-01-17T00:44:37.049Z
-updated: 2025-01-23T23:33:36.330Z
+date: 2025-01-26T17:54:23.860Z
+updated: 2025-01-31T16:54:31.232Z
 tags:
   - wiki
 categories:
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 * [Related articles](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is an anchor tag?
 
 An anchor tag _<a>_ is one of the HTML tags, which is used for linking one page to another or some sections on a single page. By itself, however <a> doesn’t do much (it’s just a placeholder). For linking, it must be accompanied by an _href_ attribute.
@@ -52,6 +48,10 @@ Anchor tags are the basic HTML element that helps optimize site content for sear
 * **Anchor tags create better UX.** <a> Links are a means of navigation. What’s more, its styling opportunities are pretty vast: links are usually underlined and go in blue color, which is eye-catching. Thus, users can easily get to the related page/page section without wasting time.
 * **Anchor tags contribute to your page rankings.** Anchor text, which is a part of <a> links, sends signals to search engines on what a page is about. That helps search engines rank your pages on the SERPs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Main anchor tag attributes
 
 Anchor tag attributes are the way we tell how the hyperlink should behave on the page. 
@@ -64,10 +64,6 @@ It is the only mandatory attribute on the list. All the other attributes can be 
 
 Example: <a href="https://website.com">Your anchor text</a>[\[3\]](https://tools.techidaily.com/link-assistant/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### rel
 
 It is used to specify the relation between the current page and the linked one. Its values can be the following:
@@ -78,19 +74,11 @@ It is used to specify the relation between the current page and the linked one. 
 
 Example: <a rel="nofollow" href="http://website.com/">Your anchor text</a>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### download
 
 It is used to specify the target link to download files with a click.
 
 Example: <a href="/images/yourgreatimage.png" download="imagename">
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### hreflang
 
@@ -99,7 +87,7 @@ It is used to specify the language of the linked page.
 Example: <a href="https://website.com" hreflang="en">Your anchor text</a>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### media
@@ -112,6 +100,10 @@ media="print and (resolution:300dpi)">
 
 Open media attribute page for print.</a>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### target
 
 It is used to specify the way how a destination URL should be browsed. For example, in a new window or tab. Here is the list of your options:
@@ -123,11 +115,19 @@ It is used to specify the way how a destination URL should be browsed. For examp
 
 Example: <a href="https://website.com" target="\_blank">Your anchor text</a>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Related articles
 
 [Internal Links for SEO: Best Practices 2022](https://tools.techidaily.com/link-assistant/products/)
 
 [5 Cases When Different Link Location Means Different SEO Value](https://tools.techidaily.com/link-assistant/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## References
 
@@ -148,19 +148,18 @@ Example: <a href="https://website.com" target="\_blank">Your anchor text</a>
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-5-podcast-apps-for-iphone/"><u>[New] In 2024, 5 Podcast Apps for iPhone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-navigating-youtube-partnerships-successfully/"><u>[Updated] 2024 Approved Navigating YouTube Partnerships Successfully</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effective-methods-for-packaging-applications-using-a-repacker/"><u>Effective Methods for Packaging Applications Using a Repacker</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effortless-duplicate-deletion-for-windows-users-with-yls-expert-tips/"><u>Effortless Duplicate Deletion for Windows Users with YL's Expert Tips</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-optimize-your-pcs-performance-and-speed-expert-tips-from-yl-software/"><u>How to Optimize Your PC's Performance and Speed: Expert Tips From YL Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-13-pro-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 13 Pro Max Properly | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/legally-safe-chants-and-tunes-the-ultimate-meditation-list/"><u>Legally Safe Chants & Tunes - The Ultimate Meditation List</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/protecting-your-crypto-investments-with-yl-softwares-advanced-strategies/"><u>Protecting Your Crypto Investments with YL Software's Advanced Strategies</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/qin-shi-huang-the-emperor-who-united-china-in-221-bc-insights-by-yl-computing-and-yl-software/"><u>Qin Shi Huang: The Emperor Who United China in 221 BC - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/resolving-scanning-issues-what-if-your-scanner-outputs-jumbled-graphics-insights-by-yl-software/"><u>Resolving Scanning Issues: What If Your Scanner Outputs Jumbled Graphics? - Insights by YL Software</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/reversing-the-consequences-of-a-youtube-ban-for-2024/"><u>Reversing the Consequences of a YouTube Ban for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-effortless-video-editing-with-quicktime-on-mac-a-step-by-step-handbook-for-2024/"><u>Updated Effortless Video Editing with QuickTime on Mac A Step-by-Step Handbook for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfect-emulators-to-replay-playstation-1-classics-for-2024/"><u>[New] Perfect Emulators to Replay PlayStation 1 Classics for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728476901499-aomei-backupper/"><u>AOMEI Backupperガイド：データ復元およびクローニング方法を学ぶ</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-geforce-gtx-1660-super-graphics-card-drivers/"><u>Download and Upgrade: GeForce GTX 1660 Super Graphics Card Drivers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevating-your-content-becoming-a-staff-pick-favorite-on-vimeo/"><u>Elevating Your Content Becoming a Staff Pick Favorite on Vimeo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-addition-to-iphone-16-phones-the-new-camera-buttons-features-revealed/"><u>Exploring the Latest Addition to iPhone 16 Phones: The New Camera Button's Features Revealed</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/guida-rapida-per-il-backup-e-la-eliminazione-sicura-dellssd-wd-su-windows-11/"><u>Guida Rapida per Il Backup E La Eliminazione Sicura Dell'SSD WD Su Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone X Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mastering-folder-synchronization-how-to-create-a-seamless-dropbox-mirror-on-various-versions-of-windows/"><u>Mastering Folder Synchronization: How to Create a Seamless Dropbox Mirror on Various Versions of Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rising-trend-increasing-popularity-of-purchasing-pre-owned-mobile-devices/"><u>Rising Trend: Increasing Popularity of Purchasing Pre-Owned Mobile Devices</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-the-impossible-to-change-original-disk-issue-in-samsung-data-migration-process/"><u>Troubleshooting the 'Impossible to Change Original Disk' Issue in Samsung Data Migration Process</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-selection-of-the-finest-ssd-duplication-programs-with-comprehensive-copying-manual/"><u>Ultimate Selection of the Finest SSD Duplication Programs with Comprehensive Copying Manual</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/xbox-one-screenshot-protocols-unveiled-preserve-your-epic-wins-with-these-simple-techniques/"><u>Xbox One Screenshot Protocols Unveiled: Preserve Your Epic Wins with These Simple Techniques</u></a></li>
 </ul></div>
 

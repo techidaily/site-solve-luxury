@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Parties Behind the Treaty of Nanking: A Historical Perspective From YL Software"
-date: 2025-01-20T04:26:08.589Z
-updated: 2025-01-24T00:31:50.816Z
+date: 2025-01-24T16:22:49.204Z
+updated: 2025-01-31T18:51:46.070Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,19 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-discovering-phantoms-temporal-expansion-capabilities/"><u>[Updated] 2024 Approved Discovering Phantom's Temporal Expansion Capabilities</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/fall-guys/"><u>完全修正：『Fall Guys』で発生する「ファイルを開くことができない」問題の解決方法</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/best-free-tools-for-retrieving-lost-images-on-windows-get-them-here/"><u>Best Free Tools for Retrieving Lost Images on Windows - Get Them Here!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/boosting-your-list-the-top-5-strategies-for-gaining-email-followers-with-massmail-tools/"><u>Boosting Your List: The Top 5 Strategies for Gaining Email Followers with MassMail Tools</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/errores-comunes-al-mover-datos-con-el-asistente-de-migracion-consejos-y-trucos/"><u>Errores Comunes Al Mover Datos Con El Asistente De Migración - Consejos Y Trucos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ience-the-virtual-reality-frontier-on-youtube/"><u>Experience the Virtual Reality Frontier on Youtube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-harnessing-online-platforms-beyond-youtube-to-30plus-communities/"><u>In 2024, Harnessing Online Platforms Beyond YouTube to 30+ Communities</u></a></li>
-<li><a href="https://app-tips.techidaily.com/juniper-networks-expands-security-offerings-with-new-cloud-based-firewall-feature-in-unified-secure-access-service-sezn-architecture/"><u>Juniper Networks Expands Security Offerings with New Cloud-Based Firewall Feature in Unified Secure Access Service (SEZN) Architecture</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quick-success-with-tinder-profiles-check-out-these-hacks-now/"><u>Quick Success with Tinder Profiles? Check Out These Hacks Now</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/solucione-los-problemas-de-inicio-en-windows-11-con-estos-metodos-probados-incluyendo-problemas-usb-no-funcionales/"><u>Solucione Los Problemas De Inicio en Windows 11 Con Estos Métodos Probados (Incluyendo Problemas USB No Funcionales)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-to-a-luminous-world-of-android-videos-for-2024/"><u>Step-by-Step to a Luminous World of Android Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essential-guide-to-lg-360-camera-features-update-2023/"><u>The Essential Guide to LG 360 Camera Features Update 2023</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-ultimate-fix-ensuring-your-minecraft-drivers-are-current-and-working-properly/"><u>The Ultimate Fix: Ensuring Your Minecraft Drivers Are Current and Working Properly</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ultimate-walkthrough-bring-back-life-to-iphone-models-15141312-with-a-simple-icloud-backup-recovery/"><u>Ultimate Walkthrough: Bring Back Life to iPhone Models (15/14/13/12) with a Simple iCloud Backup Recovery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-11-free-youtube-playlist-downloaders-onlinepcandroidios/"><u>2024 Approved 11 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS]</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-a-beginners-guide-to-vimeo-caption-addition/"><u>2024 Approved A Beginner's Guide to Vimeo Caption Addition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-expert-mp4-to-fb-migration-tool/"><u>2024 Approved Expert MP4 To-FB Migration Tool</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/aac-vs-dts-optimal-sound-quality-and-quick-tricks-for-format-switching/"><u>AAC Vs. DTS: Optimal Sound Quality & Quick Tricks for Format Switching</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/beginners-guide-optimize-your-editing-skills-with-a-user-friendly-real-time-60fps-video-editor-on-windows-11/"><u>Beginner's Guide: Optimize Your Editing Skills with a User-Friendly, Real-Time 60Fps Video Editor on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/converting-video-formats-effortlessly-how-to-change-mov-to-lossless-flac-soundtracks/"><u>Converting Video Formats Effortlessly - How to Change MOV to Lossless FLAC Soundtracks</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/discover-the-top-7-free-programs-for-effortless-cutting-of-mkv-movies-without-spending-a-penny/"><u>Discover the Top 7 Free Programs for Effortless Cutting of MKV Movies Without Spending a Penny</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-magic-5-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor Magic 5 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/edit-your-mp4-files-easily-and-gratis-with-a-simple-walkthrough-on-pc/"><u>Edit Your MP4 Files Easily & Gratis with a Simple Walkthrough on PC</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/efficient-techniques-for-converting-bulk-audio-files-in-minutes/"><u>Efficient Techniques for Converting Bulk Audio Files in Minutes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-code-0x8024a205-a-winupdate-solution-guide/"><u>Error Code 0X8024a205: A WinUpdate Solution Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/free-conversion-of-m4v-files-to-mp4-format-a-step-by-step-guide-for-windows-users/"><u>Free Conversion of M4V Files to MP4 Format: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-trim-and-edit-footage-with-windows-movie-maker-on-windows-10/"><u>How to Trim and Edit Footage with Windows Movie Maker on Windows 10</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-capture-and-save-everything-on-your-screen/"><u>In 2024, Capture & Save Everything on Your Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-xiaomi-13t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi 13T Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-3-cost-free-techniques-for-adding-subtitles-to-videoclips-effortlessly/"><u>Top 3 Cost-Free Techniques for Adding Subtitles to Videoclips Effortlessly</u></a></li>
 </ul></div>
 
