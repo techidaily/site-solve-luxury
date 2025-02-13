@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multi-Channel Promotion: Integrating Email with Social Platforms - Insights From the Marketing Cocktail Conference 2010"
-date: 2025-01-30T20:30:30.087Z
-updated: 2025-01-31T19:51:36.057Z
+date: 2025-02-09T00:05:47.149Z
+updated: 2025-02-13T08:41:52.951Z
 tags:
   - product
 categories:
@@ -18,6 +18,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
@@ -32,17 +36,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -52,11 +48,19 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -71,7 +75,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -79,7 +83,7 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -99,16 +103,12 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -149,18 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-monetary-value-of-each-youtube-brand-partnership/"><u>[New] The Monetary Value of Each YouTube Brand Partnership?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-amplify-viewership-with-these-top-10-youtube-reaction-strategies-for-2024/"><u>[Updated] Amplify Viewership with These Top 10 YouTube Reaction Strategies for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-potential-career-exploration-in-design/"><u>2024 Approved Unleashing Potential Career Exploration in Design</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/boosting-sales-success-with-strategic-back-selling-and-cross-selling-techniques-the-ultimate-guide-using-massmail/"><u>Boosting Sales Success with Strategic Back-Selling & Cross-Selling Techniques: The Ultimate Guide Using MassMail</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/discover-how-adding-online-questionnaires-via-massmail-boosts-website-engagement-top-advantages-revealed/"><u>Discover How Adding Online Questionnaires via MassMail Boosts Website Engagement – Top Advantages Revealed!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/managing-virtual-machine-proliferation-top-practices-for-efficient-oversight-and-governance/"><u>Managing Virtual Machine Proliferation: Top Practices for Efficient Oversight & Governance</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-bend-reality-with-these-10-glitch-art-video-editing-apps-for-mobile/"><u>New 2024 Approved Bend Reality with These 10 Glitch Art Video Editing Apps for Mobile</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamlined-design-meets-power-discover-the-asrock-x600m-itx-for-compact-htpc-projects/"><u>Streamlined Design Meets Power: Discover the ASRock X600M-Itx for Compact HTPC Projects</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-unsuccessful-file-transfers-in-windows/"><u>Tackling Unsuccessful File Transfers in Windows</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-a-non-booting-hard-drive-on-your-pc-fast-solutions-for-windows-10-8-and-7/"><u>Troubleshooting a Non-Booting Hard Drive on Your PC: Fast Solutions for Windows 10, 8 & 7</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/wie-leichtes-ios-apparatendatenfreigabe-videos-von-iphone-zu-ipad-mit-airdrop-teilen/"><u>Wie Leichtes iOS-Apparatendatenfreigabe: Videos Von iPhone Zu iPad Mit AirDrop Teilen</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/sovershenstvujte-svoj-internet-trafik-luchshie-agentstva-po-seo-v-los-andzhelese-optimize-powerhouse/"><u>Совершенствуйте Свой Интернет-Трафик: Лучшие Агентства По SEO В Лос-Анджелесе | Optimize PowerHouse</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-11-techniques-for-stunning-color-balance-for-2024/"><u>[New] Top 11 Techniques for Stunning Color Balance for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unlocking-every-participants-placement-in-google-meet/"><u>[Updated] 2024 Approved Unlocking Every Participant’s Placement in Google Meet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862774622-200-price-drop-snag-the-acer-nitro-34-curved-wqhd-monitor-on-newegg-today/"><u>$200 Price Drop! Snag the Acer Nitro 34'' Curved WQHD Monitor on Newegg Today!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-holistic-evaluation-full-screenflow-for-mac-functionality/"><u>2024 Approved Holistic Evaluation Full ScreenFlow for Mac Functionality</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/is-an-independent-power-supply-essential-for-your-scanning-device-insights-by-yl-computing/"><u>Is an Independent Power Supply Essential for Your Scanning Device? - Insights by YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-troubleshooting-fix-baldurs-gate-iii-for-a-smooth-pc-experience/"><u>Mastering the Art of Troubleshooting - Fix Baldur's Gate III for a Smooth PC Experience</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/one-person-access-authorization-key/"><u>One-Person Access Authorization Key</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/praktische-tipps-zum-anpassen-von-worterbuchern-in-ihrer-kindle-bibliothek-anderungen-und-zusatze-verstehen/"><u>Praktische Tipps Zum Anpassen Von Wörterbüchern in Ihrer Kindle-Bibliothek: Änderungen Und Zusätze Verstehen</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/quick-guide-how-to-change-your-pdfs-into-readable-azw3-format-for-kindle-devices/"><u>Quick Guide: How to Change Your PDFs Into Readable AZW3 Format for Kindle Devices</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/quick-guide-how-to-perform-a-password-free-restore-of-windows-11-back-to-original-settings/"><u>Quick Guide: How to Perform a Password-Free Restore of Windows 11 Back to Original Settings</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/quickconvert-pro-efficiently-turn-your-audible-books-into-high-quality-mp3s-in-record-time/"><u>QuickConvert Pro: Efficiently Turn Your Audible Books Into High-Quality MP3s in Record Time</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/seamless-kindle-device-switching-a-comprehensive-guide/"><u>Seamless Kindle Device Switching: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-accessing-and-reading-amazon-kindle-ebooks-on-your-android-device/"><u>Step-by-Step Guide: Accessing & Reading Amazon Kindle Ebooks on Your Android Device</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-opening-and-enjoying-your-sony-ereader-books-with-adobes-digital-editions/"><u>Step-by-Step Guide: Opening and Enjoying Your Sony eReader Books with Adobe's Digital Editions</u></a></li>
 </ul></div>
 

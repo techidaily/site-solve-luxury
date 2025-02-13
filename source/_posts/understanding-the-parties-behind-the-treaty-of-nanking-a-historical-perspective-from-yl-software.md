@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Parties Behind the Treaty of Nanking: A Historical Perspective From YL Software"
-date: 2025-01-24T16:22:49.204Z
-updated: 2025-01-31T18:51:46.070Z
+date: 2025-02-09T19:47:20.860Z
+updated: 2025-02-12T18:34:52.383Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/approved-11-free-youtube-playlist-downloaders-onlinepcandroidios/"><u>2024 Approved 11 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS]</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-a-beginners-guide-to-vimeo-caption-addition/"><u>2024 Approved A Beginner's Guide to Vimeo Caption Addition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-expert-mp4-to-fb-migration-tool/"><u>2024 Approved Expert MP4 To-FB Migration Tool</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/aac-vs-dts-optimal-sound-quality-and-quick-tricks-for-format-switching/"><u>AAC Vs. DTS: Optimal Sound Quality & Quick Tricks for Format Switching</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/beginners-guide-optimize-your-editing-skills-with-a-user-friendly-real-time-60fps-video-editor-on-windows-11/"><u>Beginner's Guide: Optimize Your Editing Skills with a User-Friendly, Real-Time 60Fps Video Editor on Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/converting-video-formats-effortlessly-how-to-change-mov-to-lossless-flac-soundtracks/"><u>Converting Video Formats Effortlessly - How to Change MOV to Lossless FLAC Soundtracks</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/discover-the-top-7-free-programs-for-effortless-cutting-of-mkv-movies-without-spending-a-penny/"><u>Discover the Top 7 Free Programs for Effortless Cutting of MKV Movies Without Spending a Penny</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-magic-5-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor Magic 5 Pro Phone? | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/edit-your-mp4-files-easily-and-gratis-with-a-simple-walkthrough-on-pc/"><u>Edit Your MP4 Files Easily & Gratis with a Simple Walkthrough on PC</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/efficient-techniques-for-converting-bulk-audio-files-in-minutes/"><u>Efficient Techniques for Converting Bulk Audio Files in Minutes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/error-code-0x8024a205-a-winupdate-solution-guide/"><u>Error Code 0X8024a205: A WinUpdate Solution Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/free-conversion-of-m4v-files-to-mp4-format-a-step-by-step-guide-for-windows-users/"><u>Free Conversion of M4V Files to MP4 Format: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-trim-and-edit-footage-with-windows-movie-maker-on-windows-10/"><u>How to Trim and Edit Footage with Windows Movie Maker on Windows 10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-capture-and-save-everything-on-your-screen/"><u>In 2024, Capture & Save Everything on Your Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-xiaomi-13t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi 13T Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-3-cost-free-techniques-for-adding-subtitles-to-videoclips-effortlessly/"><u>Top 3 Cost-Free Techniques for Adding Subtitles to Videoclips Effortlessly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guiding-adding-songs-to-your-yt-channel/"><u>[New] In 2024, Guiding Adding Songs to Your YT Channel</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/automate-your-data-protection-set-up-an-auto-backup-using-clonezilla-and-simplified-methods/"><u>Automate Your Data Protection: Set Up an Auto-Backup Using Clonezilla & Simplified Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/chinas-artificial-intelligence-chessboard-updates-tencent-deploys-foundation-model-for-business-applications/"><u>China’s Artificial Intelligence Chessboard Updates: Tencent Deploys Foundation Model for Business Applications</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/discovering-the-hidden-places-of-chrome-browser-plugins-and-extensions/"><u>Discovering the Hidden Places of Chrome Browser Plugins and Extensions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620240011-get-the-beat-on-your-device-discover-how-to-easily-move-tunes-from-an-ipod-touchshufflenano-no-itunes-required/"><u>Get the Beat on Your Device: Discover How to Easily Move Tunes From an iPod Touch/Shuffle/Nano - No iTunes Required</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/guida-alla-sostituzione-del-disco-rigido-xbox-one-s-con-hard-disk-o-ssd-piu-grandi-tutorial/"><u>Guida Alla Sostituzione Del Disco Rigido Xbox One S Con Hard Disk O SSD Più Grandi - Tutorial</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/high-quality-virtual-console-imitation-software-for-pc/"><u>High-Quality Virtual Console Imitation Software for PC</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-fix-windows-ndrive-not-found-and-access-denied-issues-for-a-successful-file-retrieval/"><u>How to Fix Windows nDrive Not Found and Access Denied Issues for a Successful File Retrieval</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-improve-your-indoor-digital-television-signal-using-an-antenna/"><u>How To Improve Your Indoor Digital Television Signal Using An Antenna</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-gt-3-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme GT 3 Through Google Earth?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-resource-for-microsoft-azure-speech-services/"><u>In 2024, The Ultimate Resource for Microsoft Azure Speech Services</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/preparing-your-pc-and-room-for-the-ultimate-vr-for-2024/"><u>Preparing Your PC and Room for the Ultimate VR for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/robocopy-windows-11/"><u>Robocopy 簡易教程：在 Windows 11 系統上進行高效文件複製</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/solving-the-windows-1n-10-duplication-issue-understanding-and-correcting-error-0xc00000e-after-cloning/"><u>Solving the Windows 1N 10 Duplication Issue: Understanding and Correcting Error 0XC00000E After Cloning</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-to-restoring-internet-connectivity-for-vms-hosted-by-hyper-n-technology-on-recent-windows-versions-10-and-11/"><u>Step-by-Step Guide to Restoring Internet Connectivity for VMs Hosted by Hyper-N Technology on Recent Windows Versions (10 & 11)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-reality-breakthrough-apps-for-smartphones/"><u>Virtual Reality Breakthrough Apps for Smartphones</u></a></li>
 </ul></div>
 

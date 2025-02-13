@@ -1,7 +1,7 @@
 ---
 title: "Understanding Hypertext: Comprehensive Guide with SEO Strategies and Key Definitions"
-date: 2025-01-27T17:52:48.959Z
-updated: 2025-01-31T17:40:04.308Z
+date: 2025-02-06T21:26:16.449Z
+updated: 2025-02-13T07:58:09.400Z
 tags:
   - wiki
 categories:
@@ -16,11 +16,11 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## Hypertext
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Hypertext
 
 ### Contents
 
@@ -33,12 +33,16 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext definition
 
 Hypertext is text that is displayed on a computer or other electronic device and is linked to other documents or resources[\[1\]](https://tools.techidaily.com/link-assistant/products/). When you click on a hypertext link, you are taken to the linked resource, which can be a webpage, an image, a video, or any other type of digital content. Hypertext links are created using [HTML](https://tools.techidaily.com/link-assistant/products/) (HyperText Markup Language) and are usually underlined and colored differently than the surrounding text to make them stand out[\[2\]](https://tools.techidaily.com/link-assistant/products/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Hypertext importance
 
@@ -54,10 +58,6 @@ This structure and flexibility of hypertext also allow creating of complex struc
 
 It's important to note that Hypertext structure can take on many forms and it could be defined and implemented differently depending on the context and the purpose of the Hypertext system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Hypertext, hypermedia, and multimedia
 
 Hypertext, hypermedia, and multimedia are all related concepts, but they refer to slightly different things.
@@ -71,7 +71,7 @@ Multimedia, on the other hand, refers to the use of multiple forms of media, suc
 In short, Hypertext is focused on the connection between text, Hypermedia expands the connections to include other media forms and Multimedia encompasses all media types to communicate information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hypertext advantages
@@ -86,13 +86,13 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 * **Ease of use**: Hypertext is easy for users to understand and navigate. The concept of clicking on underlined or highlighted text to access more information is a common and well-established metaphor that most users are familiar with.
 * **Cost-effective**: Hypertext-based documents and information systems can be created and maintained with relatively low cost, as they can be created and distributed digitally.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related links
 
 [Anchor Text: Types, SEO Implications, and Best Practices](https://tools.techidaily.com/link-assistant/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## References
 
@@ -113,20 +113,21 @@ Hypertext has several advantages that make it a useful tool for organizing and p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-full-motion-assessment-2023/"><u>[Updated] 2024 Approved Full Motion Assessment 2023</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-ninja-level-strategies-for-instagram-video-magic/"><u>[Updated] Ninja-Level Strategies for Instagram Video Magic</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/effective-solutions-for-bandwidth-limitations-insights-from-yl-software-experts/"><u>Effective Solutions for Bandwidth Limitations - Insights From YL Software Experts</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/hd-adventure-time-landscapes-premium-backgrounds-and-imagery-by-yl-computing/"><u>HD Adventure Time Landscapes: Premium Backgrounds & Imagery by YL Computing</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/identifying-and-resolving-windows-failure-to-detect-video-card-tips-from-yl-software-experts/"><u>Identifying & Resolving Window's Failure to Detect Video Card - Tips From YL Software Experts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-magic5-ultimate-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor Magic5 Ultimate Lock Screen Password</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-play-with-perspective-learning-warp-effects-in-adobe-ph/"><u>In 2024, Play With Perspective Learning Warp Effects in Adobe PH</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-exclusive-guide-to-personalized-govee-neon-light-discounts-save-big/"><u>Labor Day Sale: Exclusive Guide to Personalized Govee Neon Light Discounts – Save Big!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/macrium-reflect/"><u>Macrium Reflect 快速修复：解決複制失敗 五招</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/shockwave-in-silicon-valley-the-seven-mighty-tech-giants-lose-280b-to-crypto-boom-analyzed-by-yl-software-experts/"><u>Shockwave in Silicon Valley: The 'Seven Mighty Tech Giants' Lose $280B to Crypto Boom, Analyzed by YL Software Experts</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/solving-windows-woes-fixing-unresponsive-mouse-and-keyboard-problems-with-yl-software-tips/"><u>Solving Windows Woes: Fixing Unresponsive Mouse and Keyboard Problems with YL Software Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-xiaomi-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Xiaomi? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-crash-error-in-mount-and-blade-bannerlord-game/"><u>Troubleshooting Guide - Fixing the Crash Error in Mount & Blade ˈBannerlord Game</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/understanding-the-parties-behind-the-treaty-of-nanking-a-historical-perspective-from-yl-software/"><u>Understanding the Parties Behind the Treaty of Nanking: A Historical Perspective From YL Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capture-screens-in-windows-8-4-methods/"><u>2024 Approved Capture Screens in Windows 8 4 Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-note-12r-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi Note 12R Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oneplus-11r-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on OnePlus 11R to Protect Your Individual Information</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-find-x7-ultra-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo Find X7 Ultra Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-se-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone SE In Different Conditionsin</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/limpieza-eficiente-de-ventanas-11-deshacerse-del-adware-y-pop-ups-con-herramientas-profesionales-de-malwarefox/"><u>Limpieza Eficiente De Ventanas 11: Deshacerse Del Adware Y Pop-Ups Con Herramientas Profesionales De MalwareFox</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mp46/"><u>MP4ファイル変換ツールランキングトップ6」</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ogg-4/"><u>OGGファイル音量変更 使用する4つの効果的な手順</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pioneering-pixels-a-detailed-analysis-of-8k-tvs-for-2024/"><u>Pioneering Pixels A Detailed Analysis of 8K TVs for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/playing-dvd-movies-smoothly-on-toshiba-laptops-a-comprehensive-walkthrough/"><u>Playing DVD Movies Smoothly on Toshiba Laptops - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/reshaping-your-videos-mastering-the-art-of-altering-aspect-ratios-in-vlc-media-player/"><u>Reshaping Your Videos: Mastering the Art of Altering Aspect Ratios in VLC Media Player</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/simple-steps-for-implementing-closed-captioning-in-your-videos/"><u>Simple Steps for Implementing Closed Captioning in Your Videos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-recovering-erased-texts-on-your-ipod-touch-5th-and-4th-generation/"><u>Step-by-Step Guide: Recovering Erased Texts on Your iPod Touch (5Th and 4Th Generation)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-mobile-computer-for-gamers-pdw4/"><u>The Ultimate Mobile Computer for Gamers: PDW4</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-3-no-cost-video-transcription-tools-streamline-caption-creation-effortlessly/"><u>Top 3 No-Cost Video Transcription Tools: Streamline Caption Creation Effortlessly</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/understanding-wmv-format-a-comprehensive-guide-on-opening-wmv-files/"><u>Understanding WMV Format: A Comprehensive Guide on Opening WMV Files</u></a></li>
 </ul></div>
 
