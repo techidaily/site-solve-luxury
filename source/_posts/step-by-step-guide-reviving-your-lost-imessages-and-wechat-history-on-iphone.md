@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reviving Your Lost iMessages and WeChat History on iPhone"
-date: 2025-02-05T20:18:08.814Z
-updated: 2025-02-12T18:38:49.221Z
+date: 2025-03-01T17:47:32.816Z
+updated: 2025-03-04T04:10:33.353Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d568502deceace8c4ecf36ae07d16a3133e76d13956dfbeb425d156edf1af5a5.png
@@ -38,10 +38,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ist es sicher, den Papierkorb zu löschen?
 
 Kann ich den Ordner „Papierkorb“ von meiner D-Festplatte löschen, da er 9 GB Speicherplatz belegt? Wenn ich ihn öffne, ist nichts darin enthalten. Und es gibt einen anderen Ordner mit demselben Namen auf meiner C-Festplatte, der ebenfalls Platz beansprucht. Ist es also sicher, den Papierkorb zu löschen?
@@ -70,10 +66,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
@@ -81,10 +73,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -118,10 +106,6 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
@@ -129,10 +113,6 @@ Sicherer Download
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -161,10 +141,6 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
@@ -180,10 +156,6 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -235,10 +207,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -248,10 +216,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,22 +232,18 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-navigating-through-the-world-of-ar-stickers-highlighting-google-for-2024/"><u>[New] Navigating Through the World of AR Stickers, Highlighting Google for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/2024youtube10/"><u>【最新推薦】2024年に使いたい！YouTubeコンテンツをどう録画？上位10アプリ紹介</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-ps2-on-ios-selecting-the-best-emulators/"><u>2024 Approved PS2 on iOS Selecting the Best Emulators</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-the-elite-compilation-9-online-mic-recorders-ranked/"><u>2024 Approved The Elite Compilation 9 Online Mic Recorders Ranked</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/2024mp4youtube/"><u>2024年に必見！強力なMP4変換無料ツールを紹介：YouTube動画の最適化スイッチアップ</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-12-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone 12 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/6-completely-different-places-to-get-youtube-icons-and-logos-for-2024/"><u>6 Completely Different Places to Get YouTube Icons and Logos for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-add-subtitles-to-vimeo-videos/"><u>How to Add Subtitles to Vimeo Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-we-test-phones-at-zdnet/"><u>How We Test Phones at ZDNET .</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/optimizing-video-output-a-comprehensive-guide-to-compressor-in-fcpx/"><u>Optimizing Video Output A Comprehensive Guide to Compressor in FCPX</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/steps-to-start-your-journey-as-a-prompt-engineer/"><u>Steps to Start Your Journey as a Prompt Engineer</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-rated-weight-loss-workout-dvds-achieve-optimal-fitness-and-shed-pounds-effectively/"><u>Top-Rated Weight Loss Workout DVDs: Achieve Optimal Fitness & Shed Pounds Effectively</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-tips-playback-issues-with-flv-content-in-sony-vegas/"><u>Troubleshooting Tips: Playback Issues with FLV Content in Sony Vegas</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-adjusting-video-playback-speed-and-frame-rates-using-davinci-resolve/"><u>Ultimate Guide: Adjusting Video Playback Speed and Frame Rates Using DaVinci Resolve</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-1011avi/"><u>Windows 10/11で効率良くAVI動画再生のコツ</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-11-media-player-issues-with-mp4-video-playback-troubleshooting-tips/"><u>Windows 11 Media Player Issues with MP4 Video Playback - Troubleshooting Tips</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/youtube4/"><u>YouTube動画のスクリーンショット取り方4つの専門的テクニック</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-gain-ground-on-social-media-leaders-with-insta-growth-tips-for-2024/"><u>[Updated] Gain Ground on Social Media Leaders with Insta-Growth Tips for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/groken-windows-7-8-10-11/"><u>「破損・削除さ Groken Windows 7, 8, 10, 11のシステムファイルを回復する詳しいガイド」</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tune-treasure-hunt-finding-the-perfect-audio/"><u>2024 Approved Tune Treasure Hunt Finding the Perfect Audio</u></a></li>
+<li><a href="https://article-posts.techidaily.com/birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign/"><u>Birthstones and Emojis Tailoring Your WhatsApp Profile by Sign</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-infinix-hot-30i-device-sim-by-drfone-android/"><u>Easily Unlock Your Infinix Hot 30i Device SIM</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-access-top-5-strategies-for-setting-up-automatic-logon-on-windows-11/"><u>Effortless Access: Top 5 Strategies for Setting Up Automatic Logon on Windows 11</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/fonetool-essentials-a-comprehensive-overview/"><u>FoneTool Essentials: A Comprehensive Overview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-have-programming-languages-fared-since-2016-unpacking-their-fluctuating-demand-with-data-and-analysis-from-zdnet/"><u>How Have Programming Languages Fared Since 2016? Unpacking Their Fluctuating Demand with Data & Analysis From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-8-transformative-lenses-for-virtual-conferencing-for-2024/"><u>Prime 8 Transformative Lenses for Virtual Conferencing for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/recovering-deleted-png-files-on-windows-11-step-by-step-guide/"><u>Recovering Deleted PNG Files on Windows 11 - Step by Step Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-techniques-for-seamlessly-syncing-ios-camera-captures-with-your-computer/"><u>Top Techniques for Seamlessly Syncing iOS Camera Captures with Your Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-storytelling-made-easy-a-guide-to-blending-photo-and-video-in-pixiz/"><u>Visual Storytelling Made Easy A Guide to Blending Photo and Video in Pixiz</u></a></li>
 </ul></div>
 

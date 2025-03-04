@@ -1,7 +1,7 @@
 ---
 title: 将网络驱动器连接到 SharePoint：Windows 11上的步骤指南
-date: 2025-02-05T17:24:08.855Z
-updated: 2025-02-13T03:57:25.239Z
+date: 2025-03-02T22:53:32.051Z
+updated: 2025-03-04T01:12:50.719Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba4a1808a078297c558520a47.png
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/07f3d5f057a0a1f3c1d2492add732e27fc47138ba
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
@@ -31,10 +27,6 @@ Want to create an image, restore image, or clone hard drive via Norton Ghost? Th
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -76,20 +68,12 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
 * Or you can click **Custom...** to create a backup according to your needs.
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
 
@@ -114,10 +98,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -148,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -175,19 +151,11 @@ Select the corresponding backup methods if you want to backup system, partition 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Restore Disk & Files
 
 If you have created a backup with AOMEI Backupper, you can easily perform a restore anytime you want. You can choose to [restore hard disk drive](https://tools.techidaily.com/ubackup/products/), the system, partition or files/folders to the point you ever made a backup.
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -245,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -268,10 +232,6 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
 
@@ -298,21 +258,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>[New] Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-immersive-image-editing-online-cropping-essentials/"><u>[New] Immersive Image Editing Online Cropping Essentials</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-beyond-the-lens-innovative-ideas-for-youtube-video-creation/"><u>[Updated] In 2024, Beyond the Lens Innovative Ideas for YouTube Video Creation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unveiling-recmeisters-high-quality-screen-recording-capabilities-for-2024/"><u>[Updated] Unveiling Recmeister's High-Quality Screen Recording Capabilities for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/free-conversion-of-m4v-files-to-mp4-format-a-step-by-step-guide-for-windows-users/"><u>Free Conversion of M4V Files to MP4 Format: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://win-studio.techidaily.com/how-to-merge-two-image-sheets-into-one-flipbook-page-using-the-flipbuilder-technique/"><u>How to Merge Two Image Sheets Into One Flipbook Page Using the FlipBuilder Technique</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-trim-and-edit-footage-with-windows-movie-maker-on-windows-10/"><u>How to Trim and Edit Footage with Windows Movie Maker on Windows 10</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/hurry-limited-offer-snag-your-free-copy-of-wonderfox-dvd-ripping-tool-from-majorgeeks/"><u>Hurry! Limited Offer: Snag Your Free Copy of WonderFox DVD Ripping Tool From MajorGeeks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-pinnacle-collection-all-2023-twitter-videos/"><u>In 2024, The Pinnacle Collection All 2023 Twitter Videos</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/merging-footage-in-davinci-resolve-made-simple-and-best-alternative-methods/"><u>Merging Footage in DaVinci Resolve Made Simple & Best Alternative Methods</u></a></li>
-<li><a href="https://facebook.techidaily.com/online-safety-measures-against-pandemic-related-hoaxes/"><u>Online Safety Measures Against Pandemic-Related Hoaxes</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/pc-v/"><u>PCやスマートフォンによる「アイデンティティヴ V第五人格」の記録手法</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/quick-fixes-for-smooth-mkv-video-playback-in-windows-11/"><u>Quick Fixes for Smooth MKV Video Playback in Windows 11</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-best-5-no-cost-tools-for-converting-audio-books-from-m4b-to-mp3-format/"><u>The Best 5 No-Cost Tools for Converting Audio Books From M4B to MP3 Format</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-hero-series-advance-from-4-to-5/"><u>The Hero Series Advance From 4 to 5</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unleash-call-record-potential-essential-free-and-paid-tactics-for-skype-on-computers/"><u>Unleash Call Record Potential - Essential Free & Paid Tactics for Skype on Computers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-best-practices-for-leveraging-b-roll-content/"><u>[New] 2024 Approved Best Practices for Leveraging B-Roll Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-reviewing-cybernetic-tools-for-live-video-capture/"><u>[New] Reviewing Cybernetic Tools for Live Video Capture</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram-for-2024/"><u>[Updated] Transform Your Footage Effective Strategies for Cropping & Export on Instagram for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fitness-beatdowns-20-electrifying-tunes-for-your-exercising-playlist/"><u>2024 Approved Fitness Beatdowns 20 Electrifying Tunes for Your Exercising Playlist</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/aomei-backupper-pro-and-aomei-cloud-ultimate-protection-for-your-laptop-and-desktop/"><u>AOMEI Backupper Pro & AOMEI Cloud - Ultimate Protection for Your Laptop and Desktop</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728476901499-aomei-backupper/"><u>AOMEI Backupperガイド：データ復元およびクローニング方法を学ぶ</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/do-you-need-to-re-install-windows-following-a-system-restore/"><u>Do You Need to Re-Install Windows Following a System Restore?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/fixing-iphone-update-needed-error-4-solutions-for-immediate-activation/"><u>Fixing 'iPhone Update Needed' Error: 4 Solutions for Immediate Activation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-guidelines-to-frame-your-youtube-creation-flow/"><u>In 2024, Guidelines to Frame Your YouTube Creation Flow</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/latest-netgear-security-passwords-guide-updated-july-2024/"><u>Latest NETGEAR Security Passwords Guide – Updated July 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/logiciel-kingston-datarescue-recuperation-gratuite-des-donnees-et-outils-optimises-pour-le-datatraveler/"><u>Logiciel Kingston DataRescue : Récupération Gratuite Des Données Et Outils Optimisés Pour Le DataTraveler</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mastering-folder-synchronization-how-to-create-a-seamless-dropbox-mirror-on-various-versions-of-windows/"><u>Mastering Folder Synchronization: How to Create a Seamless Dropbox Mirror on Various Versions of Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-best-chatbot-for-you-an-in-depth-look-at-google-bard-vs-bing-chat/"><u>The Best Chatbot for You: An In-Depth Look at Google Bard Vs. Bing Chat</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211106530-9781960861603-the-gift-of-depression/"><u>The Gift of Depression | Free Book</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-rated-photo-design-software-can-you-trust-flipbuilder/"><u>Top Rated Photo Design Software: Can You Trust FlipBuilder?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-techniques-for-optimizing-chrome-a-guide-to-managing-high-memory-consumption-in-13-easy-steps/"><u>Top Techniques for Optimizing Chrome: A Guide to Managing High Memory Consumption in 13 Easy Steps</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-selection-of-the-finest-ssd-duplication-programs-with-comprehensive-copying-manual/"><u>Ultimate Selection of the Finest SSD Duplication Programs with Comprehensive Copying Manual</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728502599194-usbsd/"><u>USBメモリ対SDカード:特長を見比べて最適な選択を解明する</u></a></li>
 </ul></div>
 

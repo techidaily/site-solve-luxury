@@ -1,7 +1,7 @@
 ---
 title: Comment Retrouver Vos Informations Dans Un HDD NAS Synology Endommagé?
-date: 2025-01-09T17:23:38.554Z
-updated: 2025-01-11T22:59:44.110Z
+date: 2025-02-25T03:17:07.500Z
+updated: 2025-03-03T21:31:02.160Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf760faf0d85aa4162c1de5de.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -64,10 +60,6 @@ In a word, if you want to make an image back for your computer or want to clone 
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Image Your Computer with Norton Ghost
 
 1\. Install Norton Ghost and open it. It will run a step-by-step wizard the first time you open it. At last, you will see the **Easy Setup** interface where you can create a backup at once. You can also click the **Cancel** option and set the backup task later.
@@ -84,10 +76,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
 4\. Finally, click **OK** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -109,10 +97,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
 ### Clone Disk with Norton Ghost
@@ -122,10 +106,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -184,19 +164,11 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -241,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -265,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -276,10 +240,6 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -298,20 +258,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-essential-first-timer-props-for-gopros/"><u>[Updated] 2024 Approved Essential First-Timer Props for GoPros</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-10-0xc00-cuase-error-code/"><u>如何解決 Windows 10 0Xc00 Cuase Error Code和進行系统備份：深度指南</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-chatbot-realities-revealed-uncovering-and-busting-9-common-myths/"><u>AI Chatbot Realities Revealed: Uncovering and Busting 9 Common Myths</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/comment-retrouver-les-informations-dun-hdd-externe-lacie/"><u>Comment Retrouver Les Informations D'un HDD Externe Lacie ?</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/datastore-removal-error-cant-unmount-due-to-active-usage/"><u>Datastore Removal Error: Can't Unmount Due to Active Usage</u></a></li>
-<li><a href="https://media-tips.techidaily.com/entschlusseln-sie-die-kunst-der-fehlerbehebung-bei-4k-videoabspielproblemen-auf-verschiedenen-plattformen-pcmacmobil/"><u>Entschlüsseln Sie Die Kunst Der Fehlerbehebung Bei 4K-Videoabspielproblemen Auf Verschiedenen Plattformen: PC/Mac/Mobil</u></a></li>
-<li><a href="https://common-error.techidaily.com/instant-remedies-to-combat-unresponsive-keyboards/"><u>Instant Remedies to Combat Unresponsive Keyboards</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/instructions-detaillees-pour-changer-un-hdd-par-un-ssd-sous-windows-11-guide-doptimisation/"><u>Instructions Détaillées Pour Changer Un HDD Par Un SSD Sous Windows 11 : Guide D'Optimisation</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/kopieren-ihrer-festplatte-in-windows-10-64-bit-effektiv-und-einfach-verstehen/"><u>Kopieren Ihrer Festplatte in Windows 10 (64-Bit) Effektiv Und Einfach Verstehen</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-memory-management-executables-impact-on-your-pc-windows-10/"><u>Optimizing Memory Management Executable's Impact on Your PC [WINDOWS 10]</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-how-to-rectify-zero-x-eight-oh-three-one-f-errors/"><u>Quick Guide: How To Rectify Zero X Eight Oh Three One F Errors</u></a></li>
-<li><a href="https://win-unique.techidaily.com/reconfigure-print-devices-with-ease-the-ultimate-yl-software-tutorial/"><u>Reconfigure Print Devices with Ease - The Ultimate YL Software Tutorial</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/recupera-tutto-il-contenuto-eliminato-3-fasi-per-restaurare-da-spambin/"><u>Recupera Tutto Il Contenuto Eliminato: 3 Fasi per Restaurare Da Spambin -</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/streamline-your-seminars-economical-tech-tips-for-2024/"><u>Streamline Your Seminars Economical Tech Tips for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728506944628-404/"><u>ページ検索失敗: 404 エラーに気づく方法と解決策</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-innovative-mac-live-streaming-options-ranked-1-5/"><u>[New] 2024 Approved Innovative Mac Live Streaming Options Ranked #1-5</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-music-on-the-move-top-10-vids-dominating-fb-feed/"><u>[New] In 2024, Music on the Move Top 10 Vids Dominating FB Feed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[Updated] 2024 Approved Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-step-up-your-instagram-game-with-these-highest-rated-grid-makers/"><u>[Updated] In 2024, Step Up Your Instagram Game with These Highest-Rated Grid Makers</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-guide-to-transforming-kindle-ebooks-into-secure-pdf-formats-complete-and-infallible-instructions/"><u>Effortless Guide to Transforming Kindle eBooks Into Secure PDF Formats – Complete and Infallible Instructions</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-transition-of-reads-how-to-import-ebooks-into-your-ipads-kindle-application/"><u>Effortless Transition of Reads: How to Import eBooks Into Your iPad's Kindle Application</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/fixing-the-mystery-how-to-retrieve-vanished-kindle-ebooks-on-your-amazon-firestick/"><u>Fixing the Mystery: How to Retrieve Vanished Kindle Ebooks on Your Amazon Firestick</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-free-up-your-kindle-ebooks-steps-for-a-drm-free-library/"><u>How to Free Up Your Kindle Ebooks: Steps for a DRM-Free Library</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-install-and-use-instagram-app-on-your-kindle-fire-tablet/"><u>How to Install and Use Instagram App on Your Kindle Fire Tablet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nubia-z50-ultra-by-drfone-android/"><u>How to Show Wi-Fi Password on Nubia Z50 Ultra</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-tape-to-digital-mastering-the-vhs-effect-in-fcp/"><u>In 2024, From Tape to Digital Mastering the VHS Effect in FCP</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/is-it-possible-to-read-kindle-unlimited-titles-with-the-epubor-ultimate-app/"><u>Is It Possible to Read Kindle Unlimited Titles with the Epubor Ultimate App?</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/locating-your-synchronized-books-a-step-by-step-guide-to-finding-amazon-kindle-files-on-a-mac/"><u>Locating Your Synchronized Books: A Step-by-Step Guide to Finding Amazon Kindle Files on a Mac</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/resolve-your-computers-disk-mistakes-quickly-using-yl-systems-expertise/"><u>Resolve Your Computer's Disk Mistakes Quickly Using YL Systems Expertise</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-transforming-your-epub-files-into-compatible-mobi-format-on-a-mac/"><u>Step-by-Step Guide: Transforming Your EPUB Files Into Compatible MOBI Format on a Mac</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/the-ultimate-guide-to-removing-drm-protection-on-epub-formatted-books/"><u>The Ultimate Guide to Removing DRM Protection on ePub-Formatted Books</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/understanding-the-differences-between-sonys-flagship-consoles-ps5-and-ps5-slim-models/"><u>Understanding the Differences Between Sony's Flagship Consoles: PS5 and PS5 Slim Models</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-art-of-initiating-audio-level-decrease-with-ease-for-2024/"><u>Updated The Art of Initiating Audio Level Decrease with Ease for 2024</u></a></li>
 </ul></div>
 

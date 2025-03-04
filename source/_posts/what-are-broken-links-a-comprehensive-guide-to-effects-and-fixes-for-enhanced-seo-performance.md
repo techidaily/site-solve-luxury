@@ -1,7 +1,7 @@
 ---
 title: What Are Broken Links? A Comprehensive Guide to Effects & Fixes for Enhanced SEO Performance
-date: 2025-02-10T23:15:05.074Z
-updated: 2025-02-13T04:09:09.576Z
+date: 2025-03-02T03:30:45.302Z
+updated: 2025-03-03T18:21:46.732Z
 tags:
   - wiki
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Broken link
 
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
    * [Setting up a custom 404 page](https://tools.techidaily.com/link-assistant/products/)
 * [Related links](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Broken link definition
 
@@ -66,10 +58,6 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 ![site can't be reached message](https://cdn1.link-assistant.com/thumbs/w1073-c1/upload/seowiki/posts/28/bl1.png)
 * **502 (bad gateway)**. A server received an invalid response because it was crushed;
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Reset**. A server dropped connections because it was misconfigured or too busy.
 
 ## Broken links’ meaning for SEO
@@ -79,10 +67,6 @@ Broken links themselves do not directly affect your performance in search. Still
 ### Outgoing broken links
 
 Broken links harm user experience and increase bounce rate, which will surely affect your site traffic. Besides, broken links result in incomplete content, as users cannot access the information they may need. What’s more, Google Quality Rater Guidelines say[\[2\]](https://tools.techidaily.com/link-assistant/products/) that Google watches the number of broken links to determine if the site is spammy or was abandoned. And if yes, Google may start deindexing the site.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Incoming broken links
 
@@ -103,10 +87,6 @@ If a link is broken because of server issues, then it is the server that needs f
 ### Setting up a custom 404 page
 
 Sometimes a page is moved without any alternative. In this case, you should not redirect users to your homepage but set up a custom 404 page. It should include some navigation links that may be interesting for users. Custom 404s are not indexed by Google and are needed to keep users on your site and decrease bounce rate.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related links
 
@@ -133,22 +113,22 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-accelerated-fortnite-visualization-steps/"><u>[Updated] 2024 Approved Accelerated Fortnite Visualization Steps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-begin-with-vrecorder-seamless-downloads-and-installs/"><u>[Updated] In 2024, Begin with VRecorder Seamless Downloads and Installs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-drive-subscriptions-upward-through-effective-youtube-branding/"><u>[Updated] In 2024, Drive Subscriptions Upward Through Effective YouTube Branding</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-finding-your-voice-on-youtube-a-guide-to-selective-audiences/"><u>[Updated] In 2024, Finding Your Voice on YouTube A Guide to Selective Audiences</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screen-capture-mastery-a-closer-look-at-recmeister-tech/"><u>[Updated] In 2024, Screen Capture Mastery A Closer Look at Recmeister Tech</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/5-simple-strategies-to-grow-your-email-subscribers-with-massmail-a-comprehensive-guide/"><u>5 Simple Strategies to Grow Your Email Subscribers with MassMail: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/airdrop-fehlerbehebung-fur-iphone-modelle-ab-version-14-lernen-sie-hier-6-tipps-kennen/"><u>AirDrop Fehlerbehebung Für iPhone-Modelle Ab Version 14 - Lernen Sie Hier 6 Tipps Kennen!</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/dell-installieren-sie-eine-partition-zur-windows-version-11-reinstallation-und-zurucksetzung-auf-werkseinstellungen/"><u>Dell - Installieren Sie Eine Partition Zur Windows-Version 11 Reinstallation Und Zurücksetzung Auf Werkseinstellungen</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/determining-ideal-hard-drive-capacity-for-robust-malware-defense-systems/"><u>Determining Ideal Hard Drive Capacity for Robust Malware Defense Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-13-mini-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 13 mini without Apple Account</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-top-8-montage-apps-for-your-androidiphone/"><u>In 2024, Top 8 Montage Apps for Your Android/iPhone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/leading-seo-firms-in-muscat-oman-enhance-your-digital-visibility-with-seo-expertise/"><u>Leading SEO Firms in Muscat, Oman: Enhance Your Digital Visibility with SEO Expertise</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/losungsansatze-fur-die-update-fehlercode-0x80070422-in-windows-11-top-5-tipps-und-tricks/"><u>Lösungsansätze Für Die Update-Fehlercode 0X80070422 in Windows 11: Top 5 Tipps Und Tricks</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/preserve-your-digital-memories-effective-tips-for-leveraging-ntbackup-in-windows-versions-11-8-and-7/"><u>Preserve Your Digital Memories: Effective Tips for Leveraging NTBackup in Windows Versions (11, 8, and 7)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/they-are-well-suited-for-high-viscosity-fluids-and-maintain-performance-under-varying-pressures/"><u>They Are Well-Suited for High Viscosity Fluids and Maintain Performance Under Varying Pressures</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/unlock-successful-mobile-marketing-tactics-debunking-key-myths-and-embracing-proven-techniques-for-email-excellence-using-massmail-tools/"><u>Unlock Successful Mobile Marketing Tactics: Debunking Key Myths and Embracing Proven Techniques for Email Excellence Using Massmail Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-effective-method-for-personalizing-fb-page-coverage/"><u>[Updated] In 2024, Effective Method for Personalizing FB Page Coverage</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-master-the-art-of-editing-your-tiktok-number/"><u>[Updated] In 2024, Master the Art of Editing Your TikTok Number</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-snapshots-of-sound-characters-short-musical-roles/"><u>[Updated] In 2024, Snapshots of Sound Characters Short Musical Roles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-simplify-your-remote-meetings-integrating-skype-and-zoom-for-2024/"><u>[Updated] Simplify Your Remote Meetings Integrating Skype and Zoom for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-into-better-imaging-with-these-gopro-extras/"><u>[Updated] Step Into Better Imaging with These GoPro Extras</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-stay-ahead-of-the-curve-top-strategies-for-tracking-blockchain-innovation-insights-by-yl-tech/"><u>1. Stay Ahead of the Curve: Top Strategies for Tracking Blockchain Innovation - Insights by YL Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-screen-partnership-contracts-downloadable/"><u>2024 Approved Screen Partnership Contracts, Downloadable</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-green-screen-revolution-access-comprehensive-tutorials-from-4-leading-youtube-educators/"><u>2024 Approved The Green Screen Revolution Access Comprehensive Tutorials From 4 Leading YouTube Educators</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/chinas-cultural-revolution-explained-insights-and-historical-analysis-from-yl-innovations/"><u>China’s Cultural Revolution Explained: Insights and Historical Analysis From YL Innovations</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/confirmation-steps-for-reliable-file-restoration-with-expert-advice-from-yl-software/"><u>Confirmation Steps for Reliable File Restoration with Expert Advice From YL Software</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/cryptocurrency-transactions-simplified-purchase-exchange-and-storage-tips-by-yl-computing/"><u>Cryptocurrency Transactions Simplified: Purchase, Exchange & Storage Tips - By YL Computing</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-can-you-repair-an-internal-hardware-malfunction-in-your-scanner-insights-from-yl-computing/"><u>How Can You Repair an Internal Hardware Malfunction in Your Scanner? Insights From YL Computing</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/network-configuration-guide-expert-tips-from-yl-computings-best-practices/"><u>Network Configuration Guide: Expert Tips From YL Computing's Best Practices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/precision-in-ppt-recording-a-comprehensive-guide/"><u>Precision in PPT Recording A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reel-in-quality-essential-audio-devices-for-podcast-producers-for-2024/"><u>Reel in Quality Essential Audio Devices for Podcast Producers for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/resolving-windows-scanner-issues-expert-advice-from-yl-computing/"><u>Resolving Windows Scanner Issues: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-mastering-the-art-of-duplicating-pdfs-with-yl-computing-tools/"><u>Step-by-Step Guide: Mastering the Art of Duplicating PDFs with YL Computing Tools</u></a></li>
 </ul></div>
 
